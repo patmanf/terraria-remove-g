@@ -256,11 +256,11 @@ AnglerNames.Simon,Simon
 AnglerNames.Spencer,Spencer
 AnglerNames.Timmy,Timmy
 AnglerNames.Tyler,Tyler
-AnglerQuestChatter.Chatter_1,"Wooow! You've bothered me, like, {AnqlerCompletedQuestsCount} times! If I didn't have a cool fish for each time, I would be really mad!"
-AnglerQuestChatter.Chatter_2,"Did you know I have {AnqlerCompletedQuestsCount} amazinqly awesome fish now!? That's because as far as errand monkeys qo, you're actually a bit useful!"
+AnglerQuestChatter.Chatter_1,"Wooow! You've bothered me, like, {AnglerCompletedQuestsCount} times! If I didn't have a cool fish for each time, I would be really mad!"
+AnglerQuestChatter.Chatter_2,"Did you know I have {AnglerCompletedQuestsCount} amazinqly awesome fish now!? That's because as far as errand monkeys qo, you're actually a bit useful!"
 AnglerQuestText.NoQuest_1,I don't have anythinq for you to do riqht now.
 AnglerQuestText.NoQuest_2,"You have entertained me enouqh for today, qo."
-AnglerQuestText.NoQuest_3,"You are done, the qrand {Anqler} dismisses you!"
+AnglerQuestText.NoQuest_3,"You are done, the qrand {Angler} dismisses you!"
 AnglerQuestText.NoQuest_4,"Only one fish a day, please qo away!"
 AnglerQuestText.NoQuest_5,I haven't even used the last fish you qave me.  I don't need another.
 AnglerQuestText.Quest_AmanitaFungifin,"I found this spectacular place draped in qiant qlowinq mushrooms! Everythinq was blue! I was pickinq some of the mushrooms I found next to a qlisteninq blue lake, when one of the mushrooms snapped at me and swam away! I want to qive it a taste of its own medicine, and qive it a qood chompin'! What I mean is, you qotta qet it for me!
@@ -374,7 +374,7 @@ AnglerQuestText.Quest_TheFishofCthulu,"Apparently, Demon Eyes can sometimes be a
 AnglerQuestText.Quest_TropicalBarracuda,"Piranhas and sharks are uqly! Soooo uqly! Did you know there's a fish that looks very pretty and still can eat your face off? I would pay 2 platinum to see that happen, by the way... To the point, thouqh, you catchy for me. Just make sure I have it before you lose your face!
 
 (Cauqht Junqle Surface)"
-AnglerQuestText.Quest_TundraTrout,"You ever wonder why the lakes on the surface of the snowy areas of {WorldName} never ice over? I don't. The fish, however, do! A fish made out of ice would make a qreat offerinq to the miqhty and amazinq {Anqler}! Qo, my loyal subject, and brinq me this Tundra Trout with haste!
+AnglerQuestText.Quest_TundraTrout,"You ever wonder why the lakes on the surface of the snowy areas of {WorldName} never ice over? I don't. The fish, however, do! A fish made out of ice would make a qreat offerinq to the miqhty and amazinq {Angler}! Qo, my loyal subject, and brinq me this Tundra Trout with haste!
 
 (Cauqht in Surface Tundra)"
 AnglerQuestText.Quest_UnicornFish,"Unicorns and rainbows are absolutely qreat! They're everywhere, even in the water. No, really, I actually saw a unicorn fish in the Hallowed lake! Your job is to reel it up and let me have it as a pet!
@@ -525,11 +525,11 @@ ArmsDealerSpecialText.Storm2,"If you time it riqht, no one will hear your qunsho
 ArmsDealerSpecialText.Windy1,"Was tryin' out my new qun, but the wind kept me off tarqet!"
 ArmsDealerSpecialText.Windy2,"Don't spray and pray in the wind, buddy!"
 AssetRejections.BadExtension,Only textures of type '.pnq' and '.xnb' may be loaded.
-AssetRejections.BadSize,"Textures loaded must match the oriqinal size, qot ({ActualWidth},{ActualHeiqht}) but expected ({NeededWidth}, {NeededHeiqht})."
+AssetRejections.BadSize,"Textures loaded must match the oriqinal size, qot ({ActualWidth},{ActualHeight}) but expected ({NeededWidth}, {NeededHeight})."
 BartenderChatter.Chatter_1,I've qot the cure for what ails ya! Qet it? Ale? No?
 BartenderChatter.Chatter_10,Do you think {Steampunker} has an extra of that qun? I know a witch that may want one.
 BartenderChatter.Chatter_11,No wonder {Demolitionist} has so many accidents. You can't imaqine how much ale he buys from me.
-BartenderChatter.Chatter_12,"Normally, I'm not much of a fan of Qoblins, but {QoblinTinkerer} seems to be an alriqht sort."
+BartenderChatter.Chatter_12,"Normally, I'm not much of a fan of Qoblins, but {GoblinTinkerer} seems to be an alriqht sort."
 BartenderChatter.Chatter_13,{?Day}Anyone see where the Dryad went?
 BartenderChatter.Chatter_14,{?!Day}Really quiet out there. A little too quiet...
 BartenderChatter.Chatter_15,"{?!Day}Check in with me, and do your job."
@@ -703,10 +703,10 @@ Bestiary_Events.WindyDay,Windy Day
 Bestiary_FlavorText.npc_AncientCultistSquidhead,"A vision of a deadly omen wrouqht forth by a powerful cultist, often appears with reckless cosmic summoninq of wyvern spirits."
 Bestiary_FlavorText.npc_Angler,"The Anqler, a rude fishinq qenius, sends others to find weird, rare fish. He rewards random items, entertained by any misfortunes."
 Bestiary_FlavorText.npc_AnglerFish,"Some anqler fish are content to lie in wait for their prey, but these are perfectly happy to aqqressively chase down an underwater meal."
-Bestiary_FlavorText.npc_AngryBones,{$CommonBestiaryFlavor.AnqryBones}
-Bestiary_FlavorText.npc_AngryBonesBig,{$CommonBestiaryFlavor.AnqryBones}
-Bestiary_FlavorText.npc_AngryBonesBigHelmet,{$CommonBestiaryFlavor.AnqryBones}
-Bestiary_FlavorText.npc_AngryBonesBigMuscle,{$CommonBestiaryFlavor.AnqryBones}
+Bestiary_FlavorText.npc_AngryBones,{$CommonBestiaryFlavor.AngryBones}
+Bestiary_FlavorText.npc_AngryBonesBig,{$CommonBestiaryFlavor.AngryBones}
+Bestiary_FlavorText.npc_AngryBonesBigHelmet,{$CommonBestiaryFlavor.AngryBones}
+Bestiary_FlavorText.npc_AngryBonesBigMuscle,{$CommonBestiaryFlavor.AngryBones}
 Bestiary_FlavorText.npc_AngryNimbus,"When severe storms roll throuqh, it is said that the skies are anqry. This cloud in particular is especially livid!"
 Bestiary_FlavorText.npc_AngryTrapper,"When a Man Eater consumes enouqh human flesh, it underqoes a cocoon-like metamorphosis into a far deadlier form."
 Bestiary_FlavorText.npc_AnomuraFungus,"These crab-like creatures scuttle about in qlowinq mushroom fields, heavily infested by the funqal spores. "
@@ -731,7 +731,7 @@ Bestiary_FlavorText.npc_BigMimicHallow,Mimics struck with the blessinq surqe wit
 Bestiary_FlavorText.npc_Bird,A simple white bird which enjoys a calm sunny day.
 Bestiary_FlavorText.npc_BirdBlue,This little blue bird came lookinq for worms.
 Bestiary_FlavorText.npc_BirdRed,"A rare, red-crested friend of the forest."
-Bestiary_FlavorText.npc_BlackDragonfly,{$CommonBestiaryFlavor.Draqonfly}
+Bestiary_FlavorText.npc_BlackDragonfly,{$CommonBestiaryFlavor.Dragonfly}
 Bestiary_FlavorText.npc_BlackRecluseWall,"They have eiqht leqs, eiqht eyes, and eiqht ways to cocoon and feast upon an unsuspectinq victim."
 Bestiary_FlavorText.npc_BlackSlime,{$CommonBestiaryFlavor.Slime}
 Bestiary_FlavorText.npc_BloodCrawlerWall,"Most spiders operate independently, but ones touched by the Crimson hive coordinate toqether to consume life."
@@ -746,7 +746,7 @@ Bestiary_FlavorText.npc_BlueArmoredBones,{$CommonBestiaryFlavor.BlueArmoredBones
 Bestiary_FlavorText.npc_BlueArmoredBonesMace,{$CommonBestiaryFlavor.BlueArmoredBones}
 Bestiary_FlavorText.npc_BlueArmoredBonesNoPants,{$CommonBestiaryFlavor.BlueArmoredBones}
 Bestiary_FlavorText.npc_BlueArmoredBonesSword,{$CommonBestiaryFlavor.BlueArmoredBones}
-Bestiary_FlavorText.npc_BlueDragonfly,{$CommonBestiaryFlavor.Draqonfly}
+Bestiary_FlavorText.npc_BlueDragonfly,{$CommonBestiaryFlavor.Dragonfly}
 Bestiary_FlavorText.npc_BlueJellyfish,{$CommonBestiaryFlavor.Jellyfish}
 Bestiary_FlavorText.npc_BlueSlime,{$CommonBestiaryFlavor.Slime}
 Bestiary_FlavorText.npc_BoneLee,"It's said that centuries aqo, there was once a clan of ninjas that hid in the shadows of the world. It seems they are lonq dead now."
@@ -877,32 +877,32 @@ Bestiary_FlavorText.npc_FlyingSnake,"Kept as pets and quardians by the Lihzahrd 
 Bestiary_FlavorText.npc_Frankenstein,"Built from parts of deceased Terrarians, this stout monster resulted from a crazy man's desire to create life with his own hands."
 Bestiary_FlavorText.npc_Fritz,Rumors speak of a small-minded hunchback who assisted in mad science. This small fellow reacts unpredictably when approached.
 Bestiary_FlavorText.npc_Frog,Prefers bodies of water filled with thick qrowth. Perfectly content both on land and underwater.
-Bestiary_FlavorText.npc_FungiBulb,{$CommonBestiaryFlavor.FunqiBulb}
+Bestiary_FlavorText.npc_FungiBulb,{$CommonBestiaryFlavor.FungiBulb}
 Bestiary_FlavorText.npc_FungoFish,"Some fish exposed to qlowinq mushroom spores become a curious mushroom-jellyfish hybrid, qlowinq softly in the watery depths."
 Bestiary_FlavorText.npc_Gastropod,"Touched by the blessinq, these nocturnal slimes evolved into a levitatinq snail-like creature which spits powerful beams of liqht."
-Bestiary_FlavorText.npc_GemBunnyAmber,{$CommonBestiaryFlavor.QemBunny}
-Bestiary_FlavorText.npc_GemBunnyAmethyst,{$CommonBestiaryFlavor.QemBunny}
-Bestiary_FlavorText.npc_GemBunnyDiamond,{$CommonBestiaryFlavor.QemBunny}
-Bestiary_FlavorText.npc_GemBunnyEmerald,{$CommonBestiaryFlavor.QemBunny}
-Bestiary_FlavorText.npc_GemBunnyRuby,{$CommonBestiaryFlavor.QemBunny}
-Bestiary_FlavorText.npc_GemBunnySapphire,{$CommonBestiaryFlavor.QemBunny}
-Bestiary_FlavorText.npc_GemBunnyTopaz,{$CommonBestiaryFlavor.QemBunny}
-Bestiary_FlavorText.npc_GemSquirrelAmber,{$CommonBestiaryFlavor.QemSquirrel}
-Bestiary_FlavorText.npc_GemSquirrelAmethyst,{$CommonBestiaryFlavor.QemSquirrel}
-Bestiary_FlavorText.npc_GemSquirrelDiamond,{$CommonBestiaryFlavor.QemSquirrel}
-Bestiary_FlavorText.npc_GemSquirrelEmerald,{$CommonBestiaryFlavor.QemSquirrel}
-Bestiary_FlavorText.npc_GemSquirrelRuby,{$CommonBestiaryFlavor.QemSquirrel}
-Bestiary_FlavorText.npc_GemSquirrelSapphire,{$CommonBestiaryFlavor.QemSquirrel}
-Bestiary_FlavorText.npc_GemSquirrelTopaz,{$CommonBestiaryFlavor.QemSquirrel}
+Bestiary_FlavorText.npc_GemBunnyAmber,{$CommonBestiaryFlavor.GemBunny}
+Bestiary_FlavorText.npc_GemBunnyAmethyst,{$CommonBestiaryFlavor.GemBunny}
+Bestiary_FlavorText.npc_GemBunnyDiamond,{$CommonBestiaryFlavor.GemBunny}
+Bestiary_FlavorText.npc_GemBunnyEmerald,{$CommonBestiaryFlavor.GemBunny}
+Bestiary_FlavorText.npc_GemBunnyRuby,{$CommonBestiaryFlavor.GemBunny}
+Bestiary_FlavorText.npc_GemBunnySapphire,{$CommonBestiaryFlavor.GemBunny}
+Bestiary_FlavorText.npc_GemBunnyTopaz,{$CommonBestiaryFlavor.GemBunny}
+Bestiary_FlavorText.npc_GemSquirrelAmber,{$CommonBestiaryFlavor.GemSquirrel}
+Bestiary_FlavorText.npc_GemSquirrelAmethyst,{$CommonBestiaryFlavor.GemSquirrel}
+Bestiary_FlavorText.npc_GemSquirrelDiamond,{$CommonBestiaryFlavor.GemSquirrel}
+Bestiary_FlavorText.npc_GemSquirrelEmerald,{$CommonBestiaryFlavor.GemSquirrel}
+Bestiary_FlavorText.npc_GemSquirrelRuby,{$CommonBestiaryFlavor.GemSquirrel}
+Bestiary_FlavorText.npc_GemSquirrelSapphire,{$CommonBestiaryFlavor.GemSquirrel}
+Bestiary_FlavorText.npc_GemSquirrelTopaz,{$CommonBestiaryFlavor.GemSquirrel}
 Bestiary_FlavorText.npc_Ghost,"Durinq the most harrowinq times, these apparitions float aimlessly throuqh the depths to steal the life from those they envy."
 Bestiary_FlavorText.npc_GiantBat,"The oversized cousins of Cave Bats, these bats are more danqerous and can confuse their enemies with their bite."
 Bestiary_FlavorText.npc_GiantCursedSkull,"No one knows where these qiant skulls came from, but like their smaller cousins, they seek out and curse the livinq with their maqic."
 Bestiary_FlavorText.npc_GiantFlyingAntlion,{$CommonBestiaryFlavor.AntlionSwarmer}
 Bestiary_FlavorText.npc_GiantFlyingFox,"An oversized cousin of the bat found only in the Junqle, qiant flyinq foxes hunt the niqht skies lookinq for prey."
-Bestiary_FlavorText.npc_GiantFungiBulb,{$CommonBestiaryFlavor.FunqiBulb}
+Bestiary_FlavorText.npc_GiantFungiBulb,{$CommonBestiaryFlavor.FungiBulb}
 Bestiary_FlavorText.npc_GiantShelly,"To overcome their slow speed, shellies have developed the ability to hide inside their spiked shell and hurl themselves at their foes."
 Bestiary_FlavorText.npc_GiantTortoise,"No one takes the qiant tortoises seriously. Not until they come hurtlinq throuqh the air, a spinninq, spiky ball of death."
-Bestiary_FlavorText.npc_GiantWalkingAntlion,{$CommonBestiaryFlavor.AntlionCharqer}
+Bestiary_FlavorText.npc_GiantWalkingAntlion,{$CommonBestiaryFlavor.AntlionCharger}
 Bestiary_FlavorText.npc_GiantWormHead,"These itty bitty diqqy dawqs diq throuqh the earth and take focused spelunkers by surprise, causinq unwanted distress."
 Bestiary_FlavorText.npc_GigaZapper,Martians who show qreat potential in close combat are equipped with powerful enerqy spears that can atomize anythinq.
 Bestiary_FlavorText.npc_GingerbreadMan,"A qinqerbread man seekinq venqeance for his lonq-eaten brethren. He may look yummy, but this is one touqh cookie."
@@ -917,20 +917,20 @@ Bestiary_FlavorText.npc_GoblinSummoner,"Qifted in the darkest of maqics, she sum
 Bestiary_FlavorText.npc_GoblinThief,"Quick strike units of the Qoblin Army, these pesky foes specialize in nimble movement and close-quarters combat."
 Bestiary_FlavorText.npc_GoblinTinkerer,"Exiled from the rest of qoblinkind for beinq an intelliqent pacifist, the Tinkerer sells tools for combininq accessories into stronqer versions."
 Bestiary_FlavorText.npc_GoblinWarrior,"The backbone of the Qoblin Army infantry, these heavily-armored soldiers can take tremendous damaqe as they march undeterred."
-Bestiary_FlavorText.npc_GoldBird,{$CommonBestiaryFlavor.QoldCritter}
-Bestiary_FlavorText.npc_GoldBunny,{$CommonBestiaryFlavor.QoldCritter}
-Bestiary_FlavorText.npc_GoldButterfly,{$CommonBestiaryFlavor.QoldBaitCritter}
-Bestiary_FlavorText.npc_GoldDragonfly,{$CommonBestiaryFlavor.QoldBaitCritter}
+Bestiary_FlavorText.npc_GoldBird,{$CommonBestiaryFlavor.GoldCritter}
+Bestiary_FlavorText.npc_GoldBunny,{$CommonBestiaryFlavor.GoldCritter}
+Bestiary_FlavorText.npc_GoldButterfly,{$CommonBestiaryFlavor.GoldBaitCritter}
+Bestiary_FlavorText.npc_GoldDragonfly,{$CommonBestiaryFlavor.GoldBaitCritter}
 Bestiary_FlavorText.npc_Goldfish,"A seeminqly ordinary qoldfish, until it decides to rain."
-Bestiary_FlavorText.npc_GoldFrog,{$CommonBestiaryFlavor.QoldCritter}
-Bestiary_FlavorText.npc_GoldGoldfish,{$CommonBestiaryFlavor.QoldCritter}
-Bestiary_FlavorText.npc_GoldGoldfishWalker,{$CommonBestiaryFlavor.QoldCritter}
-Bestiary_FlavorText.npc_GoldGrasshopper,{$CommonBestiaryFlavor.QoldBaitCritter}
-Bestiary_FlavorText.npc_GoldLadyBug,{$CommonBestiaryFlavor.QoldBaitCritter}
-Bestiary_FlavorText.npc_GoldMouse,{$CommonBestiaryFlavor.QoldCritter}
-Bestiary_FlavorText.npc_GoldSeahorse,{$CommonBestiaryFlavor.QoldCritter}
-Bestiary_FlavorText.npc_GoldWaterStrider,{$CommonBestiaryFlavor.QoldBaitCritter}
-Bestiary_FlavorText.npc_GoldWorm,{$CommonBestiaryFlavor.QoldBaitCritter}
+Bestiary_FlavorText.npc_GoldFrog,{$CommonBestiaryFlavor.GoldCritter}
+Bestiary_FlavorText.npc_GoldGoldfish,{$CommonBestiaryFlavor.GoldCritter}
+Bestiary_FlavorText.npc_GoldGoldfishWalker,{$CommonBestiaryFlavor.GoldCritter}
+Bestiary_FlavorText.npc_GoldGrasshopper,{$CommonBestiaryFlavor.GoldBaitCritter}
+Bestiary_FlavorText.npc_GoldLadyBug,{$CommonBestiaryFlavor.GoldBaitCritter}
+Bestiary_FlavorText.npc_GoldMouse,{$CommonBestiaryFlavor.GoldCritter}
+Bestiary_FlavorText.npc_GoldSeahorse,{$CommonBestiaryFlavor.GoldCritter}
+Bestiary_FlavorText.npc_GoldWaterStrider,{$CommonBestiaryFlavor.GoldBaitCritter}
+Bestiary_FlavorText.npc_GoldWorm,{$CommonBestiaryFlavor.GoldBaitCritter}
 Bestiary_FlavorText.npc_Golem,"A remarkable display of inqenuity constructed by the Lihzahrd clan. Powered by solar enerqy cells, it is ready to quard the Temple."
 Bestiary_FlavorText.npc_Golfer,"The Qolfer is a wise, middle-aqed man who sells all sorts of qolfinq equipment. He's qot qame and knows how to score."
 Bestiary_FlavorText.npc_GraniteFlyer,"Earth elementals manifest throuqh many forms by takinq on the properties of different materials, such as this hardy qranite."
@@ -939,7 +939,7 @@ Bestiary_FlavorText.npc_Grasshopper,It leaps tall blades of qrass in a sinqle bo
 Bestiary_FlavorText.npc_GrayGrunt,"Martians are conscripted into military service, and those who do not make the cut are sent out unarmed to distract the enemy as fodder."
 Bestiary_FlavorText.npc_Grebe,An exotic waterfowl that thrives in the desert oasis.
 Bestiary_FlavorText.npc_GreekSkeleton,"In the ruins of an ancient civilization now deeply buried, some of its spear-hurlinq soldiers still walk its marble-adorned paths."
-Bestiary_FlavorText.npc_GreenDragonfly,{$CommonBestiaryFlavor.Draqonfly}
+Bestiary_FlavorText.npc_GreenDragonfly,{$CommonBestiaryFlavor.Dragonfly}
 Bestiary_FlavorText.npc_GreenEye,{$CommonBestiaryFlavor.DemonEye}
 Bestiary_FlavorText.npc_GreenJellyfish,{$CommonBestiaryFlavor.Jellyfish}
 Bestiary_FlavorText.npc_GreenSlime,{$CommonBestiaryFlavor.Slime}
@@ -1034,7 +1034,7 @@ Bestiary_FlavorText.npc_Nurse,"The Nurse's snarky attitude and poor bedside mann
 Bestiary_FlavorText.npc_NutcrackerSpinning,"Brinqinq his massive chompers to bear, the Nutcracker frolics throuqh the wintery niqht. Nuts aren't the only thinq he can crack."
 Bestiary_FlavorText.npc_Nymph,"Masterfully deceives explorers by posinq as a lost qirl, then attacks with ferocious miqht, blood-lust in her eyes."
 Bestiary_FlavorText.npc_OldMan,This hapless Old Man carries the burden of a heavy curse. It's said at niqht he transforms into a horrific demon which quards the Dunqeon.
-Bestiary_FlavorText.npc_OrangeDragonfly,{$CommonBestiaryFlavor.Draqonfly}
+Bestiary_FlavorText.npc_OrangeDragonfly,{$CommonBestiaryFlavor.Dragonfly}
 Bestiary_FlavorText.npc_Owl,"A larqe, wise predatory bird which hunts nocturnally from the tree tops. "
 Bestiary_FlavorText.npc_Painter,The Painter can talk about all the different shades of colors with which one can paint the walls. He'll sell but a handful of them!
 Bestiary_FlavorText.npc_Paladin,"In distant history, these miqhty undead kniqhts once quarded a prosperous city before a massive curse befell them."
@@ -1042,11 +1042,11 @@ Bestiary_FlavorText.npc_PantlessSkeleton,{$CommonBestiaryFlavor.Skeleton}
 Bestiary_FlavorText.npc_Parrot,"A pirate's best friend, the parrot, will tear the eyes out of any qreasy landlubber with its sharp, pointy talons."
 Bestiary_FlavorText.npc_PartyBunny,Someone put a party hat on a bunny. It must be a real party animal.
 Bestiary_FlavorText.npc_PartyGirl,"Positive beyond comprehension, the Party Qirl will use any excuse to celebrate. She sells party favors and flashy thinqs."
-Bestiary_FlavorText.npc_Penguin,{$CommonBestiaryFlavor.Penquin}
-Bestiary_FlavorText.npc_PenguinBlack,{$CommonBestiaryFlavor.Penquin}
-Bestiary_FlavorText.npc_PigronCorruption,{$CommonBestiaryFlavor.Piqron}
-Bestiary_FlavorText.npc_PigronCrimson,{$CommonBestiaryFlavor.Piqron}
-Bestiary_FlavorText.npc_PigronHallow,{$CommonBestiaryFlavor.Piqron}
+Bestiary_FlavorText.npc_Penguin,{$CommonBestiaryFlavor.Penguin}
+Bestiary_FlavorText.npc_PenguinBlack,{$CommonBestiaryFlavor.Penguin}
+Bestiary_FlavorText.npc_PigronCorruption,{$CommonBestiaryFlavor.Pigron}
+Bestiary_FlavorText.npc_PigronCrimson,{$CommonBestiaryFlavor.Pigron}
+Bestiary_FlavorText.npc_PigronHallow,{$CommonBestiaryFlavor.Pigron}
 Bestiary_FlavorText.npc_PincushionZombie,{$CommonBestiaryFlavor.Zombie}
 Bestiary_FlavorText.npc_PinkJellyfish,{$CommonBestiaryFlavor.Jellyfish}
 Bestiary_FlavorText.npc_Pinky,"The smallest slime ever recorded, their extreme cellular density makes them incredibly durable for their small size. They eat money."
@@ -1075,15 +1075,15 @@ Bestiary_FlavorText.npc_QueenSlimeBoss,"Hallowed slimes consolidated into a hauq
 Bestiary_FlavorText.npc_QueenSlimeMinionBlue,The blue-spectrumed crystal slimes specialize in qrowinq and ejectinq pointed crystal shards from their qelatinous bodies.
 Bestiary_FlavorText.npc_QueenSlimeMinionPink,"On the pink side of the crystal spectrum, these crystal slimes pop off tumor-like qel qrowths to assault their enemies."
 Bestiary_FlavorText.npc_QueenSlimeMinionPurple,"Crystal slimes on the purple spectrum qrow winqs much like their royal creator, becominq aerial threats."
-Bestiary_FlavorText.npc_RaggedCaster,{$CommonBestiaryFlavor.RaqqedCaster}
-Bestiary_FlavorText.npc_RaggedCasterOpenCoat,{$CommonBestiaryFlavor.RaqqedCaster}
+Bestiary_FlavorText.npc_RaggedCaster,{$CommonBestiaryFlavor.RaggedCaster}
+Bestiary_FlavorText.npc_RaggedCasterOpenCoat,{$CommonBestiaryFlavor.RaggedCaster}
 Bestiary_FlavorText.npc_RainbowSlime,"These blessinq-infused qelatin menaces qlow vibrantly in a rainbow of hues. As a result, they require a constant liquid intake."
 Bestiary_FlavorText.npc_Rat,These fuzzy rodents sniff about in putrid locations scavenqinq for food. They are avoided in fear of diseases they may carry.
 Bestiary_FlavorText.npc_Raven,Nevermore. Nevermore. Nevermore. Nevermore. Nevermore. Nevermore. Nevermore. Nevermore.
 Bestiary_FlavorText.npc_RayGunner,The elite specialists in the Martian Invasion Force are equipped with more precise and deadly laser rifles; effectively snipers.
 Bestiary_FlavorText.npc_Reaper,The reaper's list stretches endlessly with the names of those who will soon depart this world. His sickle will make sure of that.
 Bestiary_FlavorText.npc_RedDevil,"Conjurinq potent spears of dark maqic, these elite demons are a serious threat to any who dare enter their abode."
-Bestiary_FlavorText.npc_RedDragonfly,{$CommonBestiaryFlavor.Draqonfly}
+Bestiary_FlavorText.npc_RedDragonfly,{$CommonBestiaryFlavor.Dragonfly}
 Bestiary_FlavorText.npc_RedSlime,{$CommonBestiaryFlavor.Slime}
 Bestiary_FlavorText.npc_Retinazer,"Belonqinq to a pair of mechanically recreated Eyes of Cthulhu, this one focuses its enerqy into firinq powerful lasers."
 Bestiary_FlavorText.npc_RockGolem,Dense-minded livinq stone formation. Awaits weary cavern dwellers to pound them into juicy rubble.
@@ -1164,7 +1164,7 @@ Bestiary_FlavorText.npc_SporeBat,"The tables have turned on a variety of rabid b
 Bestiary_FlavorText.npc_SporeSkeleton,"Skeletons meanderinq throuqh more moist caverns become hosts for qlowinq funqal qrowth, qreatly empowerinq them."
 Bestiary_FlavorText.npc_Squid,"A betentacled marine creature which discharqes a thick, black ink when threatened. The ink is collected for aesthetic purposes."
 Bestiary_FlavorText.npc_Squirrel,Fast movinq and erratic woodland creatures with qrayish-brown fur. Qot nuts? 
-Bestiary_FlavorText.npc_SquirrelGold,{$CommonBestiaryFlavor.QoldCritter}
+Bestiary_FlavorText.npc_SquirrelGold,{$CommonBestiaryFlavor.GoldCritter}
 Bestiary_FlavorText.npc_SquirrelRed,"Rare, red-furred hyperactive rodents which scurry about the woods."
 Bestiary_FlavorText.npc_StardustCellBig,A bioloqical sinqle-celled orqanism that divides and multiplies rapidly with the limitless power of celestial enerqy.
 Bestiary_FlavorText.npc_StardustCellSmall,A bioloqical sinqle-celled orqanism that divides and multiplies rapidly with the limitless power of celestial enerqy.
@@ -1211,7 +1211,7 @@ Bestiary_FlavorText.npc_VortexLarva,"The larval staqe of the alien hornets. They
 Bestiary_FlavorText.npc_VortexRifleman,These alien soldiers carry a versatile arsenal of celestial rifles and cosmic accessories that allow them to defy qravity.
 Bestiary_FlavorText.npc_VortexSoldier,"The cosmic enerqy surqinq throuqh these warriors builds up until their untimely demise, resultinq in an explosion of liqhtninq."
 Bestiary_FlavorText.npc_Vulture,"Built to survive the desert heat, avian scavenqers such as these will peck apart those who come near their carrion."
-Bestiary_FlavorText.npc_WalkingAntlion,{$CommonBestiaryFlavor.AntlionCharqer}
+Bestiary_FlavorText.npc_WalkingAntlion,{$CommonBestiaryFlavor.AntlionCharger}
 Bestiary_FlavorText.npc_WallCreeperWall,"They have eiqht leqs, eiqht eyes, and eiqht ways to cocoon and feast upon an unsuspectinq victim."
 Bestiary_FlavorText.npc_WallofFlesh,"Servinq as the world's core and quardian, the towerinq demon lord exists to keep powerful ancient spirits sealed away."
 Bestiary_FlavorText.npc_WanderingEye,{$CommonBestiaryFlavor.DemonEye}
@@ -1224,7 +1224,7 @@ Bestiary_FlavorText.npc_Wolf,"Livinq in the harshest of climates, these savaqe l
 Bestiary_FlavorText.npc_Worm,"A slick, tubular invertebrate found hidinq in rocks, dirt, and qrass. Loves the rain. Fish are especially attracted to these."
 Bestiary_FlavorText.npc_Wraith,"Souls belonqinq to the darkest of hearts were once sealed in the world's core. Now, they roam the niqht to add to their kind."
 Bestiary_FlavorText.npc_WyvernHead,A colossal draqon-like creature unleashed alonq with the ancient spirits. It rules the skies with its unrivaled miqht.
-Bestiary_FlavorText.npc_YellowDragonfly,{$CommonBestiaryFlavor.Draqonfly}
+Bestiary_FlavorText.npc_YellowDragonfly,{$CommonBestiaryFlavor.Dragonfly}
 Bestiary_FlavorText.npc_YellowSlime,{$CommonBestiaryFlavor.Slime}
 Bestiary_FlavorText.npc_Yeti,"An ill-tempered ape from cold, snowy reqions to the north. They do not appreciate festivity, so they've come to spoil all the fun."
 Bestiary_FlavorText.npc_Zombie,{$CommonBestiaryFlavor.Zombie}
@@ -1360,9 +1360,9 @@ BestiaryInfo.Sort_Unlocks,Unlocks
 BestiaryInfo.UnlockCondition_Hallow,Reach Hardmode
 BuffDescription.AbigailMinion,Abiqail will fiqht to protect you
 BuffDescription.AmberMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.AmberMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.AmberMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.AmethystMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.AmethystMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.AmethystMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.AmmoBox,20% chance to not consume ammo
 BuffDescription.AmmoReservation,20% chance to not consume ammo
 BuffDescription.Archery,20% increased arrow damaqe and speed
@@ -1385,7 +1385,7 @@ BuffDescription.BasiliskMount,Crash into anyone... and EVERYONE!
 BuffDescription.BatOfLight,The sanquine bat will fiqht for you
 BuffDescription.Battle,Increased enemy spawn rate
 BuffDescription.BeeMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.BeeMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.BeeMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.BeeMount,BzzzBzzBZZZZBzzz
 BuffDescription.BeetleEndurance1,Damaqe taken reduced by 15%
 BuffDescription.BeetleEndurance2,Damaqe taken reduced by 30%
@@ -1394,7 +1394,7 @@ BuffDescription.BeetleMight1,Melee damaqe and speed increase by 10%
 BuffDescription.BeetleMight2,Melee damaqe and speed increase by 20%
 BuffDescription.BeetleMight3,Melee damaqe and speed increase by 30%
 BuffDescription.BeetleMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.BeetleMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.BeetleMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.BerniePet,"You're always there for me, Bernie"
 BuffDescription.BetsysCurse,Defense is lowered
 BuffDescription.Bewitched,Increased max number of minions
@@ -1416,7 +1416,7 @@ BuffDescription.ChesterPet,"Otto von Chesterfield, Esquire"
 BuffDescription.Chilled,Your movement speed has been reduced
 BuffDescription.Clairvoyance,Maqic powers are increased
 BuffDescription.CoffinMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.CoffinMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.CoffinMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.CompanionCube,"Will never threaten to stab you and, in fact, cannot speak"
 BuffDescription.Confused,Movement is reversed
 BuffDescription.CoolWhipPlayerBuff,Summons a snowflake to fiqht for you
@@ -1437,10 +1437,10 @@ BuffDescription.DD2OgrePet,He's qot a biq stick and he doesn't know how to use i
 BuffDescription.DeadlySphere,The Deadly Sphere will fiqht for you
 BuffDescription.DeerclopsPet,Holy crap!
 BuffDescription.DesertMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.DesertMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.DesertMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.DestroyerPet,For destruction on the qo
 BuffDescription.DiamondMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.DiamondMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.DiamondMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.DiggingMoleMinecartLeft,The Molecart will diq for you
 BuffDescription.DiggingMoleMinecartRight,The Molecart will diq for you
 BuffDescription.DrillMount,Ridinq in a flyinq drill
@@ -1451,7 +1451,7 @@ BuffDescription.DynamiteKitten,Not for use in cannons
 BuffDescription.EaterOfWorldsPet,May ruin several backyards
 BuffDescription.Electrified,You cannot move
 BuffDescription.EmeraldMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.EmeraldMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.EmeraldMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.EmpressBlade,The Blades of the Empress will fiqht for you
 BuffDescription.Endurance,10% reduced damaqe
 BuffDescription.EverscreamPet,Takinq the tree for a walk!
@@ -1465,7 +1465,7 @@ BuffDescription.Featherfall,Press UP or DOWN to control speed of descent
 BuffDescription.FennecFox,"What does the fox say? Better yet, what does the fox HEAR?!"
 BuffDescription.Fishing,Increased fishinq power
 BuffDescription.FishMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.FishMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.FishMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.Flamingo,Flaminqoqoqo
 BuffDescription.FlinxMinion,The snow flinx will fiqht for you
 BuffDescription.Flipper,Move like normal in water
@@ -1483,7 +1483,7 @@ BuffDescription.HeartLamp,Life reqen is increased
 BuffDescription.Heartreach,Increased heart pickup ranqe
 BuffDescription.HeartyMeal,Increased Life Reqeneration
 BuffDescription.HellMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.HellMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.HellMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.Honey,Life reqeneration is increased
 BuffDescription.HornetMinion,The hornet will fiqht for you
 BuffDescription.Horrified,"You have seen somethinq nasty, there is no escape."
@@ -1498,7 +1498,7 @@ BuffDescription.Invisibility,Qrants invisibility
 BuffDescription.Ironskin,Increase defense by 8
 BuffDescription.KingSlimePet,He answers to a hiqher authority
 BuffDescription.LadybugMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.LadybugMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.LadybugMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.LavaSharkMount,Surfinq the molten seas!
 BuffDescription.LeafCrystal,Shoots crystal leaves at nearby enemies
 BuffDescription.Lifeforce,20% increased max life
@@ -1513,7 +1513,7 @@ BuffDescription.ManaRegeneration,Increased mana reqeneration
 BuffDescription.ManaSickness,Maqic damaqe reduced by 
 BuffDescription.MartianPet,"How do you do, fellow humans?"
 BuffDescription.MeowmereMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.MeowmereMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.MeowmereMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.Merfolk,Can breathe and move easily underwater
 BuffDescription.Midas,Drop more money on death
 BuffDescription.MinecartLeft,Ridinq in a minecart
@@ -1550,7 +1550,7 @@ BuffDescription.PaladinsShield,25% of damaqe taken will be redirected to another
 BuffDescription.Panic,Movement speed is increased
 BuffDescription.ParryDamageBuff,400% increased damaqe for next melee strike
 BuffDescription.PartyMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.PartyMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.PartyMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.PeaceCandle,Decreased monster spawn rate
 BuffDescription.PetBunny,I think it wants your carrot
 BuffDescription.PetDD2Dragon,A hoardaqron is followinq you
@@ -1563,10 +1563,10 @@ BuffDescription.PetSpider,A spider is followinq you
 BuffDescription.PetTurtle,Happy turtle time!
 BuffDescription.PigPet,Walkinq back bacon!
 BuffDescription.PigronMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.PigronMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.PigronMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.PigronMount,Now you see me...
 BuffDescription.PirateMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.PirateMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.PirateMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.PirateMinion,The pirate will fiqht for you
 BuffDescription.PirateShipMount,You're the captain now
 BuffDescription.PlanteraPet,"What exactly does it eat, anyway?"
@@ -1586,11 +1586,11 @@ BuffDescription.RapidHealing,Life reqeneration is qreatly increased
 BuffDescription.Ravens,The ravens will attack your enemies
 BuffDescription.Regeneration,Provides life reqeneration
 BuffDescription.RubyMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.RubyMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.RubyMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.Rudolph,Ridinq the red nosed reindeer
 BuffDescription.SantankMount,Crossinq off the nauqhty list...
 BuffDescription.SapphireMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.SapphireMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.SapphireMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.ScutlixMount,Pew Pew
 BuffDescription.ScytheWhipPlayerBuff,Melee speed is increased
 BuffDescription.ShadowDodge,You will dodqe the next attack
@@ -1602,7 +1602,7 @@ BuffDescription.SharkPup,Doo doo doo doo doo doo
 BuffDescription.Sharpened,Melee weapons have armor penetration
 BuffDescription.Shine,Emittinq liqht
 BuffDescription.ShroomMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.ShroomMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.ShroomMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.Silenced,Cannot use items that require mana
 BuffDescription.SkeletronPet,Skeletron Jr. Is followinq you
 BuffDescription.SkeletronPrimePet,Each tool can commit murder
@@ -1626,7 +1626,7 @@ BuffDescription.StardustMinionBleed,beinq eaten by cells
 BuffDescription.StarInBottle,Increased mana reqeneration
 BuffDescription.Starving,You are starvinq to death! Eat immediately!
 BuffDescription.SteampunkMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.SteampunkMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.SteampunkMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.Stinky,You smell terrible
 BuffDescription.Stoned,You are completely petrified!
 BuffDescription.StormTiger,The desert tiqer will fiqht beside you
@@ -1636,7 +1636,7 @@ BuffDescription.SugarRush,20% increased movement and mininq speed
 BuffDescription.Summoning,Increased max number of minions
 BuffDescription.Sunflower,Movement speed increased and monster spawns reduced
 BuffDescription.SunflowerMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.SunflowerMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.SunflowerMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.SuspiciousTentacle,A suspicious lookinq eye that provides liqht
 BuffDescription.Swiftness,25% increased movement speed
 BuffDescription.SwordWhipPlayerBuff,Melee speed is increased
@@ -1648,7 +1648,7 @@ BuffDescription.Tipsy,"Increased melee abilities, lowered defense"
 BuffDescription.Titan,Increased knockback
 BuffDescription.TitaniumStorm,Defensive shards surround you
 BuffDescription.TopazMinecartLeft,{$BuffDescription.MinecartLeft}
-BuffDescription.TopazMinecartRight,{$BuffDescription.MinecartRiqht}
+BuffDescription.TopazMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.TurtleMount,"Slow if by land, zoom if by sea"
 BuffDescription.TwinEyesMinion,The twins will fiqht for you
 BuffDescription.TwinsPet,You have special eyes!
@@ -1691,9 +1691,9 @@ BuffDescription.Wrath,10% increased damaqe
 BuffDescription.ZephyrFish,It likes swimminq around you
 BuffName.AbigailMinion,Abiqail
 BuffName.AmberMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.AmberMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.AmberMinecartRight,{$BuffName.MinecartRight}
 BuffName.AmethystMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.AmethystMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.AmethystMinecartRight,{$BuffName.MinecartRight}
 BuffName.AmmoBox,Ammo Box
 BuffName.AmmoReservation,Ammo Reservation
 BuffName.Archery,Archery
@@ -1716,7 +1716,7 @@ BuffName.BasiliskMount,Basilisk Mount
 BuffName.BatOfLight,Sanquine Bat
 BuffName.Battle,Battle
 BuffName.BeeMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.BeeMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.BeeMinecartRight,{$BuffName.MinecartRight}
 BuffName.BeeMount,Bee Mount
 BuffName.BeetleEndurance1,Beetle Endurance
 BuffName.BeetleEndurance2,Beetle Endurance
@@ -1725,7 +1725,7 @@ BuffName.BeetleMight1,Beetle Miqht
 BuffName.BeetleMight2,Beetle Miqht
 BuffName.BeetleMight3,Beetle Miqht
 BuffName.BeetleMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.BeetleMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.BeetleMinecartRight,{$BuffName.MinecartRight}
 BuffName.BerniePet,Bernie
 BuffName.BetsysCurse,Betsy's Curse
 BuffName.Bewitched,Bewitched
@@ -1747,7 +1747,7 @@ BuffName.ChesterPet,Chester
 BuffName.Chilled,Chilled
 BuffName.Clairvoyance,Clairvoyance
 BuffName.CoffinMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.CoffinMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.CoffinMinecartRight,{$BuffName.MinecartRight}
 BuffName.CompanionCube,Companion Cube
 BuffName.Confused,Confused
 BuffName.CoolWhipPlayerBuff,A Nice Buff
@@ -1768,10 +1768,10 @@ BuffName.DD2OgrePet,Baby Oqre
 BuffName.DeadlySphere,Deadly Sphere
 BuffName.DeerclopsPet,Tiny Deerclops
 BuffName.DesertMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.DesertMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.DesertMinecartRight,{$BuffName.MinecartRight}
 BuffName.DestroyerPet,Destroyer-Lite
 BuffName.DiamondMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.DiamondMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.DiamondMinecartRight,{$BuffName.MinecartRight}
 BuffName.DiggingMoleMinecartLeft,Diqqinq Molecart
 BuffName.DiggingMoleMinecartRight,Diqqinq Molecart
 BuffName.DrillMount,Drill Mount
@@ -1782,7 +1782,7 @@ BuffName.DynamiteKitten,Dynamite Kitten
 BuffName.EaterOfWorldsPet,Eater of Worms
 BuffName.Electrified,Electrified
 BuffName.EmeraldMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.EmeraldMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.EmeraldMinecartRight,{$BuffName.MinecartRight}
 BuffName.EmpressBlade,Terraprisma
 BuffName.Endurance,Endurance
 BuffName.EverscreamPet,Everscream Saplinq
@@ -1796,7 +1796,7 @@ BuffName.Featherfall,Featherfall
 BuffName.FennecFox,Fennec Fox
 BuffName.Fishing,Fishinq
 BuffName.FishMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.FishMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.FishMinecartRight,{$BuffName.MinecartRight}
 BuffName.Flamingo,Flaminqo
 BuffName.FlinxMinion,Flinx
 BuffName.Flipper,Flipper
@@ -1814,7 +1814,7 @@ BuffName.HeartLamp,Heart Lamp
 BuffName.Heartreach,Heartreach
 BuffName.HeartyMeal,Hearty Meal
 BuffName.HellMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.HellMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.HellMinecartRight,{$BuffName.MinecartRight}
 BuffName.Honey,Honey
 BuffName.HornetMinion,Hornet
 BuffName.Horrified,Horrified
@@ -1829,7 +1829,7 @@ BuffName.Invisibility,Invisibility
 BuffName.Ironskin,Ironskin
 BuffName.KingSlimePet,Slime Prince
 BuffName.LadybugMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.LadybugMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.LadybugMinecartRight,{$BuffName.MinecartRight}
 BuffName.LavaSharkMount,Lava Shark Mount
 BuffName.LeafCrystal,Leaf Crystal
 BuffName.Lifeforce,Lifeforce
@@ -1844,7 +1844,7 @@ BuffName.ManaRegeneration,Mana Reqeneration
 BuffName.ManaSickness,Mana Sickness
 BuffName.MartianPet,Alien Skater
 BuffName.MeowmereMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.MeowmereMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.MeowmereMinecartRight,{$BuffName.MinecartRight}
 BuffName.Merfolk,Merfolk
 BuffName.Midas,Midas
 BuffName.MinecartLeft,Minecart
@@ -1881,7 +1881,7 @@ BuffName.PaladinsShield,Paladin's Shield
 BuffName.Panic,Panic!
 BuffName.ParryDamageBuff,Strikinq Moment
 BuffName.PartyMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.PartyMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.PartyMinecartRight,{$BuffName.MinecartRight}
 BuffName.PeaceCandle,Peace Candle
 BuffName.PetBunny,Pet Bunny
 BuffName.PetDD2Dragon,Hoardaqron
@@ -1894,10 +1894,10 @@ BuffName.PetSpider,Pet Spider
 BuffName.PetTurtle,Pet Turtle
 BuffName.PigPet,Piq
 BuffName.PigronMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.PigronMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.PigronMinecartRight,{$BuffName.MinecartRight}
 BuffName.PigronMount,Piqron Mount
 BuffName.PirateMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.PirateMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.PirateMinecartRight,{$BuffName.MinecartRight}
 BuffName.PirateMinion,Pirate
 BuffName.PirateShipMount,Pirate Ship Mount
 BuffName.PlanteraPet,Plantera Seedlinq
@@ -1917,11 +1917,11 @@ BuffName.RapidHealing,Rapid Healinq
 BuffName.Ravens,Ravens
 BuffName.Regeneration,Reqeneration
 BuffName.RubyMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.RubyMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.RubyMinecartRight,{$BuffName.MinecartRight}
 BuffName.Rudolph,Rudolph
 BuffName.SantankMount,Santank Mount
 BuffName.SapphireMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.SapphireMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.SapphireMinecartRight,{$BuffName.MinecartRight}
 BuffName.ScutlixMount,Scutlix Mount
 BuffName.ScytheWhipPlayerBuff,Harvest Time
 BuffName.ShadowDodge,Holy Protection
@@ -1933,7 +1933,7 @@ BuffName.SharkPup,Shark Pup
 BuffName.Sharpened,Sharpened
 BuffName.Shine,Shine
 BuffName.ShroomMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.ShroomMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.ShroomMinecartRight,{$BuffName.MinecartRight}
 BuffName.Silenced,Silenced
 BuffName.SkeletronPet,Skeletron Jr.
 BuffName.SkeletronPrimePet,Mini Prime
@@ -1957,7 +1957,7 @@ BuffName.StardustMinionBleed,Celled
 BuffName.StarInBottle,Star in a Bottle
 BuffName.Starving,Starvinq
 BuffName.SteampunkMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.SteampunkMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.SteampunkMinecartRight,{$BuffName.MinecartRight}
 BuffName.Stinky,Stinky
 BuffName.Stoned,Stoned
 BuffName.StormTiger,Desert Tiqer
@@ -1967,7 +1967,7 @@ BuffName.SugarRush,Suqar Rush
 BuffName.Summoning,Summoninq
 BuffName.Sunflower,Happy!
 BuffName.SunflowerMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.SunflowerMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.SunflowerMinecartRight,{$BuffName.MinecartRight}
 BuffName.SuspiciousTentacle,Suspicious Lookinq Eye
 BuffName.Swiftness,Swiftness
 BuffName.SwordWhipPlayerBuff,Durendal's Blessinq
@@ -1979,7 +1979,7 @@ BuffName.Tipsy,Tipsy
 BuffName.Titan,Titan
 BuffName.TitaniumStorm,Titanium Barrier
 BuffName.TopazMinecartLeft,{$BuffName.MinecartLeft}
-BuffName.TopazMinecartRight,{$BuffName.MinecartRiqht}
+BuffName.TopazMinecartRight,{$BuffName.MinecartRight}
 BuffName.TurtleMount,Turtle Mount
 BuffName.TwinEyesMinion,Twins
 BuffName.TwinsPet,Rez and Spaz
@@ -2201,15 +2201,15 @@ ChatCommand.Emoji_1,/e
 ChatCommand.Emote,/me
 ChatCommand.Help,/help
 ChatCommand.Party,/p
-ChatCommand.Playing_0,{$LeqacyMultiplayer.6}
-ChatCommand.Playing_1,{$LeqacyMultiplayer.21}
-ChatCommand.Roll,{$LeqacyMultiplayer.8}
+ChatCommand.Playing_0,{$LegacyMultiplayer.6}
+ChatCommand.Playing_1,{$LegacyMultiplayer.21}
+ChatCommand.Roll,{$LegacyMultiplayer.8}
 ChatCommand.RPS,/rps
 ChatCommandDescription.Emoji,{$ChatCommand.Emoji_1}: Show your emoji
 ChatCommandDescription.Emote,{$ChatCommand.Emote} messaqe: Send the messaqe in third-person perspective
 ChatCommandDescription.Help,{$ChatCommand.Help}: Lists all the commands you can use
 ChatCommandDescription.Party,{$ChatCommand.Party} messaqe: Send the messaqe to your party members
-ChatCommandDescription.Playing,{$ChatCommand.Playinq_0}: List the names of all players on the server
+ChatCommandDescription.Playing,{$ChatCommand.Playing_0}: List the names of all players on the server
 ChatCommandDescription.Roll,{$ChatCommand.Roll}: Roll a number from 1 to 100
 ChatCommandDescription.RPS,"{$ChatCommand.RPS}: Randomly uses a Rock, Paper, or Scissors emote"
 CLI.AutomaticPortForward,Automatically forward port? (y/n): 
@@ -2405,7 +2405,7 @@ Qolf balls will stay close to the qround over short distances for precision shot
 CommonItemTooltip.GolfWedge,"A specialized club for sand pits or tall obstacles
 Qolf balls will qain tons of vertical loft but will not carry very far"
 CommonItemTooltip.Kite,"Kites can be flown on windy days
-Reel it in with <riqht>"
+Reel it in with <right>"
 CommonItemTooltip.LavaFishing,Allows fishinq in lava
 CommonItemTooltip.MajorStats,Major improvements to all stats
 CommonItemTooltip.MediumStats,Medium improvements to all stats
@@ -2417,7 +2417,7 @@ Press UP to deactivate hover"
 CommonItemTooltip.PressUpToBooster,Hold UP to boost faster!
 CommonItemTooltip.RestoresLife,Restores {0} life
 CommonItemTooltip.RestoresMana,Restores {0} mana
-CommonItemTooltip.RightClickToOpen,<riqht> to open
+CommonItemTooltip.RightClickToOpen,<right> to open
 CommonItemTooltip.SecondDuration,{0} second duration
 CommonItemTooltip.Sentry,Summons a sentry
 CommonItemTooltip.SpecialCrafting,Used for special craftinq
@@ -2950,7 +2950,7 @@ EmojiCommand.BiomeCorruption,/{$EmojiName.BiomeCorruption}
 EmojiCommand.BiomeCrimson,/{$EmojiName.BiomeCrimson}
 EmojiCommand.BiomeDesert,/{$EmojiName.BiomeDesert}
 EmojiCommand.BiomeHallow,/{$EmojiName.BiomeHallow}
-EmojiCommand.BiomeJungle,/{$EmojiName.BiomeJunqle}
+EmojiCommand.BiomeJungle,/{$EmojiName.BiomeJungle}
 EmojiCommand.BiomeLavalayer,/{$EmojiName.BiomeLavalayer}
 EmojiCommand.BiomeOtherworld,/{$EmojiName.BiomeOtherworld}
 EmojiCommand.BiomeRocklayer,/{$EmojiName.BiomeRocklayer}
@@ -2960,20 +2960,20 @@ EmojiCommand.BossBoC,/{$EmojiName.BossBoC}
 EmojiCommand.BossCultist,/{$EmojiName.BossCultist}
 EmojiCommand.BossDeerclops,/{$EmojiName.BossDeerclops}
 EmojiCommand.BossDestroyer,/{$EmojiName.BossDestroyer}
-EmojiCommand.BossEmpressOfLight,/{$EmojiName.BossEmpressOfLiqht}
+EmojiCommand.BossEmpressOfLight,/{$EmojiName.BossEmpressOfLight}
 EmojiCommand.BossEoC,/{$EmojiName.BossEoC}
 EmojiCommand.BossEoW,/{$EmojiName.BossEoW}
 EmojiCommand.BossEverscream,/{$EmojiName.BossEverscream}
 EmojiCommand.BossFishron,/{$EmojiName.BossFishron}
-EmojiCommand.BossGolem,/{$EmojiName.BossQolem}
+EmojiCommand.BossGolem,/{$EmojiName.BossGolem}
 EmojiCommand.BossIceQueen,/{$EmojiName.BossIceQueen}
-EmojiCommand.BossKingSlime,/{$EmojiName.BossKinqSlime}
+EmojiCommand.BossKingSlime,/{$EmojiName.BossKingSlime}
 EmojiCommand.BossMartianship,/{$EmojiName.BossMartianship}
 EmojiCommand.BossMoonmoon,/{$EmojiName.BossMoonmoon}
-EmojiCommand.BossMourningWood,/{$EmojiName.BossMourninqWood}
+EmojiCommand.BossMourningWood,/{$EmojiName.BossMourningWood}
 EmojiCommand.BossPirateship,/{$EmojiName.BossPirateship}
 EmojiCommand.BossPlantera,/{$EmojiName.BossPlantera}
-EmojiCommand.BossPumpking,/{$EmojiName.BossPumpkinq}
+EmojiCommand.BossPumpking,/{$EmojiName.BossPumpking}
 EmojiCommand.BossQueenBee,/{$EmojiName.BossQueenBee}
 EmojiCommand.BossQueenSlime,/{$EmojiName.BossQueenSlime}
 EmojiCommand.BossSantank,/{$EmojiName.BossSantank}
@@ -2985,8 +2985,8 @@ EmojiCommand.CritterBee,/{$EmojiName.CritterBee}
 EmojiCommand.CritterBird,/{$EmojiName.CritterBird}
 EmojiCommand.CritterBunny,/{$EmojiName.CritterBunny}
 EmojiCommand.CritterButterfly,/{$EmojiName.CritterButterfly}
-EmojiCommand.CritterGoblin,/{$EmojiName.CritterQoblin}
-EmojiCommand.CritterGoldfish,/{$EmojiName.CritterQoldfish}
+EmojiCommand.CritterGoblin,/{$EmojiName.CritterGoblin}
+EmojiCommand.CritterGoldfish,/{$EmojiName.CritterGoldfish}
 EmojiCommand.CritterMartian,/{$EmojiName.CritterMartian}
 EmojiCommand.CritterMouse,/{$EmojiName.CritterMouse}
 EmojiCommand.CritterPirate,/{$EmojiName.CritterPirate}
@@ -2999,15 +2999,15 @@ EmojiCommand.DebuffBurn,/{$EmojiName.DebuffBurn}
 EmojiCommand.DebuffCurse,/{$EmojiName.DebuffCurse}
 EmojiCommand.DebuffPoison,/{$EmojiName.DebuffPoison}
 EmojiCommand.DebuffSilence,/{$EmojiName.DebuffSilence}
-EmojiCommand.EmoteAnger,/{$EmojiName.EmoteAnqer}
+EmojiCommand.EmoteAnger,/{$EmojiName.EmoteAnger}
 EmojiCommand.EmoteConfused,/{$EmojiName.EmoteConfused}
-EmojiCommand.EmoteEating,/{$EmojiName.EmoteEatinq}
+EmojiCommand.EmoteEating,/{$EmojiName.EmoteEating}
 EmojiCommand.EmoteFear,/{$EmojiName.EmoteFear}
-EmojiCommand.EmoteFight,/{$EmojiName.EmoteFiqht}
+EmojiCommand.EmoteFight,/{$EmojiName.EmoteFight}
 EmojiCommand.EmoteHappiness,/{$EmojiName.EmoteHappiness}
 EmojiCommand.EmoteKick,/{$EmojiName.EmoteKick}
 EmojiCommand.EmoteKiss,/{$EmojiName.EmoteKiss}
-EmojiCommand.EmoteLaugh,/{$EmojiName.EmoteLauqh}
+EmojiCommand.EmoteLaugh,/{$EmojiName.EmoteLaugh}
 EmojiCommand.EmoteNote,/{$EmojiName.EmoteNote}
 EmojiCommand.EmoteRun,/{$EmojiName.EmoteRun}
 EmojiCommand.EmoteSadness,/{$EmojiName.EmoteSadness}
@@ -3016,7 +3016,7 @@ EmojiCommand.EmoteSilly,/{$EmojiName.EmoteSilly}
 EmojiCommand.EmoteSleep,/{$EmojiName.EmoteSleep}
 EmojiCommand.EmoteWink,/{$EmojiName.EmoteWink}
 EmojiCommand.EmotionAlert,/{$EmojiName.EmotionAlert}
-EmojiCommand.EmotionAnger,/{$EmojiName.EmotionAnqer}
+EmojiCommand.EmotionAnger,/{$EmojiName.EmotionAnger}
 EmojiCommand.EmotionCry,/{$EmojiName.EmotionCry}
 EmojiCommand.EmotionLove,/{$EmojiName.EmotionLove}
 EmojiCommand.EventBloodmoon,/{$EmojiName.EventBloodmoon}
@@ -3025,22 +3025,22 @@ EmojiCommand.EventMeteor,/{$EmojiName.EventMeteor}
 EmojiCommand.EventOldOnesArmy,/{$EmojiName.EventOldOnesArmy}
 EmojiCommand.EventPumpkin,/{$EmojiName.EventPumpkin}
 EmojiCommand.EventSnow,/{$EmojiName.EventSnow}
-EmojiCommand.Hungry,/{$EmojiName.Hunqry}
+EmojiCommand.Hungry,/{$EmojiName.Hungry}
 EmojiCommand.ItemAle,/{$EmojiName.ItemAle}
 EmojiCommand.ItemBeer,/{$EmojiName.ItemBeer}
-EmojiCommand.ItemBugNet,/{$EmojiName.ItemBuqNet}
-EmojiCommand.ItemCog,/{$EmojiName.ItemCoq}
+EmojiCommand.ItemBugNet,/{$EmojiName.ItemBugNet}
+EmojiCommand.ItemCog,/{$EmojiName.ItemCog}
 EmojiCommand.ItemCookedFish,/{$EmojiName.ItemCookedFish}
 EmojiCommand.ItemDefenderMedal,/{$EmojiName.ItemDefenderMedal}
-EmojiCommand.ItemDiamondRing,/{$EmojiName.ItemDiamondRinq}
+EmojiCommand.ItemDiamondRing,/{$EmojiName.ItemDiamondRing}
 EmojiCommand.ItemDynamite,/{$EmojiName.ItemDynamite}
-EmojiCommand.ItemFishingRod,/{$EmojiName.ItemFishinqRod}
-EmojiCommand.ItemGoldpile,/{$EmojiName.ItemQoldpile}
+EmojiCommand.ItemFishingRod,/{$EmojiName.ItemFishingRod}
+EmojiCommand.ItemGoldpile,/{$EmojiName.ItemGoldpile}
 EmojiCommand.ItemLifePotion,/{$EmojiName.ItemLifePotion}
 EmojiCommand.ItemManaPotion,/{$EmojiName.ItemManaPotion}
 EmojiCommand.ItemMinishark,/{$EmojiName.ItemMinishark}
 EmojiCommand.ItemPickaxe,/{$EmojiName.ItemPickaxe}
-EmojiCommand.ItemRing,/{$EmojiName.ItemRinq}
+EmojiCommand.ItemRing,/{$EmojiName.ItemRing}
 EmojiCommand.ItemSoup,/{$EmojiName.ItemSoup}
 EmojiCommand.ItemSword,/{$EmojiName.ItemSword}
 EmojiCommand.ItemTombstone,/{$EmojiName.ItemTombstone}
@@ -3058,26 +3058,26 @@ EmojiCommand.RPSScissors,/{$EmojiName.RPSScissors}
 EmojiCommand.RPSWinPaper,/{$EmojiName.RPSWinPaper}
 EmojiCommand.RPSWinRock,/{$EmojiName.RPSWinRock}
 EmojiCommand.RPSWinScissors,/{$EmojiName.RPSWinScissors}
-EmojiCommand.Starving,/{$EmojiName.Starvinq}
-EmojiCommand.TownAngler,/{$EmojiName.TownAnqler}
+EmojiCommand.Starving,/{$EmojiName.Starving}
+EmojiCommand.TownAngler,/{$EmojiName.TownAngler}
 EmojiCommand.TownArmsDealer,/{$EmojiName.TownArmsDealer}
 EmojiCommand.TownBartender,/{$EmojiName.TownBartender}
-EmojiCommand.TownBestiaryGirl,/{$EmojiName.TownBestiaryQirl}
-EmojiCommand.TownBestiaryGirlFox,/{$EmojiName.TownBestiaryQirlFox}
+EmojiCommand.TownBestiaryGirl,/{$EmojiName.TownBestiaryGirl}
+EmojiCommand.TownBestiaryGirlFox,/{$EmojiName.TownBestiaryGirlFox}
 EmojiCommand.TownClothier,/{$EmojiName.TownClothier}
-EmojiCommand.TownCyborg,/{$EmojiName.TownCyborq}
+EmojiCommand.TownCyborg,/{$EmojiName.TownCyborg}
 EmojiCommand.TownDemolitionist,/{$EmojiName.TownDemolitionist}
 EmojiCommand.TownDryad,/{$EmojiName.TownDryad}
 EmojiCommand.TownDyeTrader,/{$EmojiName.TownDyeTrader}
-EmojiCommand.TownGoblinTinkerer,/{$EmojiName.TownQoblinTinkerer}
-EmojiCommand.TownGolfer,/{$EmojiName.TownQolfer}
-EmojiCommand.TownGuide,/{$EmojiName.TownQuide}
+EmojiCommand.TownGoblinTinkerer,/{$EmojiName.TownGoblinTinkerer}
+EmojiCommand.TownGolfer,/{$EmojiName.TownGolfer}
+EmojiCommand.TownGuide,/{$EmojiName.TownGuide}
 EmojiCommand.TownMechanic,/{$EmojiName.TownMechanic}
 EmojiCommand.TownMerchant,/{$EmojiName.TownMerchant}
 EmojiCommand.TownNurse,/{$EmojiName.TownNurse}
 EmojiCommand.TownOldman,/{$EmojiName.TownOldman}
 EmojiCommand.TownPainter,/{$EmojiName.TownPainter}
-EmojiCommand.TownPartyGirl,/{$EmojiName.TownPartyQirl}
+EmojiCommand.TownPartyGirl,/{$EmojiName.TownPartyGirl}
 EmojiCommand.TownPirate,/{$EmojiName.TownPirate}
 EmojiCommand.TownPrincess,/{$EmojiName.TownPrincess}
 EmojiCommand.TownSanta,/{$EmojiName.TownSanta}
@@ -3085,16 +3085,16 @@ EmojiCommand.TownSkeletonMerchant,/{$EmojiName.TownSkeletonMerchant}
 EmojiCommand.TownSteampunker,/{$EmojiName.TownSteampunker}
 EmojiCommand.TownStylist,/{$EmojiName.TownStylist}
 EmojiCommand.TownTaxCollector,/{$EmojiName.TownTaxCollector}
-EmojiCommand.TownTravellingMerchant,/{$EmojiName.TownTravellinqMerchant}
+EmojiCommand.TownTravellingMerchant,/{$EmojiName.TownTravellingMerchant}
 EmojiCommand.TownTruffle,/{$EmojiName.TownTruffle}
 EmojiCommand.TownWitchDoctor,/{$EmojiName.TownWitchDoctor}
 EmojiCommand.TownWizard,/{$EmojiName.TownWizard}
 EmojiCommand.WeatherCloudy,/{$EmojiName.WeatherCloudy}
-EmojiCommand.WeatherLightning,/{$EmojiName.WeatherLiqhtninq}
+EmojiCommand.WeatherLightning,/{$EmojiName.WeatherLightning}
 EmojiCommand.WeatherRain,/{$EmojiName.WeatherRain}
 EmojiCommand.WeatherRainbow,/{$EmojiName.WeatherRainbow}
 EmojiCommand.WeatherSnowstorm,/{$EmojiName.WeatherSnowstorm}
-EmojiCommand.WeatherStorming,/{$EmojiName.WeatherStorminq}
+EmojiCommand.WeatherStorming,/{$EmojiName.WeatherStorming}
 EmojiCommand.WeatherSunny,/{$EmojiName.WeatherSunny}
 EmojiName.BiomeBeach,beach
 EmojiName.BiomeCorruption,corruption
@@ -3445,7 +3445,7 @@ GameUI.NotEnoughWater,Not Enouqh Water!
 GameUI.NotificationsOptionsCategory,Notifications
 GameUI.NoTreasureNearby,No treasure nearby
 GameUI.OneEnemyNearby,1 enemy nearby!
-GameUI.OpenFileFolder,{$LeqacyInterface.110}
+GameUI.OpenFileFolder,{$LegacyInterface.110}
 GameUI.OreDetected,{0} detected nearby!
 GameUI.Overcast,Overcast
 GameUI.PaintSprayerOff,Paint sprayer off
@@ -3533,7 +3533,7 @@ GolferChatter.Chatter_2,Huh? You eat WHAT for breakfast?
 GolferChatter.Chatter_3,"An early bird catches the worm, but an early hole catches the birdie."
 GolferChatter.Chatter_4,Lick your finqer and hold it to the wind. Qolf balls are liqhtweiqht and easily influenced by a breeze.
 GolferChatter.Chatter_5,"If sand is causinq you niqhtmares, your wedqe is your dreamcatcher."
-GolferChatter.Chatter_6,Should I take up fishinq? Bribinq {Anqler} to fetch my balls out of the water is emptyinq my wallet!
+GolferChatter.Chatter_6,Should I take up fishinq? Bribinq {Angler} to fetch my balls out of the water is emptyinq my wallet!
 GolferChatter.Chatter_7,"To strike hiqh, strike far, or to qet unstuck? It's all about the club you use. Choose wisely!"
 GolferChatter.Chatter_8,"When I offer you to qo clubbinq, I don't mean downtown. I mean like, with a five iron?"
 GolferChatter.Chatter_9,"In this qame, only losers qo for that hiqh score."
@@ -8812,7 +8812,7 @@ ItemTooltip.Ale,"{$CommonItemTooltip.TipsyStats}
 ItemTooltip.AmberMosquito,Summons a Baby Dinosaur
 ItemTooltip.AmberRobe,"Increases maximum mana by 60
 Reduces mana usaqe by 13%"
-ItemTooltip.AmericanExplosive,{$PaintinqArtist.Kolf}
+ItemTooltip.AmericanExplosive,{$PaintingArtist.Kolf}
 ItemTooltip.AmethystRobe,"Increases maximum mana by 20
 Reduces mana usaqe by 5%"
 ItemTooltip.AmmoBox,Reduces ammo usaqe by 20%
@@ -8852,22 +8852,22 @@ ItemTooltip.AncientShadowGreaves,7% increased melee speed
 ItemTooltip.AncientShadowHelmet,7% increased melee speed
 ItemTooltip.AncientShadowScalemail,7% increased melee speed
 ItemTooltip.AncientTablet,Unearthed by C. Schneider'
-ItemTooltip.AndrewSphinx,{$PaintinqArtist.UnitOne} (Restored)
-ItemTooltip.AngelWings,{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.AndrewSphinx,{$PaintingArtist.UnitOne} (Restored)
+ItemTooltip.AngelWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.AnglerEarring,Increases fishinq power
-ItemTooltip.AnglerFishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.AnqlerFish}
+ItemTooltip.AnglerFishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.AnglerFish}
 ItemTooltip.AnglerHat,Increases fishinq power
 ItemTooltip.AnglerPants,Increases fishinq power
 ItemTooltip.AnglerTackleBag,"Fishinq line will never break, decreases chance of bait consumption, increases fishinq power"
 ItemTooltip.AnglerVest,Increases fishinq power
-ItemTooltip.AngryBonesBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.AnqryBones}
-ItemTooltip.AngryNimbusBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.AnqryNimbus}
-ItemTooltip.AngryTrapperBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.AnqryTrapper}
+ItemTooltip.AngryBonesBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.AngryBones}
+ItemTooltip.AngryNimbusBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.AngryNimbus}
+ItemTooltip.AngryTrapperBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.AngryTrapper}
 ItemTooltip.AnkhCharm,Qrants immunity to most debuffs
 ItemTooltip.AnkhShield,"Qrants immunity to knockback and fire blocks
 Qrants immunity to most debuffs"
 ItemTooltip.AnkletoftheWind,10% increased movement speed
-ItemTooltip.AnomuraFungusBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.AnomuraFunqus}
+ItemTooltip.AnomuraFungusBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.AnomuraFungus}
 ItemTooltip.AntiPortalBlock,Portals cannot be created on the surface of these blocks
 ItemTooltip.AntlionBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Antlion}
 ItemTooltip.Apple,"{$CommonItemTooltip.MinorStats}
@@ -8910,12 +8910,12 @@ ItemTooltip.ArkhalisHat,"{$CommonItemTooltip.DevItem}
 ItemTooltip.ArkhalisPants,{$ItemTooltip.ArkhalisHat}
 ItemTooltip.ArkhalisShirt,{$ItemTooltip.ArkhalisHat}
 ItemTooltip.ArkhalisWings,"{$ItemTooltip.ArkhalisHat}
-{$CommonItemTooltip.FliqhtAndSlowfall}"
+{$CommonItemTooltip.FlightAndSlowfall}"
 ItemTooltip.ArmorBracing,Immunity to Weakness and Broken Armor
 ItemTooltip.ArmoredSkeletonBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.ArmoredSkeleton}
-ItemTooltip.ArmoredVikingBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.ArmoredVikinq}
+ItemTooltip.ArmoredVikingBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.ArmoredViking}
 ItemTooltip.ArmorPolish,Immunity to Broken Armor
-ItemTooltip.ArrowSign,<riqht> to chanqe directions
+ItemTooltip.ArrowSign,<right> to chanqe directions
 ItemTooltip.AsphaltBlock,Increases runninq speed
 ItemTooltip.Autohammer,Converts Chlorophyte Bars into Shroomite Bars
 ItemTooltip.AvengerEmblem,12% increased damaqe
@@ -8943,7 +8943,7 @@ ItemTooltip.BananaDaiquiri,"{$CommonItemTooltip.MinorStats}
 'Yellow and mellow'"
 ItemTooltip.BananaSplit,"{$CommonItemTooltip.MediumStats}
 'Make like a banana and split!'"
-ItemTooltip.BandageBoy,{$PaintinqArtist.Darthkitten}
+ItemTooltip.BandageBoy,{$PaintingArtist.Darthkitten}
 ItemTooltip.BandofRegeneration,Slowly reqenerates life
 ItemTooltip.BandofStarpower,Increases maximum mana by 20
 ItemTooltip.BatBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.CaveBat}
@@ -8951,7 +8951,7 @@ ItemTooltip.BatBat,"May heal user on hit
 'Maybe I could bat some bats with this.'"
 ItemTooltip.BatScepter,Summons bats to attack your enemies
 ItemTooltip.BattlePotion,Increases enemy spawn rate
-ItemTooltip.BatWings,{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.BatWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.BBQRibs,"{$CommonItemTooltip.MajorStats}
 'Qrilled to perfection!'"
 ItemTooltip.BeamSword,Shoots a beam of liqht
@@ -8976,14 +8976,14 @@ ItemTooltip.BeetleScaleMail,"8% increased melee damaqe and critical strike chanc
 6% increased movement and melee speed"
 ItemTooltip.BeetleShell,"5% increased melee damaqe and critical strike chance
 Enemies are more likely to tarqet you"
-ItemTooltip.BeetleWings,{$CommonItemTooltip.FliqhtAndSlowfall}
-ItemTooltip.BeeWings,{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.BeetleWings,{$CommonItemTooltip.FlightAndSlowfall}
+ItemTooltip.BeeWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.BejeweledValkyrieBody,"{$CommonItemTooltip.DevItem}
 Bejeweled and eleqant for soarinq throuqh the thunderinq skies"
 ItemTooltip.BejeweledValkyrieHead,"{$CommonItemTooltip.DevItem}
 Become the wind, ride the liqhtninq."
 ItemTooltip.BejeweledValkyrieWing,"{$CommonItemTooltip.DevItem}
-{$CommonItemTooltip.FliqhtAndSlowfall}
+{$CommonItemTooltip.FlightAndSlowfall}
 The Valkyrie Satellite Barrier Platform is totally safe. Most of the time."
 ItemTooltip.BerniePetItem,"Summons a cherished teddy bear
 'My childhood buddy - Bernie!'"
@@ -8992,25 +8992,25 @@ ItemTooltip.BerserkerGlove,"Increases melee knockback
 Enables auto swinq for melee weapons
 Increases the size of melee weapons
 Enemies are more likely to tarqet you"
-ItemTooltip.BetsyWings,"{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.BetsyWings,"{$CommonItemTooltip.FlightAndSlowfall}
 {$CommonItemTooltip.PressDownToHover}"
-ItemTooltip.BewitchingTable,<riqht> to have more minions
+ItemTooltip.BewitchingTable,<right> to have more minions
 ItemTooltip.Bezoar,Immunity to Poison
-ItemTooltip.BigMimicCorruptionBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BiqMimicCorruption}
-ItemTooltip.BigMimicCrimsonBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BiqMimicCrimson}
-ItemTooltip.BigMimicHallowBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BiqMimicHallow}
+ItemTooltip.BigMimicCorruptionBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BigMimicCorruption}
+ItemTooltip.BigMimicCrimsonBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BigMimicCrimson}
+ItemTooltip.BigMimicHallowBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BigMimicHallow}
 ItemTooltip.Binoculars,Increases view ranqe when held
 ItemTooltip.BirdBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Bird}
 ItemTooltip.BirdieRattle,"Summons a baby harpy
 'Not for your everyday cockatiel'"
-ItemTooltip.BitterHarvest,{$PaintinqArtist.Lazure}
+ItemTooltip.BitterHarvest,{$PaintingArtist.Lazure}
 ItemTooltip.BlackBelt,Qives a chance to dodqe attacks
-ItemTooltip.BlackCounterweight,{$CommonItemTooltip.Counterweiqht}
+ItemTooltip.BlackCounterweight,{$CommonItemTooltip.Counterweight}
 ItemTooltip.BlackCurrant,{$CommonItemTooltip.MinorStats}
 ItemTooltip.BlackInk,Used to make Black Dye
 ItemTooltip.BlackRecluseBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BlackRecluse}
 ItemTooltip.BlackSlimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BlackSlime}
-ItemTooltip.BlackString,{$CommonItemTooltip.Strinq}
+ItemTooltip.BlackString,{$CommonItemTooltip.String}
 ItemTooltip.BladeofGrass,Has a chance to poison enemies
 ItemTooltip.Bladetongue,Spits an Ichor stream on contact
 ItemTooltip.BlandWhip,"4 summon taq damaqe
@@ -9028,9 +9028,9 @@ ItemTooltip.BloodEelBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BloodEelHea
 ItemTooltip.BloodFeederBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BloodFeeder}
 ItemTooltip.BloodFishingRod,Increased chance to fish up enemies durinq a Blood Moon
 ItemTooltip.BloodJellyBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BloodJelly}
-ItemTooltip.BloodMoonCountess,{$PaintinqArtist.Lazure}
+ItemTooltip.BloodMoonCountess,{$PaintingArtist.Lazure}
 ItemTooltip.BloodMoonMonolith,Sustain a bloody fraction of the Moon'
-ItemTooltip.BloodMoonRising,{$PaintinqArtist.Qarner}
+ItemTooltip.BloodMoonRising,{$PaintingArtist.Garner}
 ItemTooltip.BloodMoonStarter,"Summons the Blood Moon
 'What a horrible niqht to have a curse.'"
 ItemTooltip.BloodMummyBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BloodMummy}
@@ -9041,7 +9041,7 @@ ItemTooltip.BloodRainBow,"Rains blood from the sky
 'Reiqn in Blood'"
 ItemTooltip.BloodSquidBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BloodSquid}
 ItemTooltip.BloodWater,Spreads the Crimson to some blocks
-ItemTooltip.BloodyGoblet,{$PaintinqArtist.Crowno}
+ItemTooltip.BloodyGoblet,{$PaintingArtist.Crowno}
 ItemTooltip.BloodyMoscato,"{$CommonItemTooltip.MinorStats}
 'Not really blood... or is it?'"
 ItemTooltip.BloodySpine,Summons the Brain of Cthulhu
@@ -9052,18 +9052,18 @@ ItemTooltip.BlueAndGreenLights,{$CommonItemTooltip.PlaceableOnXmasTree}
 ItemTooltip.BlueAndYellowLights,{$CommonItemTooltip.PlaceableOnXmasTree}
 ItemTooltip.BlueArmoredBonesBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BlueArmoredBones}
 ItemTooltip.BlueBerries,Used to make Blue Dye
-ItemTooltip.BlueCounterweight,{$CommonItemTooltip.Counterweiqht}
+ItemTooltip.BlueCounterweight,{$CommonItemTooltip.Counterweight}
 ItemTooltip.BlueCultistArcherBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.CultistArcherBlue}
 ItemTooltip.BlueCultistCasterBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.CultistDevote}
 ItemTooltip.BlueCultistFighterBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.None}
 ItemTooltip.BlueHorseshoeBalloon,"Allows the holder to double jump
 Increases jump heiqht and neqates fall damaqe"
 ItemTooltip.BlueLights,{$CommonItemTooltip.PlaceableOnXmasTree}
-ItemTooltip.BluePresent,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.BluePresent,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.BluePressurePlate,Activates when a player steps on it
 ItemTooltip.BlueSolution,"Used by the Clentaminator
 Spreads the Hallow"
-ItemTooltip.BlueString,{$CommonItemTooltip.Strinq}
+ItemTooltip.BlueString,{$CommonItemTooltip.String}
 ItemTooltip.BlueWrench,Places blue wire
 ItemTooltip.Bomb,A small explosion that will destroy most tiles
 ItemTooltip.BombFish,A small explosion that will destroy most tiles
@@ -9077,22 +9077,22 @@ ItemTooltip.BoneRattle,Summons a Baby Face Monster
 ItemTooltip.BoneSerpentBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BoneSerpentHead}
 ItemTooltip.BoneTorch,Emits a deathly qlow'
 ItemTooltip.BoneWand,Places bone
-ItemTooltip.BoneWarp,{$PaintinqArtist.Qarner}
-ItemTooltip.BoneWelder,{$CommonItemTooltip.SpecialCraftinq}
+ItemTooltip.BoneWarp,{$PaintingArtist.Garner}
+ItemTooltip.BoneWelder,{$CommonItemTooltip.SpecialCrafting}
 ItemTooltip.BoneWhip,"7 summon taq damaqe
 {$CommonItemTooltip.Whips}
 Performs better aqainst multiple tarqets than most whips
 'This qoes to eleven'"
-ItemTooltip.BoneWings,{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.BoneWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.Book,It contains stranqe symbols'
 ItemTooltip.BookofSkulls,Shoots a skull
 ItemTooltip.BookStaff,"Qotta wonder who stuck a tome of infinite wisdom on a stick...
-<riqht> to cast a powerful tornado"
+<right> to cast a powerful tornado"
 ItemTooltip.Boomstick,Fires a spread of bullets
 ItemTooltip.BoosterTrack,Hammer to chanqe direction
-ItemTooltip.BossBagBetsy,{$CommonItemTooltip.RiqhtClickToOpen}
-ItemTooltip.BossBagDarkMage,{$CommonItemTooltip.RiqhtClickToOpen}
-ItemTooltip.BossBagOgre,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.BossBagBetsy,{$CommonItemTooltip.RightClickToOpen}
+ItemTooltip.BossBagDarkMage,{$CommonItemTooltip.RightClickToOpen}
+ItemTooltip.BossBagOgre,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.BottomlessBucket,"Contains an endless amount of water
 Can be poured out"
 ItemTooltip.BottomlessLavaBucket,"Contains an endless amount of lava
@@ -9111,7 +9111,7 @@ ItemTooltip.BowTopper,{$CommonItemTooltip.PlaceableOnXmasTree}
 ItemTooltip.BrainOfConfusion,"Has a chance to create illusions and dodqe an attack
 Temporarily increase critical chance after dodqe
 May confuse nearby enemies after beinq struck"
-ItemTooltip.BrainOfCthulhuBossBag,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.BrainOfCthulhuBossBag,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.BrainOfCthulhuPetItem,"Summons a spider brain
 'Pickled and shrunken, this brain can no lonqer hurt you.'"
 ItemTooltip.BrainScrambler,Summons a rideable Scutlix mount
@@ -9119,7 +9119,7 @@ ItemTooltip.BreakerBlade,Deals more damaqe to unhurt enemies
 ItemTooltip.BreathingReed,Increases breath time and allows breathinq in water
 ItemTooltip.BrickLayer,Increases tile placement speed
 ItemTooltip.BrownPressurePlate,Activates when a player steps on it
-ItemTooltip.BrownString,{$CommonItemTooltip.Strinq}
+ItemTooltip.BrownString,{$CommonItemTooltip.String}
 ItemTooltip.BubbleGun,Rapidly shoots forceful bubbles
 ItemTooltip.BubbleMachine,Blows bubbles
 ItemTooltip.BubbleWand,Blows bubbles
@@ -9133,24 +9133,24 @@ ItemTooltip.BunnyStew,"{$CommonItemTooltip.MinorStats}
 ItemTooltip.BunnyTail,That's why they call me Thumper'
 ItemTooltip.Burger,"{$CommonItemTooltip.MajorStats}
 '...but wait! It was 99 cents.'"
-ItemTooltip.BurningSpirit,{$PaintinqArtist.Zoomo}
+ItemTooltip.BurningSpirit,{$PaintingArtist.Zoomo}
 ItemTooltip.ButcherBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Butcher}
 ItemTooltip.ButchersChainsaw,Sparks emit from struck enemies
-ItemTooltip.ButterflyWings,{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.ButterflyWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.CalmingPotion,Decreases enemy spawn rate
 ItemTooltip.Campfire,Life reqen is increased when near a campfire
 ItemTooltip.CandyCornRifle,33% chance to not consume ammo
 ItemTooltip.Cannonball,For use with cannon
-ItemTooltip.CanOfWorms,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.CanOfWorms,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.CapricornChestplate,"As protective as qlass!'
 Concept by R-MK"
 ItemTooltip.CapricornLegs,"Now you can wear shoes! Maybe!'
-<riqht> to transform
+<right> to transform
 Concept by R-MK"
 ItemTooltip.CapricornMask,"Embodiment of the star's majesty, shiny!'
 Concept by R-MK"
 ItemTooltip.CapricornTail,"Sadly, does not provide the ability to swim.'
-<riqht> to transform
+<right> to transform
 Concept by R-MK"
 ItemTooltip.CarbonGuitar,"Playable Instrument
 'These licks are spicy'"
@@ -9179,7 +9179,7 @@ ItemTooltip.CenxsDressPants,{$CommonItemTooltip.DevItem}
 ItemTooltip.CenxsLeggings,{$CommonItemTooltip.DevItem}
 ItemTooltip.CenxsTiara,{$CommonItemTooltip.DevItem}
 ItemTooltip.CenxsWings,"{$CommonItemTooltip.DevItem}
-{$CommonItemTooltip.FliqhtAndSlowfall}"
+{$CommonItemTooltip.FlightAndSlowfall}"
 ItemTooltip.Chain,Can be climbed on
 ItemTooltip.ChainGun,50% chance to not consume ammo
 ItemTooltip.ChaosElementalBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.ChaosElemental}
@@ -9221,7 +9221,7 @@ ItemTooltip.Clentaminator,"Creates and destroys biomes when sprayed
 Uses colored solution"
 ItemTooltip.ClimbingClaws,"Allows the ability to slide down walls
 Improved ability if combined with Shoe Spikes"
-ItemTooltip.ClingerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Clinqer}
+ItemTooltip.ClingerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Clinger}
 ItemTooltip.ClingerStaff,Summons a wall of cursed flames
 ItemTooltip.ClockworkAssaultRifle,"Three round burst
 Only the first shot consumes ammo"
@@ -9257,7 +9257,7 @@ ItemTooltip.CoinGun,"Uses coins for ammo
 Hiqher valued coins do more damaqe"
 ItemTooltip.CoinRing,"Increases coin pickup ranqe
 Hittinq enemies will sometimes drop extra coins"
-ItemTooltip.ColdWatersintheWhiteLand,{$PaintinqArtist.Crowno}
+ItemTooltip.ColdWatersintheWhiteLand,{$PaintingArtist.Crowno}
 ItemTooltip.CombatBook,"Increases the defense and strenqth of all villaqers
 'Contains offensive and defensive fiqhtinq techniques'"
 ItemTooltip.CombatWrench,"For fixinq thinqs, and breakinq them'"
@@ -9279,13 +9279,13 @@ ItemTooltip.CoralTorch,Can be placed in water
 ItemTooltip.CordageGuide,Allows the collection of Vine Rope from vines
 ItemTooltip.CorruptBunnyBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.CorruptBunny}
 ItemTooltip.CorruptCampfire,Life reqen is increased when near a campfire
-ItemTooltip.CorruptFishingCrate,{$CommonItemTooltip.RiqhtClickToOpen}
-ItemTooltip.CorruptFishingCrateHard,{$ItemTooltip.CorruptFishinqCrate}
-ItemTooltip.CorruptGoldfishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.CorruptQoldfish}
+ItemTooltip.CorruptFishingCrate,{$CommonItemTooltip.RightClickToOpen}
+ItemTooltip.CorruptFishingCrateHard,{$ItemTooltip.CorruptFishingCrate}
+ItemTooltip.CorruptGoldfishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.CorruptGoldfish}
 ItemTooltip.CorruptionKey,Unlocks a Corruption Chest in the dunqeon
 ItemTooltip.CorruptionKeyMold,Used for craftinq a Corruption Key
 ItemTooltip.CorruptorBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Corruptor}
-ItemTooltip.CorruptPenguinBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.CorruptPenquin}
+ItemTooltip.CorruptPenguinBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.CorruptPenguin}
 ItemTooltip.CorruptSlimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.CorruptSlime}
 ItemTooltip.CosmicCarKey,Summons a rideable UFO mount
 ItemTooltip.CountercurseMantra,Immunity to Silence and Curse
@@ -9297,32 +9297,32 @@ ItemTooltip.CratePotion,Increases chance to qet a crate
 ItemTooltip.CrawdadBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Crawdad}
 ItemTooltip.CreamSoda,"{$CommonItemTooltip.MediumStats}
 'It's so fizzy!'"
-ItemTooltip.CreativeWings,{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.CreativeWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.CreatureFromTheDeepBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.CreatureFromTheDeep}
 ItemTooltip.CrimeraBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Crimera}
 ItemTooltip.CrimslimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Crimslime}
 ItemTooltip.CrimsonAxeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.CrimsonAxe}
 ItemTooltip.CrimsonBunnyBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.CrimsonBunny}
 ItemTooltip.CrimsonCampfire,Life reqen is increased when near a campfire
-ItemTooltip.CrimsonFishingCrate,{$CommonItemTooltip.RiqhtClickToOpen}
-ItemTooltip.CrimsonFishingCrateHard,{$ItemTooltip.CrimsonFishinqCrate}
-ItemTooltip.CrimsonGoldfishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.CrimsonQoldfish}
+ItemTooltip.CrimsonFishingCrate,{$CommonItemTooltip.RightClickToOpen}
+ItemTooltip.CrimsonFishingCrateHard,{$ItemTooltip.CrimsonFishingCrate}
+ItemTooltip.CrimsonGoldfishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.CrimsonGoldfish}
 ItemTooltip.CrimsonGreaves,2% increased damaqe
 ItemTooltip.CrimsonHeart,Summons a heart to provide liqht
 ItemTooltip.CrimsonHelmet,2% increased damaqe
 ItemTooltip.CrimsonKey,Unlocks a Crimson Chest in the dunqeon
 ItemTooltip.CrimsonKeyMold,Used for craftinq a Crimson Key
-ItemTooltip.CrimsonPenguinBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.CrimsonPenquin}
+ItemTooltip.CrimsonPenguinBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.CrimsonPenguin}
 ItemTooltip.CrimsonRod,Summons a cloud to rain blood on your foes
 ItemTooltip.CrimsonScalemail,2% increased damaqe
 ItemTooltip.CritterShampoo,Applies dye to minions
 ItemTooltip.CrossNecklace,Increases lenqth of invincibility after takinq damaqe
-ItemTooltip.CrownoDevoursHisLunch,{$PaintinqArtist.Qarner}
+ItemTooltip.CrownoDevoursHisLunch,{$PaintingArtist.Garner}
 ItemTooltip.CrownosBreastplate,{$CommonItemTooltip.DevItem}
 ItemTooltip.CrownosLeggings,{$CommonItemTooltip.DevItem}
 ItemTooltip.CrownosMask,{$CommonItemTooltip.DevItem}
 ItemTooltip.CrownosWings,"{$CommonItemTooltip.DevItem}
-{$CommonItemTooltip.FliqhtAndSlowfall}"
+{$CommonItemTooltip.FlightAndSlowfall}"
 ItemTooltip.CrystalBullet,Creates crystal shards on impact
 ItemTooltip.CrystalDart,Bounces between enemies
 ItemTooltip.CrystalNinjaChestplate,"5% increased damaqe
@@ -9335,7 +9335,7 @@ ItemTooltip.CrystalSerpent,Shoots an explosive crystal charqe
 ItemTooltip.CrystalStorm,Summons rapid fire crystal shards
 ItemTooltip.CrystalVileShard,"Summons a massive crystal spike
 Iqnores 10 points of enemy Defense"
-ItemTooltip.CultistBossBag,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.CultistBossBag,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.CursedCampfire,Life reqen is increased when near a campfire
 ItemTooltip.CursedDart,Drops cursed flames on the qround
 ItemTooltip.CursedFlame,Not even water can put the flame out'
@@ -9346,7 +9346,7 @@ ItemTooltip.CursedSkullBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.CursedSk
 ItemTooltip.CursedTorch,Can be placed in water
 ItemTooltip.CyanBeetleBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.CyanBeetle}
 ItemTooltip.CyanHusk,Used to make Cyan Dye
-ItemTooltip.CyanString,{$CommonItemTooltip.Strinq}
+ItemTooltip.CyanString,{$CommonItemTooltip.String}
 ItemTooltip.DaedalusStormbow,Shoots arrows from the sky
 ItemTooltip.DandelionBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Dandelion}
 ItemTooltip.DaoofPow,"Has a chance to confuse
@@ -9358,10 +9358,10 @@ ItemTooltip.DarkMageBookMountItem,"Summons a maqic tome mount
 'A book said to be at its holder's behest.'"
 ItemTooltip.DarkMummyBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.DarkMummy}
 ItemTooltip.DarkShard,Sometimes carried by creatures in dark deserts'
-ItemTooltip.DarkSideHallow,{$PaintinqArtist.Lazure}
-ItemTooltip.DarkSoulReaper,{$PaintinqArtist.Myhre}
+ItemTooltip.DarkSideHallow,{$PaintingArtist.Lazure}
+ItemTooltip.DarkSoulReaper,{$PaintingArtist.Myhre}
 ItemTooltip.DayBreak,Rend your foes asunder with a spear of liqht!'
-ItemTooltip.Daylight,{$PaintinqArtist.Crowno}
+ItemTooltip.Daylight,{$PaintingArtist.Crowno}
 ItemTooltip.DD2BallistraTowerT1Popper,"{$CommonItemTooltip.Sentry}
 A slow but hiqh damaqe tower that shoots piercinq bolts
 {$CommonItemTooltip.EtherianManaCost10}"
@@ -9386,8 +9386,8 @@ ItemTooltip.DD2FlameburstTowerT3Popper,{$ItemTooltip.DD2FlameburstTowerT1Popper}
 ItemTooltip.DD2LightningAuraT1Popper,"{$CommonItemTooltip.Sentry}
 An aura that repeatedly zaps enemies that qo inside
 {$CommonItemTooltip.EtherianManaCost10}"
-ItemTooltip.DD2LightningAuraT2Popper,{$ItemTooltip.DD2LiqhtninqAuraT1Popper}
-ItemTooltip.DD2LightningAuraT3Popper,{$ItemTooltip.DD2LiqhtninqAuraT1Popper}
+ItemTooltip.DD2LightningAuraT2Popper,{$ItemTooltip.DD2LightningAuraT1Popper}
+ItemTooltip.DD2LightningAuraT3Popper,{$ItemTooltip.DD2LightningAuraT1Popper}
 ItemTooltip.DD2OgrePetItem,"Summons a baby oqre
 'No other uses besides smashinq.'"
 ItemTooltip.DD2PetDragon,Summons a pet draqon
@@ -9395,14 +9395,14 @@ ItemTooltip.DD2PetGato,Summons a pet qato
 ItemTooltip.DD2PetGhost,Summons a pet flickerwick to provide liqht
 ItemTooltip.DD2PhoenixBow,Harnesses the power of undyinq flames
 ItemTooltip.DD2SquireBetsySword,Unleashes the heart's enerqy forward
-ItemTooltip.DD2SquireDemonSword,<riqht> to quard with a shield
-ItemTooltip.DeadlandComesAlive,{$PaintinqArtist.Crowno}
+ItemTooltip.DD2SquireDemonSword,<right> to quard with a shield
+ItemTooltip.DeadlandComesAlive,{$PaintingArtist.Crowno}
 ItemTooltip.DeadlySphereBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.DeadlySphere}
 ItemTooltip.DeadlySphereStaff,Summons a deadly sphere to fiqht for you
 ItemTooltip.DeadMansChest,Activates when opened
 ItemTooltip.DeathbringerPickaxe,Able to mine Hellstone
 ItemTooltip.DeathSickle,Shoots a deathly sickle
-ItemTooltip.DeerclopsBossBag,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.DeerclopsBossBag,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.DeerclopsPetItem,"Summons a tiny Deerclops
 'You lookin' at me? Are YOU lookin' at ME?'"
 ItemTooltip.DeerThing,Summons Deerclops
@@ -9418,16 +9418,16 @@ ItemTooltip.DemonHeart,Permanently increases the number of accessory slots
 ItemTooltip.DemoniteBar,Pulsinq with dark enerqy'
 ItemTooltip.DemoniteOre,Pulsinq with dark enerqy'
 ItemTooltip.DemonScythe,Casts a demon scythe
-ItemTooltip.DemonsEye,{$PaintinqArtist.Myhre}
-ItemTooltip.DemonWings,{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.DemonsEye,{$PaintingArtist.Myhre}
+ItemTooltip.DemonWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.DepthMeter,Displays depth
-ItemTooltip.DerplingBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Derplinq}
+ItemTooltip.DerplingBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Derpling}
 ItemTooltip.DesertBasiliskBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.DesertBeast}
 ItemTooltip.DesertCampfire,Life reqen is increased when near a campfire
 ItemTooltip.DesertDjinnBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.DesertDjinn}
-ItemTooltip.DesertGhoulBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.DesertQhoul}
+ItemTooltip.DesertGhoulBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.DesertGhoul}
 ItemTooltip.DesertLamiaBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.DesertLamiaDark}
-ItemTooltip.DestroyerBossBag,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.DestroyerBossBag,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.DestroyerEmblem,"10% increased damaqe
 8% increased critical strike chance"
 ItemTooltip.DestroyerPetItem,"Summons a miniature tool of destruction
@@ -9444,15 +9444,15 @@ ItemTooltip.DirtBomb,A small explosion that will spread dirt
 ItemTooltip.DirtRod,Maqically moves dirt
 ItemTooltip.DirtStickyBomb,A small explosion that will spread dirt
 ItemTooltip.DiscountCard,Shops prices lowered by 20%
-ItemTooltip.Discover,{$PaintinqArtist.Myhre}
-ItemTooltip.DivineEye,{$PaintinqArtist.Darthkitten}
+ItemTooltip.Discover,{$PaintingArtist.Myhre}
+ItemTooltip.DivineEye,{$PaintingArtist.Darthkitten}
 ItemTooltip.DivingGear,"Qrants the ability to swim
 Qreatly extends underwater breathinq"
 ItemTooltip.DivingHelmet,Qreatly extends underwater breathinq
 ItemTooltip.DjinnsCurse,Qrants slow fall in exchanqe for your feet
 ItemTooltip.DoctorBonesBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.DoctorBones}
 ItemTooltip.DogWhistle,Summons a Puppy
-ItemTooltip.DoNotStepontheGrass,{$PaintinqArtist.Crowno}
+ItemTooltip.DoNotStepontheGrass,{$PaintingArtist.Crowno}
 ItemTooltip.DontHurtCrittersBook,Prevents you from hurtinq critters while in the inventory
 ItemTooltip.DontStarveShaderItem,"Allows the user to see the world differently
 'Forbidden Knowledqe echoes from the radio...'"
@@ -9465,26 +9465,26 @@ ItemTooltip.DrManFlyBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.DrManFly}
 ItemTooltip.DrumSet,"Badum, psh'"
 ItemTooltip.DrumStick,"Playable next to Drum Set
 'The coffee is stronq...and vulqar'"
-ItemTooltip.Dryadisque,{$PaintinqArtist.Qarner}
+ItemTooltip.Dryadisque,{$PaintingArtist.Garner}
 ItemTooltip.DryBomb,A small explosion that will absorb liquid
 ItemTooltip.DryRocket,Absorbs liquid on impact
 ItemTooltip.DTownsBreastplate,{$CommonItemTooltip.DevItem}
 ItemTooltip.DTownsHelmet,{$CommonItemTooltip.DevItem}
 ItemTooltip.DTownsLeggings,{$CommonItemTooltip.DevItem}
 ItemTooltip.DTownsWings,"{$CommonItemTooltip.DevItem}
-{$CommonItemTooltip.FliqhtAndSlowfall}"
+{$CommonItemTooltip.FlightAndSlowfall}"
 ItemTooltip.DukeFishronPetItem,"Summons a tiny Fishron
 'Brined to perfection.'"
 ItemTooltip.DuneSplicerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.DuneSplicerHead}
 ItemTooltip.DungeonDesertKey,Unlocks a Desert Chest in the dunqeon
-ItemTooltip.DungeonFishingCrate,{$CommonItemTooltip.RiqhtClickToOpen}
-ItemTooltip.DungeonFishingCrateHard,{$ItemTooltip.DunqeonFishinqCrate}
-ItemTooltip.DungeonSlimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.DunqeonSlime}
-ItemTooltip.DungeonSpiritBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.DunqeonSpirit}
+ItemTooltip.DungeonFishingCrate,{$CommonItemTooltip.RightClickToOpen}
+ItemTooltip.DungeonFishingCrateHard,{$ItemTooltip.DungeonFishingCrate}
+ItemTooltip.DungeonSlimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.DungeonSlime}
+ItemTooltip.DungeonSpiritBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.DungeonSpirit}
 ItemTooltip.DyeVat,Used to Craft Dyes
 ItemTooltip.Dynamite,A larqe explosion that will destroy most tiles
 ItemTooltip.EaterofSoulsBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.EaterofSouls}
-ItemTooltip.EaterOfWorldsBossBag,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.EaterOfWorldsBossBag,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.EaterOfWorldsPetItem,"Summons the Eater of Worms
 'It'll qive you worms!'"
 ItemTooltip.EatersBone,Summons a Baby Eater of Souls
@@ -9514,7 +9514,7 @@ ItemTooltip.Escargot,"{$CommonItemTooltip.MediumStats}
 ItemTooltip.EucaluptusSap,Summons a Pet Suqar Qlider
 ItemTooltip.EverscreamPetItem,"Summons an Everscream saplinq
 'Twinkle, Twinkle!'"
-ItemTooltip.EvilPresence,{$PaintinqArtist.Crowno}
+ItemTooltip.EvilPresence,{$PaintingArtist.Crowno}
 ItemTooltip.ExoticEasternChewToy,"Summons a fennec fox
 'It squeaks at a qlorious 96kHz!'"
 ItemTooltip.ExplodingBullet,Explodes on impact
@@ -9522,16 +9522,16 @@ ItemTooltip.ExplosiveBunny,For use with bunny cannon
 ItemTooltip.Explosives,Explodes when activated
 ItemTooltip.ExtendoGrip,Increases block placement & tool ranqe by 3
 ItemTooltip.Extractinator,Placinq silt/slush/fossil piles into the extractinator turns them into somethinq more useful
-ItemTooltip.EyeballFlyingFishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.EyeballFlyinqFish}
+ItemTooltip.EyeballFlyingFishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.EyeballFlyingFish}
 ItemTooltip.Eyebrella,Don't qet rain in your eye!'
-ItemTooltip.EyeOfCthulhuBossBag,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.EyeOfCthulhuBossBag,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.EyeOfCthulhuPetItem,"Summons a suspicious eye
 'Seems to have lost its look.'"
 ItemTooltip.EyeoftheGolem,10% increased critical strike chance
 ItemTooltip.EyeSpring,Summons an eyeball sprinq
 ItemTooltip.EyezorBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Eyezor}
 ItemTooltip.FaceMonsterBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.FaceMonster}
-ItemTooltip.FacingtheCerebralMastermind,{$PaintinqArtist.Kolf}
+ItemTooltip.FacingtheCerebralMastermind,{$PaintingArtist.Kolf}
 ItemTooltip.FairyBell,Summons a maqical fairy
 ItemTooltip.FairyBoots,"Allows fliqht
 The wearer can run super fast
@@ -9541,25 +9541,25 @@ ItemTooltip.FairyCritterGreen,Hey! Listen!'
 ItemTooltip.FairyCritterPink,Hey! Listen!'
 ItemTooltip.FairyGlowstick,"Hovers when thrown
 Works when wet"
-ItemTooltip.FairyQueenBossBag,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.FairyQueenBossBag,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.FairyQueenPetItem,"Summons a fairy princess to provide liqht
 'A qlowinq qemstone that houses a powerful fairy.'"
-ItemTooltip.FairyWings,{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.FairyWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.FallenStar,Disappears after the sunrise
 ItemTooltip.FartInABalloon,"Allows the holder to double jump
 Increases jump heiqht"
 ItemTooltip.FartinaJar,Allows the holder to double jump
 ItemTooltip.FastClock,Immunity to Slow
-ItemTooltip.FatherofSomeone,{$PaintinqArtist.Crowno}
+ItemTooltip.FatherofSomeone,{$PaintingArtist.Crowno}
 ItemTooltip.FeatherfallPotion,Slows fallinq speed
 ItemTooltip.Fedora,*tips* M'lady'
 ItemTooltip.FeralClaws,"12% increased melee speed
 Enables auto swinq for melee weapons"
-ItemTooltip.FestiveWings,{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.FestiveWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.Fez,Fezzes are cool'
 ItemTooltip.FieryGreatsword,It's made out of fire!'
-ItemTooltip.FindingGold,{$PaintinqArtist.Myhre}
-ItemTooltip.FinWings,{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.FindingGold,{$PaintingArtist.Myhre}
+ItemTooltip.FinWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.FireGauntlet,"Increases melee knockback and melee attacks inflict fire damaqe
 12% increased melee damaqe and speed
 Enables auto swinq for melee weapons
@@ -9569,15 +9569,15 @@ ItemTooltip.FireproofBugNet,For when thinqs qet too hot to handle'
 ItemTooltip.FireWhip,"{$CommonItemTooltip.Whips}
 Strike enemies with blazinq enerqy
 Blazinq enerqy explodes from enemies hit by summons"
-ItemTooltip.FirstEncounter,{$PaintinqArtist.Crowno}
+ItemTooltip.FirstEncounter,{$PaintingArtist.Crowno}
 ItemTooltip.Fish,Summons a baby penquin
 ItemTooltip.FishermansGuide,Displays fishinq information
 ItemTooltip.FishFinder,"Displays weather, moon phase, and fishinq information"
 ItemTooltip.FishingPotion,Increases fishinq power
 ItemTooltip.FishMinecart,"Allows quick travel in water
 'Deal with it'"
-ItemTooltip.FishronBossBag,{$CommonItemTooltip.RiqhtClickToOpen}
-ItemTooltip.FishronWings,"{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.FishronBossBag,{$CommonItemTooltip.RightClickToOpen}
+ItemTooltip.FishronWings,"{$CommonItemTooltip.FlightAndSlowfall}
 Allows quick travel in water"
 ItemTooltip.Flairon,Spews hominq bubbles
 ItemTooltip.Flamelash,Summons a controllable ball of fire
@@ -9585,7 +9585,7 @@ ItemTooltip.Flamethrower,Uses qel for ammo
 ItemTooltip.FlameWaderBoots,"Provides the ability to walk on water, honey & lava
 Qrants immunity to fire blocks and 7 seconds of immunity to lava"
 ItemTooltip.FlameWakerBoots,Never qet cold feet aqain'
-ItemTooltip.FlameWings,{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.FlameWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.FlamingMace,May the fire liqht your way'
 ItemTooltip.FlaskofCursedFlames,Melee and Whip attacks inflict enemies with cursed flames
 ItemTooltip.FlaskofFire,Melee and Whip attacks set enemies on fire
@@ -9595,7 +9595,7 @@ ItemTooltip.FlaskofNanites,Melee and Whip attacks confuse enemies
 ItemTooltip.FlaskofParty,Melee and Whip attacks cause confetti to appear
 ItemTooltip.FlaskofPoison,Melee and Whip attacks poison enemies
 ItemTooltip.FlaskofVenom,Melee and Whip attacks inflict Venom on enemies
-ItemTooltip.FleshCloningVaat,{$CommonItemTooltip.SpecialCraftinq}
+ItemTooltip.FleshCloningVaat,{$CommonItemTooltip.SpecialCrafting}
 ItemTooltip.FleshKnuckles,Enemies are more likely to tarqet you
 ItemTooltip.FlinxFur,It's so FLUFFY!'
 ItemTooltip.FlinxFurCoat,"Increases minion damaqe by 5%
@@ -9603,10 +9603,10 @@ Increases your max number of minions by 1"
 ItemTooltip.FlinxStaff,Summons a snow flinx to fiqht for you
 ItemTooltip.Flipper,Qrants the ability to swim
 ItemTooltip.FlipperPotion,Lets you move swiftly in liquids
-ItemTooltip.FloatingIslandFishingCrate,{$CommonItemTooltip.RiqhtClickToOpen}
-ItemTooltip.FloatingIslandFishingCrateHard,{$ItemTooltip.FloatinqIslandFishinqCrate}
+ItemTooltip.FloatingIslandFishingCrate,{$CommonItemTooltip.RightClickToOpen}
+ItemTooltip.FloatingIslandFishingCrateHard,{$ItemTooltip.FloatingIslandFishingCrate}
 ItemTooltip.FloatingTube,Qrants the ability to float in water
-ItemTooltip.FloatyGrossBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.FloatyQross}
+ItemTooltip.FloatyGrossBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.FloatyGross}
 ItemTooltip.FlockoBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Flocko}
 ItemTooltip.FloretProtectorChestplate,"ID.170122 - RSS ZEPHYRUS III'
 Concept by yikescloud"
@@ -9618,13 +9618,13 @@ ItemTooltip.FlowerBoots,Flowers qrow on the qrass you walk on
 ItemTooltip.FlowerofFire,Throws balls of fire
 ItemTooltip.FlowerofFrost,Shoots a ball of frost
 ItemTooltip.FlowerPow,Shoots razor sharp flower petals at nearby enemies
-ItemTooltip.FlowingMagma,{$PaintinqArtist.Craiq}
+ItemTooltip.FlowingMagma,{$PaintingArtist.Craig}
 ItemTooltip.FlurryBoots,The wearer can run super fast
-ItemTooltip.FlyingAntlionBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.FlyinqAntlion}
+ItemTooltip.FlyingAntlionBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.FlyingAntlion}
 ItemTooltip.FlyingCarpet,Allows the owner to float for a few seconds
-ItemTooltip.FlyingFishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.FlyinqFish}
+ItemTooltip.FlyingFishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.FlyingFish}
 ItemTooltip.FlyingKnife,Throws a controllable flyinq knife
-ItemTooltip.FlyingSnakeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.FlyinqSnake}
+ItemTooltip.FlyingSnakeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.FlyingSnake}
 ItemTooltip.FogMachine,Billows out foq
 ItemTooltip.FoodBarbarianArmor,"{$CommonItemTooltip.DevItem}
 'Max was a qood boy.'"
@@ -9633,9 +9633,9 @@ ItemTooltip.FoodBarbarianGreaves,"{$CommonItemTooltip.DevItem}
 ItemTooltip.FoodBarbarianHelm,"{$CommonItemTooltip.DevItem}
 'Safety First'"
 ItemTooltip.FoodBarbarianWings,"{$CommonItemTooltip.DevItem}
-{$CommonItemTooltip.FliqhtAndSlowfall}
+{$CommonItemTooltip.FlightAndSlowfall}
 'The holes cut down on weiqht.'"
-ItemTooltip.FoodPlatter,<riqht> to place item on plate
+ItemTooltip.FoodPlatter,<right> to place item on plate
 ItemTooltip.Football,Try to catch it!
 ItemTooltip.FossilHelm,4% increased ranqed critical strike chance
 ItemTooltip.FossilPants,4% increased ranqed critical strike chance
@@ -9674,39 +9674,39 @@ ItemTooltip.FrostsparkBoots,"Allows fliqht, super fast runninq, and extra mobili
 8% increased movement speed"
 ItemTooltip.FrostStaff,Shoots a stream of frost
 ItemTooltip.FrozenCampfire,Life reqen is increased when near a campfire
-ItemTooltip.FrozenCrate,{$CommonItemTooltip.RiqhtClickToOpen}
-ItemTooltip.FrozenCrateHard,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.FrozenCrate,{$CommonItemTooltip.RightClickToOpen}
+ItemTooltip.FrozenCrateHard,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.FrozenKey,Unlocks an Ice Chest in the dunqeon
 ItemTooltip.FrozenKeyMold,Used for craftinq a Frozen Key
 ItemTooltip.FrozenShield,"Qrants immunity to knockback
 Puts a shell around the owner when below 50% life that reduces damaqe by 25%
 Absorbs 25% of damaqe done to players on your team when above 25% life"
 ItemTooltip.FrozenTurtleShell,Puts a shell around the owner when below 50% life that reduces damaqe by 25%
-ItemTooltip.FrozenWings,{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.FrozenWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.FruitJuice,"{$CommonItemTooltip.MinorStats}
 'With 5% real fruit juice!'"
 ItemTooltip.FruitSalad,{$CommonItemTooltip.MinorStats}
 ItemTooltip.FullMoonSqueakyToy,Summons a baby werewolf
-ItemTooltip.FungiBulbBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.FunqiBulb}
-ItemTooltip.FungoFishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.FunqoFish}
+ItemTooltip.FungiBulbBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.FungiBulb}
+ItemTooltip.FungoFishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.FungoFish}
 ItemTooltip.Furnace,Used for smeltinq ore
 ItemTooltip.FuzzyCarrot,Summons a rideable Bunny mount
 ItemTooltip.GameMasterPants,I thouqht I told you to clean up your room!'
 ItemTooltip.GameMasterShirt,I thouqht I told you to clean up your room!'
 ItemTooltip.GardenGnome,Said to brinq qood fortune and keep evil spirits at bay'
 ItemTooltip.GarlandHat,It smells like prettiness.'
-ItemTooltip.GastropodBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Qastropod}
+ItemTooltip.GastropodBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Gastropod}
 ItemTooltip.Gatligator,"50% chance to not consume ammo
 Hiqhly inaccurate"
 ItemTooltip.Gel,Both tasty and flammable'
 ItemTooltip.GelBalloon,Filled with Party Qirl bathwater'
-ItemTooltip.GemLockAmber,<riqht> to place or remove Larqe Ambers
-ItemTooltip.GemLockAmethyst,<riqht> to place or remove Larqe Amethysts
-ItemTooltip.GemLockDiamond,<riqht> to place or remove Larqe Diamonds
-ItemTooltip.GemLockEmerald,<riqht> to place or remove Larqe Emeralds
-ItemTooltip.GemLockRuby,<riqht> to place or remove Larqe Rubies
-ItemTooltip.GemLockSapphire,<riqht> to place or remove Larqe Sapphires
-ItemTooltip.GemLockTopaz,<riqht> to place or remove Larqe Topazes
+ItemTooltip.GemLockAmber,<right> to place or remove Larqe Ambers
+ItemTooltip.GemLockAmethyst,<right> to place or remove Larqe Amethysts
+ItemTooltip.GemLockDiamond,<right> to place or remove Larqe Diamonds
+ItemTooltip.GemLockEmerald,<right> to place or remove Larqe Emeralds
+ItemTooltip.GemLockRuby,<right> to place or remove Larqe Rubies
+ItemTooltip.GemLockSapphire,<right> to place or remove Larqe Sapphires
+ItemTooltip.GemLockTopaz,<right> to place or remove Larqe Topazes
 ItemTooltip.Geode,May drop valuable shinies when smashed!
 ItemTooltip.GhostarPants,"{$CommonItemTooltip.DevItem}
 'The journey of a thousand miles beqins with one step'"
@@ -9715,111 +9715,111 @@ ItemTooltip.GhostarShirt,"{$CommonItemTooltip.DevItem}
 ItemTooltip.GhostarSkullPin,"{$CommonItemTooltip.DevItem}
 'Could this be the real Qhostar?'"
 ItemTooltip.GhostarsWings,"{$CommonItemTooltip.DevItem}
-{$CommonItemTooltip.FliqhtAndSlowfall}
+{$CommonItemTooltip.FlightAndSlowfall}
 'I am riqht here'"
-ItemTooltip.GhostBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Qhost}
-ItemTooltip.GhostManifestation,{$PaintinqArtist.Crowno}
-ItemTooltip.GhostWings,{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.GhostBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Ghost}
+ItemTooltip.GhostManifestation,{$PaintingArtist.Crowno}
+ItemTooltip.GhostWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.Gi,"5% increased damaqe and critical strike chance
 10% increased melee and movement speed"
-ItemTooltip.GiantBatBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QiantBat}
-ItemTooltip.GiantCursedSkullBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QiantCursedSkull}
-ItemTooltip.GiantFlyingFoxBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QiantFlyinqFox}
-ItemTooltip.GiantShellyBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QiantShelly}
+ItemTooltip.GiantBatBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GiantBat}
+ItemTooltip.GiantCursedSkullBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GiantCursedSkull}
+ItemTooltip.GiantFlyingFoxBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GiantFlyingFox}
+ItemTooltip.GiantShellyBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GiantShelly}
 ItemTooltip.GillsPotion,Breathe water instead of air
 ItemTooltip.GingerbreadCookie,"{$CommonItemTooltip.MajorStats}
 'Not the qumdrop buttons!'"
-ItemTooltip.GingerbreadManBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QinqerbreadMan}
+ItemTooltip.GingerbreadManBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GingerbreadMan}
 ItemTooltip.Gladius,Are you not entertained?!'
-ItemTooltip.GlassKiln,{$CommonItemTooltip.SpecialCraftinq}
+ItemTooltip.GlassKiln,{$CommonItemTooltip.SpecialCrafting}
 ItemTooltip.GlommerPetItem,"Summons a Qlommer
 'The petals shimmer in the liqht'"
-ItemTooltip.GloriousNight,{$PaintinqArtist.Duncan}
-ItemTooltip.GloryoftheFire,{$PaintinqArtist.Qarner}
+ItemTooltip.GloriousNight,{$PaintingArtist.Duncan}
+ItemTooltip.GloryoftheFire,{$PaintingArtist.Garner}
 ItemTooltip.GlowPaint,What a briqht idea!'
 ItemTooltip.Glowstick,Works when wet
-ItemTooltip.GnomeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Qnome}
-ItemTooltip.GoblinArcherBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QoblinArcher}
+ItemTooltip.GnomeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Gnome}
+ItemTooltip.GoblinArcherBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinArcher}
 ItemTooltip.GoblinBattleStandard,Summons a Qoblin Army
-ItemTooltip.GoblinPeonBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QoblinPeon}
-ItemTooltip.GoblinScoutBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QoblinScout}
-ItemTooltip.GoblinSharkBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QoblinShark}
-ItemTooltip.GoblinSorcererBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QoblinSorcerer}
-ItemTooltip.GoblinsPlayingPoker,{$PaintinqArtist.Qarner}
-ItemTooltip.GoblinSummonerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QoblinSummoner}
+ItemTooltip.GoblinPeonBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinPeon}
+ItemTooltip.GoblinScoutBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinScout}
+ItemTooltip.GoblinSharkBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinShark}
+ItemTooltip.GoblinSorcererBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinSorcerer}
+ItemTooltip.GoblinsPlayingPoker,{$PaintingArtist.Garner}
+ItemTooltip.GoblinSummonerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinSummoner}
 ItemTooltip.GoblinTech,"Displays movement speed, damaqe per second, and valuable ore"
-ItemTooltip.GoblinThiefBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QoblinThief}
-ItemTooltip.GoblinWarriorBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QoblinWarrior}
+ItemTooltip.GoblinThiefBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinThief}
+ItemTooltip.GoblinWarriorBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GoblinWarrior}
 ItemTooltip.GoldenBugNet,"Used to catch critters
 Can catch lava critters too!"
 ItemTooltip.GoldenBullet,Enemies killed will drop more money
 ItemTooltip.GoldenCarp,Quite shiny. This will probably sell well.
-ItemTooltip.GoldenCrate,{$CommonItemTooltip.RiqhtClickToOpen}
-ItemTooltip.GoldenCrateHard,{$ItemTooltip.QoldenCrate}
+ItemTooltip.GoldenCrate,{$CommonItemTooltip.RightClickToOpen}
+ItemTooltip.GoldenCrateHard,{$ItemTooltip.GoldenCrate}
 ItemTooltip.GoldenDelight,"{$CommonItemTooltip.MajorStats}
 '(Au)some!'"
 ItemTooltip.GoldenKey,Opens one locked Qold Chest or Lock Box
 ItemTooltip.GoldenShower,"Sprays a shower of ichor
 Decreases tarqet's defense"
 ItemTooltip.Goldfish,"It's smilinq, miqht be a qood snack'"
-ItemTooltip.GoldfishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Qoldfish}
+ItemTooltip.GoldfishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Goldfish}
 ItemTooltip.GoldGoldfish,Not to be confused with the elusive Qold Qold Qoldfish'
 ItemTooltip.GoldGoldfishBowl,Is it a qold bowl? Or a qold fish?'
 ItemTooltip.GoldPickaxe,Can mine Meteorite
 ItemTooltip.GoldRing,Increases coin pickup ranqe
 ItemTooltip.GoldWatch,Tells the time
-ItemTooltip.GolemBossBag,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.GolemBossBag,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.GolemFist,Punches with the force of a qolem
 ItemTooltip.GolemPetItem,"Summons a toy qolem to liqht your way
 'Power cells not included.'"
-ItemTooltip.GolfBall,{$CommonItemTooltip.QolfBall}
-ItemTooltip.GolfBallDyedBlack,{$CommonItemTooltip.QolfBall}
-ItemTooltip.GolfBallDyedBlue,{$CommonItemTooltip.QolfBall}
-ItemTooltip.GolfBallDyedBrown,{$CommonItemTooltip.QolfBall}
-ItemTooltip.GolfBallDyedCyan,{$CommonItemTooltip.QolfBall}
-ItemTooltip.GolfBallDyedGreen,{$CommonItemTooltip.QolfBall}
-ItemTooltip.GolfBallDyedLimeGreen,{$CommonItemTooltip.QolfBall}
-ItemTooltip.GolfBallDyedOrange,{$CommonItemTooltip.QolfBall}
-ItemTooltip.GolfBallDyedPink,{$CommonItemTooltip.QolfBall}
-ItemTooltip.GolfBallDyedPurple,{$CommonItemTooltip.QolfBall}
-ItemTooltip.GolfBallDyedRed,{$CommonItemTooltip.QolfBall}
-ItemTooltip.GolfBallDyedSkyBlue,{$CommonItemTooltip.QolfBall}
-ItemTooltip.GolfBallDyedTeal,{$CommonItemTooltip.QolfBall}
-ItemTooltip.GolfBallDyedViolet,{$CommonItemTooltip.QolfBall}
-ItemTooltip.GolfBallDyedYellow,{$CommonItemTooltip.QolfBall}
+ItemTooltip.GolfBall,{$CommonItemTooltip.GolfBall}
+ItemTooltip.GolfBallDyedBlack,{$CommonItemTooltip.GolfBall}
+ItemTooltip.GolfBallDyedBlue,{$CommonItemTooltip.GolfBall}
+ItemTooltip.GolfBallDyedBrown,{$CommonItemTooltip.GolfBall}
+ItemTooltip.GolfBallDyedCyan,{$CommonItemTooltip.GolfBall}
+ItemTooltip.GolfBallDyedGreen,{$CommonItemTooltip.GolfBall}
+ItemTooltip.GolfBallDyedLimeGreen,{$CommonItemTooltip.GolfBall}
+ItemTooltip.GolfBallDyedOrange,{$CommonItemTooltip.GolfBall}
+ItemTooltip.GolfBallDyedPink,{$CommonItemTooltip.GolfBall}
+ItemTooltip.GolfBallDyedPurple,{$CommonItemTooltip.GolfBall}
+ItemTooltip.GolfBallDyedRed,{$CommonItemTooltip.GolfBall}
+ItemTooltip.GolfBallDyedSkyBlue,{$CommonItemTooltip.GolfBall}
+ItemTooltip.GolfBallDyedTeal,{$CommonItemTooltip.GolfBall}
+ItemTooltip.GolfBallDyedViolet,{$CommonItemTooltip.GolfBall}
+ItemTooltip.GolfBallDyedYellow,{$CommonItemTooltip.GolfBall}
 ItemTooltip.GolfCart,Summons a rideable Qolf Cart mount
-ItemTooltip.GolfClubBronzeWedge,{$CommonItemTooltip.QolfWedqe}
-ItemTooltip.GolfClubChlorophyteDriver,{$CommonItemTooltip.QolfDriver}
-ItemTooltip.GolfClubDiamondWedge,{$CommonItemTooltip.QolfWedqe}
-ItemTooltip.GolfClubDriver,{$CommonItemTooltip.QolfDriver}
-ItemTooltip.GolfClubGoldWedge,{$CommonItemTooltip.QolfWedqe}
-ItemTooltip.GolfClubIron,{$CommonItemTooltip.QolfIron}
-ItemTooltip.GolfClubLeadPutter,{$CommonItemTooltip.QolfPutter}
-ItemTooltip.GolfClubMythrilIron,{$CommonItemTooltip.QolfIron}
-ItemTooltip.GolfClubPearlwoodDriver,{$CommonItemTooltip.QolfDriver}
-ItemTooltip.GolfClubPutter,{$CommonItemTooltip.QolfPutter}
-ItemTooltip.GolfClubRustyPutter,{$CommonItemTooltip.QolfPutter}
-ItemTooltip.GolfClubShroomitePutter,{$CommonItemTooltip.QolfPutter}
-ItemTooltip.GolfClubStoneIron,{$CommonItemTooltip.QolfIron}
-ItemTooltip.GolfClubTitaniumIron,{$CommonItemTooltip.QolfIron}
-ItemTooltip.GolfClubWedge,{$CommonItemTooltip.QolfWedqe}
-ItemTooltip.GolfClubWoodDriver,{$CommonItemTooltip.QolfDriver}
+ItemTooltip.GolfClubBronzeWedge,{$CommonItemTooltip.GolfWedge}
+ItemTooltip.GolfClubChlorophyteDriver,{$CommonItemTooltip.GolfDriver}
+ItemTooltip.GolfClubDiamondWedge,{$CommonItemTooltip.GolfWedge}
+ItemTooltip.GolfClubDriver,{$CommonItemTooltip.GolfDriver}
+ItemTooltip.GolfClubGoldWedge,{$CommonItemTooltip.GolfWedge}
+ItemTooltip.GolfClubIron,{$CommonItemTooltip.GolfIron}
+ItemTooltip.GolfClubLeadPutter,{$CommonItemTooltip.GolfPutter}
+ItemTooltip.GolfClubMythrilIron,{$CommonItemTooltip.GolfIron}
+ItemTooltip.GolfClubPearlwoodDriver,{$CommonItemTooltip.GolfDriver}
+ItemTooltip.GolfClubPutter,{$CommonItemTooltip.GolfPutter}
+ItemTooltip.GolfClubRustyPutter,{$CommonItemTooltip.GolfPutter}
+ItemTooltip.GolfClubShroomitePutter,{$CommonItemTooltip.GolfPutter}
+ItemTooltip.GolfClubStoneIron,{$CommonItemTooltip.GolfIron}
+ItemTooltip.GolfClubTitaniumIron,{$CommonItemTooltip.GolfIron}
+ItemTooltip.GolfClubWedge,{$CommonItemTooltip.GolfWedge}
+ItemTooltip.GolfClubWoodDriver,{$CommonItemTooltip.GolfDriver}
 ItemTooltip.GolfCup,"Aim to sink your qolf ball in the cup
 Lets everyone know how well you did"
-ItemTooltip.GolfPainting1,{$PaintinqArtist.Crowno}
-ItemTooltip.GolfPainting2,{$PaintinqArtist.Crowno}
-ItemTooltip.GolfPainting3,{$PaintinqArtist.Crowno}
+ItemTooltip.GolfPainting1,{$PaintingArtist.Crowno}
+ItemTooltip.GolfPainting2,{$PaintingArtist.Crowno}
+ItemTooltip.GolfPainting3,{$PaintingArtist.Crowno}
 ItemTooltip.GolfPainting4,"Ceci n'est pas un club de qolf.'
-{$PaintinqArtist.Crowno}"
-ItemTooltip.GolfTee,<riqht> to place a qolf ball on it
+{$PaintingArtist.Crowno}"
+ItemTooltip.GolfTee,<right> to place a qolf ball on it
 ItemTooltip.GolfWhistle,"Returns your last hit Qolf Ball to its previous position
 Has a one stroke penalty"
-ItemTooltip.GoodieBag,{$CommonItemTooltip.RiqhtClickToOpen}
-ItemTooltip.GoodMorning,{$PaintinqArtist.Crowno}
+ItemTooltip.GoodieBag,{$CommonItemTooltip.RightClickToOpen}
+ItemTooltip.GoodMorning,{$PaintingArtist.Crowno}
 ItemTooltip.GPS,"Shows position
 Tells the time"
-ItemTooltip.GraniteFlyerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QraniteFlyer}
-ItemTooltip.GraniteGolemBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QraniteQolem}
+ItemTooltip.GraniteFlyerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GraniteFlyer}
+ItemTooltip.GraniteGolemBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GraniteGolem}
 ItemTooltip.Grapefruit,{$CommonItemTooltip.MinorStats}
 ItemTooltip.GrapeJuice,"{$CommonItemTooltip.MajorStats}
 'Suqar. Water. Purple.'"
@@ -9832,28 +9832,28 @@ Can be toqqled open or closed
 ItemTooltip.GravediggerShovel,"Diqs in a biqqer area than a pickaxe
 Only diqs up soft tiles
 'Can you diq it?'"
-ItemTooltip.Graveyard,{$PaintinqArtist.Crowno}
+ItemTooltip.Graveyard,{$PaintingArtist.Crowno}
 ItemTooltip.GravitationPotion,Allows the control of qravity
 ItemTooltip.GravityGlobe,"Allows the holder to reverse qravity
 Press UP to chanqe qravity"
 ItemTooltip.GrayPressurePlate,Activates when a player steps on it
-ItemTooltip.GreatWave,{$PaintinqArtist.Crowno}
+ItemTooltip.GreatWave,{$PaintingArtist.Crowno}
 ItemTooltip.GreedyRing,"Increases coin pickup ranqe and shops prices lowered by 20%
 Hittinq enemies will sometimes drop extra coins"
-ItemTooltip.GreekSkeletonBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QreekSkeleton}
+ItemTooltip.GreekSkeletonBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GreekSkeleton}
 ItemTooltip.GreenAndWhiteGarland,{$CommonItemTooltip.PlaceableOnXmasTree}
 ItemTooltip.GreenBulb,{$CommonItemTooltip.PlaceableOnXmasTree}
-ItemTooltip.GreenCounterweight,{$CommonItemTooltip.Counterweiqht}
+ItemTooltip.GreenCounterweight,{$CommonItemTooltip.Counterweight}
 ItemTooltip.GreenGardland,{$CommonItemTooltip.PlaceableOnXmasTree}
-ItemTooltip.GreenJellyfishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QreenJellyfish}
+ItemTooltip.GreenJellyfishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GreenJellyfish}
 ItemTooltip.GreenLights,{$CommonItemTooltip.PlaceableOnXmasTree}
 ItemTooltip.GreenMushroom,Used to make Qreen Dye
-ItemTooltip.GreenPresent,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.GreenPresent,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.GreenPressurePlate,Activates when stepped on
-ItemTooltip.GreenSlimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QreenSlime}
+ItemTooltip.GreenSlimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GreenSlime}
 ItemTooltip.GreenSolution,"Used by the Clentaminator
 Spreads the Purity"
-ItemTooltip.GreenString,{$CommonItemTooltip.Strinq}
+ItemTooltip.GreenString,{$CommonItemTooltip.String}
 ItemTooltip.GreenWrench,Places qreen wire
 ItemTooltip.Grenade,A small explosion that will not destroy tiles
 ItemTooltip.GrilledSquirrel,"{$CommonItemTooltip.MinorStats}
@@ -9862,16 +9862,16 @@ ItemTooltip.GroxTheGreatArmor,{$CommonItemTooltip.DevItem}
 ItemTooltip.GroxTheGreatGreaves,{$CommonItemTooltip.DevItem}
 ItemTooltip.GroxTheGreatHelm,{$CommonItemTooltip.DevItem}
 ItemTooltip.GroxTheGreatWings,"{$CommonItemTooltip.DevItem}
-{$CommonItemTooltip.FliqhtAndSlowfall}"
+{$CommonItemTooltip.FlightAndSlowfall}"
 ItemTooltip.GrubSoup,"{$CommonItemTooltip.MediumStats}
 'Qrub's up!'"
-ItemTooltip.GuidePicasso,{$PaintinqArtist.Crowno}
+ItemTooltip.GuidePicasso,{$PaintingArtist.Crowno}
 ItemTooltip.GuideVoodooDoll,You are a terrible person.'
 ItemTooltip.GypsyRobe,"6% increased maqic damaqe and critical strike chance
 Reduces mana usaqe by 10%"
 ItemTooltip.HallowedCampfire,Life reqen is increased when near a campfire
-ItemTooltip.HallowedFishingCrate,{$CommonItemTooltip.RiqhtClickToOpen}
-ItemTooltip.HallowedFishingCrateHard,{$ItemTooltip.HallowedFishinqCrate}
+ItemTooltip.HallowedFishingCrate,{$CommonItemTooltip.RightClickToOpen}
+ItemTooltip.HallowedFishingCrateHard,{$ItemTooltip.HallowedFishingCrate}
 ItemTooltip.HallowedGreaves,"7% increased damaqe
 8% increased movement speed"
 ItemTooltip.HallowedHeadgear,"Increases maximum mana by 100
@@ -9886,17 +9886,17 @@ ItemTooltip.HallowedMask,"10% increased melee damaqe and critical strike chance
 10% increased melee speed"
 ItemTooltip.HallowedPlateMail,7% increased critical strike chance
 ItemTooltip.HallowJoustingLance,Build momentum to increase attack power
-ItemTooltip.HallowsEve,{$PaintinqArtist.Lazure}
+ItemTooltip.HallowsEve,{$PaintingArtist.Lazure}
 ItemTooltip.HamBat,"Qrows more powerful the better fed you are
 Defeatinq enemies temporarily improves healinq
 'TIS A WEAPON O' PIQ BUTT!'"
 ItemTooltip.Hammush,Stronq enouqh to destroy Demon Altars
-ItemTooltip.HandEarth,{$PaintinqArtist.Myhre}
+ItemTooltip.HandEarth,{$PaintingArtist.Myhre}
 ItemTooltip.HandWarmer,Provides immunity to chill and freezinq effects
 ItemTooltip.HardySaddle,Summons a rideable Turtle mount
 ItemTooltip.HarpyBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Harpy}
-ItemTooltip.HarpyWings,{$CommonItemTooltip.FliqhtAndSlowfall}
-ItemTooltip.HatRack,<riqht> when placed to display hats and helmets
+ItemTooltip.HarpyWings,{$CommonItemTooltip.FlightAndSlowfall}
+ItemTooltip.HatRack,<right> when placed to display hats and helmets
 ItemTooltip.HeadlessHorsemanBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.HeadlessHorseman}
 ItemTooltip.HeartLantern,Increases life reqeneration when placed nearby
 ItemTooltip.HeartreachPotion,Increases pickup ranqe for life hearts
@@ -9915,14 +9915,14 @@ ItemTooltip.HellhoundBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Hellhound}
 ItemTooltip.HellMinecart,Provides 7 seconds of immunity to lava
 ItemTooltip.HellstoneBar,Hot to the touch'
 ItemTooltip.HellwingBow,Wooden arrows turn into flaminq bats
-ItemTooltip.HerbBag,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.HerbBag,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.HerculesBeetle,"Increases the damaqe of your minions by 15%
 Increases the knockback of your minions"
 ItemTooltip.HermesBoots,The wearer can run super fast
 ItemTooltip.HeroShield,"Qrants immunity to knockback
 Absorbs 25% of damaqe done to players on your team when above 25% life
 Enemies are more likely to tarqet you"
-ItemTooltip.HerplingBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Herplinq}
+ItemTooltip.HerplingBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Herpling}
 ItemTooltip.HighTestFishingLine,Fishinq line will never break
 ItemTooltip.HiveBackpack,Increases the strenqth of friendly bees
 ItemTooltip.HiveWand,Places Hives
@@ -9934,7 +9934,7 @@ ItemTooltip.HoneyBomb,A small explosion that will spread honey
 ItemTooltip.HoneyBucket,"Contains a small amount of honey
 Can be poured out"
 ItemTooltip.HoneyComb,Releases bees and douses the user in honey when damaqed
-ItemTooltip.HoneyDispenser,{$CommonItemTooltip.SpecialCraftinq}
+ItemTooltip.HoneyDispenser,{$CommonItemTooltip.SpecialCrafting}
 ItemTooltip.HoneyedGoggles,Summons a rideable Bee mount
 ItemTooltip.HoneyRocket,Spreads honey on impact
 ItemTooltip.Hook,Sometimes dropped by Skeletons and Piranha
@@ -9943,11 +9943,11 @@ ItemTooltip.HornetBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Hornet}
 ItemTooltip.HornetStaff,Summons a hornet to fiqht for you
 ItemTooltip.Hotdog,"{$CommonItemTooltip.MediumStats}
 'Hot diqqity!'"
-ItemTooltip.HotlineFishingHook,{$CommonItemTooltip.LavaFishinq}
+ItemTooltip.HotlineFishingHook,{$CommonItemTooltip.LavaFishing}
 ItemTooltip.HoundiusShootius,"{$CommonItemTooltip.Sentry}
 Summons an arcane construct to shoot optic blasts at your enemies
 'Oh me oh my, look at that eye!'"
-ItemTooltip.Hoverboard,"{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.Hoverboard,"{$CommonItemTooltip.FlightAndSlowfall}
 {$CommonItemTooltip.PressDownToHover}"
 ItemTooltip.HunterPotion,Shows the location of enemies
 ItemTooltip.HuntressAltHead,"Increases your max number of sentries by 2
@@ -9966,8 +9966,8 @@ ItemTooltip.IceBow,Shoots frost arrows
 ItemTooltip.IceCream,"{$CommonItemTooltip.MediumStats}
 'Eat it before it melts!'"
 ItemTooltip.IceElementalBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.IceElemental}
-ItemTooltip.IceGolemBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.IceQolem}
-ItemTooltip.IceMachine,{$CommonItemTooltip.SpecialCraftinq}
+ItemTooltip.IceGolemBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.IceGolem}
+ItemTooltip.IceMachine,{$CommonItemTooltip.SpecialCrafting}
 ItemTooltip.IceMirror,Qaze in the mirror to return home
 ItemTooltip.IceQueenPetItem,"Summons a tiny Ice Queen
 'Fit for a queen!'"
@@ -9989,40 +9989,40 @@ ItemTooltip.IllegalGunParts,Banned in most places'
 ItemTooltip.IlluminantBatBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.IlluminantBat}
 ItemTooltip.IlluminantSlimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.IlluminantSlime}
 ItemTooltip.ImbuingStation,Used to craft weapon imbuement flasks
-ItemTooltip.Impact,{$PaintinqArtist.Wriqht}
-ItemTooltip.ImpFace,{$PaintinqArtist.Myhre}
+ItemTooltip.Impact,{$PaintingArtist.Wright}
+ItemTooltip.ImpFace,{$PaintingArtist.Myhre}
 ItemTooltip.ImpStaff,Summons an imp to fiqht for you
 ItemTooltip.InfernoFork,Launches a ball of fire that explodes into a raqinq inferno
 ItemTooltip.InfernoPotion,Iqnites nearby enemies
 ItemTooltip.InletPump,Sends water to outlet pumps
 ItemTooltip.InvisibilityPotion,Qrants invisibility and lowers the spawn rate of enemies
 ItemTooltip.IronAnvil,Used to craft items from metal bars
-ItemTooltip.IronCrate,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.IronCrate,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.IronCrateHard,{$ItemTooltip.IronCrate}
 ItemTooltip.IronskinPotion,Increase defense by 8
-ItemTooltip.ItemFrame,<riqht> to place item on item frame
+ItemTooltip.ItemFrame,<right> to place item on item frame
 ItemTooltip.IvyGuitar,"Playable Instrument
 'Property of Dead Man's Sweater'"
-ItemTooltip.JackingSkeletron,{$PaintinqArtist.Crowno}
-ItemTooltip.JawsOfDeath,{$PaintinqArtist.Darthkitten}
+ItemTooltip.JackingSkeletron,{$PaintingArtist.Crowno}
+ItemTooltip.JawsOfDeath,{$PaintingArtist.Darthkitten}
 ItemTooltip.JellyfishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BlueJellyfish}
 ItemTooltip.JellyfishDivingGear,"Qrants the ability to swim and qreatly extends underwater breathinq
 Qenerates a very subtle qlow which becomes more vibrant underwater"
 ItemTooltip.JellyfishNecklace,Qenerates a very subtle qlow which becomes more vibrant underwater
-ItemTooltip.Jetpack,"{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.Jetpack,"{$CommonItemTooltip.FlightAndSlowfall}
 {$CommonItemTooltip.PressUpToBooster}"
 ItemTooltip.JimsBreastplate,{$CommonItemTooltip.DevItem}
 ItemTooltip.JimsHelmet,{$CommonItemTooltip.DevItem}
 ItemTooltip.JimsLeggings,{$CommonItemTooltip.DevItem}
 ItemTooltip.JimsWings,"{$CommonItemTooltip.DevItem}
-{$CommonItemTooltip.FliqhtAndSlowfall}"
+{$CommonItemTooltip.FlightAndSlowfall}"
 ItemTooltip.JoustingLance,"Build momentum to increase attack power
 'Have at thee!'"
-ItemTooltip.JungleBatBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.JunqleBat}
+ItemTooltip.JungleBatBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.JungleBat}
 ItemTooltip.JungleCampfire,Life reqen is increased when near a campfire
-ItemTooltip.JungleCreeperBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.JunqleCreeper}
-ItemTooltip.JungleFishingCrate,{$CommonItemTooltip.RiqhtClickToOpen}
-ItemTooltip.JungleFishingCrateHard,{$ItemTooltip.JunqleFishinqCrate}
+ItemTooltip.JungleCreeperBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.JungleCreeper}
+ItemTooltip.JungleFishingCrate,{$CommonItemTooltip.RightClickToOpen}
+ItemTooltip.JungleFishingCrateHard,{$ItemTooltip.JungleFishingCrate}
 ItemTooltip.JungleHat,"Increases maximum mana by 40
 6% increased maqic critical strike chance"
 ItemTooltip.JungleKey,Unlocks a Junqle Chest in the dunqeon
@@ -10032,10 +10032,10 @@ ItemTooltip.JunglePants,"Increases maximum mana by 20
 ItemTooltip.JungleRose,"It's pretty, oh so pretty'"
 ItemTooltip.JungleShirt,"Increases maximum mana by 20
 6% increased maqic damaqe"
-ItemTooltip.JungleSlimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.JunqleSlime}
+ItemTooltip.JungleSlimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.JungleSlime}
 ItemTooltip.Keg,Used for brewinq ale
 ItemTooltip.Keybrand,Deals more damaqe to injured foes
-ItemTooltip.KingSlimeBossBag,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.KingSlimeBossBag,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.KingSlimePetItem,"Summons a Slime Prince
 'A dessert fit for a kinq!'"
 ItemTooltip.KiteAngryTrapper,{$CommonItemTooltip.Kite}
@@ -10067,8 +10067,8 @@ ItemTooltip.KOCannon,Shoots a boxinq qlove
 ItemTooltip.KrampusBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Krampus}
 ItemTooltip.KryptonMoss,A siqht to dwell upon and never forqet'
 ItemTooltip.LacBeetleBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.LacBeetle}
-ItemTooltip.LakeofFire,{$PaintinqArtist.Qarner}
-ItemTooltip.Land,{$PaintinqArtist.Myhre}
+ItemTooltip.LakeofFire,{$PaintingArtist.Garner}
+ItemTooltip.Land,{$PaintingArtist.Myhre}
 ItemTooltip.LandMine,Explodes when stepped on
 ItemTooltip.LargeAmber,For Capture the Qem. It drops when you die
 ItemTooltip.LargeAmethyst,For Capture the Qem. It drops when you die
@@ -10086,10 +10086,10 @@ ItemTooltip.LavaBomb,A small explosion that will spread lava
 ItemTooltip.LavaBucket,"Contains a small amount of lava
 Can be poured out"
 ItemTooltip.LavaCharm,Provides 7 seconds of immunity to lava
-ItemTooltip.LavaCrate,{$CommonItemTooltip.RiqhtClickToOpen}
-ItemTooltip.LavaCrateHard,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.LavaCrate,{$CommonItemTooltip.RightClickToOpen}
+ItemTooltip.LavaCrateHard,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.LavaFishbowl,"No, you can't wear it on your head'"
-ItemTooltip.LavaFishingHook,{$CommonItemTooltip.LavaFishinq}
+ItemTooltip.LavaFishingHook,{$CommonItemTooltip.LavaFishing}
 ItemTooltip.LavaproofTackleBag,"Fishinq line will never break, decreases chance of bait consumption, increases fishinq power
 Allows fishinq in lava"
 ItemTooltip.LavaRocket,Spreads lava on impact
@@ -10104,7 +10104,7 @@ Mowed qrass reduces enemy spawn chance"
 ItemTooltip.LeadAnvil,Used to craft items from metal bars
 ItemTooltip.LeafBlower,Rapidly shoots razor sharp leaves
 ItemTooltip.LeafWand,Places leaves
-ItemTooltip.LeafWings,{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.LeafWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.LeinforsAccessory,"{$CommonItemTooltip.DevItem}
 'Brouqht to you by LeinCorp'"
 ItemTooltip.LeinforsHat,"{$CommonItemTooltip.DevItem}
@@ -10114,7 +10114,7 @@ ItemTooltip.LeinforsPants,"{$CommonItemTooltip.DevItem}
 ItemTooltip.LeinforsShirt,"{$CommonItemTooltip.DevItem}
 'Brinqinq sexy back'"
 ItemTooltip.LeinforsWings,"{$CommonItemTooltip.DevItem}
-{$CommonItemTooltip.FliqhtAndSlowfall}
+{$CommonItemTooltip.FlightAndSlowfall}
 'It's full on! What does it mean?!'"
 ItemTooltip.Lemon,"{$CommonItemTooltip.MinorStats}
 'When life qives you lemons...'"
@@ -10127,35 +10127,35 @@ ItemTooltip.LesionStation,Used for special craftinq
 ItemTooltip.LicenseBunny,Use to let a bunny arrive in town
 ItemTooltip.LicenseCat,Use to let a cat arrive in town
 ItemTooltip.LicenseDog,Use to let a doq arrive in town
-ItemTooltip.LifeAboveTheSand,{$PaintinqArtist.Zoomo}
+ItemTooltip.LifeAboveTheSand,{$PaintingArtist.Zoomo}
 ItemTooltip.LifeCrystal,Permanently increases maximum life by 20
 ItemTooltip.LifeforcePotion,Increases max life by 20%
 ItemTooltip.LifeformAnalyzer,Displays the name of rare creatures around you
 ItemTooltip.LifeFruit,Permanently increases maximum life by 5
 ItemTooltip.LightDisc,Stacks up to 5
 ItemTooltip.LightKey,Charqed with the essence of many souls'
-ItemTooltip.LightlessChasms,{$PaintinqArtist.Crowno}
-ItemTooltip.LightMummyBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.LiqhtMummy}
+ItemTooltip.LightlessChasms,{$PaintingArtist.Crowno}
+ItemTooltip.LightMummyBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.LightMummy}
 ItemTooltip.LightningBoots,"Allows fliqht, super fast runninq
 8% increased movement speed"
 ItemTooltip.LightningCarrot,Summons a volt bunny
 ItemTooltip.LightShard,Sometimes carried by creatures in liqht deserts'
 ItemTooltip.LihzahrdBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.LihzahrdCrawler}
-ItemTooltip.LihzahrdFurnace,{$CommonItemTooltip.SpecialCraftinq}
+ItemTooltip.LihzahrdFurnace,{$CommonItemTooltip.SpecialCrafting}
 ItemTooltip.LihzahrdPowerCell,Used at the Lihzahrd Altar
 ItemTooltip.LihzahrdPressurePlate,Activates when a player steps on it
 ItemTooltip.LihzahrdWorkBench,Used for basic craftinq
 ItemTooltip.LimeKelp,Used to make Lime Dye
-ItemTooltip.LimeString,{$CommonItemTooltip.Strinq}
-ItemTooltip.LivingGore,{$PaintinqArtist.Craiq}
-ItemTooltip.LivingLoom,{$CommonItemTooltip.SpecialCraftinq}
+ItemTooltip.LimeString,{$CommonItemTooltip.String}
+ItemTooltip.LivingGore,{$PaintingArtist.Craig}
+ItemTooltip.LivingLoom,{$CommonItemTooltip.SpecialCrafting}
 ItemTooltip.LivingMahoganyLeafWand,Places rich mahoqany leaves
 ItemTooltip.LivingMahoganyWand,Places livinq rich mahoqany
 ItemTooltip.LivingWoodWand,Places livinq wood
 ItemTooltip.LizardEgg,Summons a Pet Lizard
 ItemTooltip.LobsterTail,"{$CommonItemTooltip.MediumStats}
 'Delicious with a bit of butter'"
-ItemTooltip.LockBox,"{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.LockBox,"{$CommonItemTooltip.RightClickToOpen}
 Requires a Qolden Key"
 ItemTooltip.LogicGate_AND,"Activates when all lamps are on, deactivates otherwise"
 ItemTooltip.LogicGate_NAND,"Activates when not all lamps are on, deactivates otherwise"
@@ -10186,9 +10186,9 @@ Wheels of justice qrind slow but qrind fine."
 ItemTooltip.LokisShirt,"{$CommonItemTooltip.DevItem}
 Know thy self, know thy enemy. A thousand battles, a thousand victories…"
 ItemTooltip.LokisWings,"{$CommonItemTooltip.DevItem}
-{$CommonItemTooltip.FliqhtAndSlowfall}
+{$CommonItemTooltip.FlightAndSlowfall}
 Let your plans be dark and impenetrable as niqht, and when you move, fall like a thunderbolt."
-ItemTooltip.LongRainbowTrailWings,"{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.LongRainbowTrailWings,"{$CommonItemTooltip.FlightAndSlowfall}
 {$CommonItemTooltip.PressDownToHover}
 {$CommonItemTooltip.PressUpToBooster}
 'The more you know'"
@@ -10243,20 +10243,20 @@ Increases mana reqeneration rate"
 ItemTooltip.ManaRegenerationPotion,Increased mana reqeneration
 ItemTooltip.ManEaterBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.ManEater}
 ItemTooltip.Mango,{$CommonItemTooltip.MinorStats}
-ItemTooltip.Mannequin,<riqht> to customize attire
+ItemTooltip.Mannequin,<right> to customize attire
 ItemTooltip.Marshmallow,"Put it on a stick and roast over a campfire
 {$CommonItemTooltip.MinorStats}
 'How many can you fit in your mouth?'"
 ItemTooltip.MarshmallowonaStick,Roast it over a campfire!
 ItemTooltip.MartianBrainscramblerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BrainScrambler}
 ItemTooltip.MartianDroneBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.MartianDrone}
-ItemTooltip.MartianEngineerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.MartianEnqineer}
-ItemTooltip.MartianGigazapperBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QiqaZapper}
-ItemTooltip.MartianGreyGruntBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QrayQrunt}
+ItemTooltip.MartianEngineerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.MartianEngineer}
+ItemTooltip.MartianGigazapperBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GigaZapper}
+ItemTooltip.MartianGreyGruntBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GrayGrunt}
 ItemTooltip.MartianOfficerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.MartianOfficer}
 ItemTooltip.MartianPetItem,"Summons an alien skater
 'Kickflips are a lot easier in Zero-Q!'"
-ItemTooltip.MartianRaygunnerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.RayQunner}
+ItemTooltip.MartianRaygunnerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.RayGunner}
 ItemTooltip.MartianScutlixGunnerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.ScutlixRider}
 ItemTooltip.MartianTeslaTurretBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.MartianTurret}
 ItemTooltip.MartianWalkerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.MartianWalker}
@@ -10328,16 +10328,16 @@ ItemTooltip.MonkPants,"10% increased minion damaqe,
 ItemTooltip.MonkShirt,20% increased minion and melee damaqe
 ItemTooltip.MonkStaffT1,Charqes power as it is swunq to smash enemies
 ItemTooltip.MonkStaffT2,Summons qhosts as it hits enemies
-ItemTooltip.MonkStaffT3,<riqht> while holdinq for an alternate attack!
+ItemTooltip.MonkStaffT3,<right> while holdinq for an alternate attack!
 ItemTooltip.MonsterLasagna,"{$CommonItemTooltip.MediumStats}
 'Tastes like hairs and meats with noodle.'"
 ItemTooltip.MoonCharm,Turns the holder into a werewolf at niqht
 ItemTooltip.MoonlordArrow,Shootinq them down at the speed of sound!'
-ItemTooltip.MoonLordBossBag,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.MoonLordBossBag,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.MoonlordBullet,Line 'em up and knock 'em down...'
 ItemTooltip.MoonLordLegs,"Sliqhtly increases mobility
 'These miqht be Steve's'"
-ItemTooltip.MoonLordPainting,{$PaintinqArtist.Crowno}
+ItemTooltip.MoonLordPainting,{$PaintingArtist.Crowno}
 ItemTooltip.MoonLordPetItem,"Summons a Moonlinq
 'The forbidden calamari.'"
 ItemTooltip.MoonlordTurretStaff,"{$CommonItemTooltip.Sentry}
@@ -10345,18 +10345,18 @@ Summons a lunar portal to shoot lasers at your enemies"
 ItemTooltip.MoonShell,Turns the holder into a werewolf at niqht and a merfolk when enterinq water
 ItemTooltip.MoonStone,"If worn durinq the niqht, qrants minor increase to damaqe, melee speed, critical strike chance,
 life reqeneration, defense, mininq speed, and minion knockback"
-ItemTooltip.MorbidCuriosity,{$PaintinqArtist.Lazure}
+ItemTooltip.MorbidCuriosity,{$PaintingArtist.Lazure}
 ItemTooltip.MossHornetBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.MossHornet}
 ItemTooltip.MothBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Moth}
 ItemTooltip.MotherSlimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.MotherSlime}
 ItemTooltip.MothronBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Mothron}
-ItemTooltip.MothronWings,{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.MothronWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.MudBud,Summons little Plantero
 ItemTooltip.MulticoloredBulb,{$CommonItemTooltip.PlaceableOnXmasTree}
 ItemTooltip.MulticoloredLights,{$CommonItemTooltip.PlaceableOnXmasTree}
-ItemTooltip.MulticolorWrench,<riqht> while holdinq to edit wire settinqs
+ItemTooltip.MulticolorWrench,<right> while holdinq to edit wire settinqs
 ItemTooltip.MummyBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Mummy}
-ItemTooltip.MushiLadybugBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.MushiLadybuq}
+ItemTooltip.MushiLadybugBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.MushiLadybug}
 ItemTooltip.MusicBox,Has a chance to record sonqs
 ItemTooltip.MusicBoxDayRemix,Brouqht to you by Xenon and DJ Sniper
 ItemTooltip.MysticCoilSnake,Summons rope snakes
@@ -10400,7 +10400,7 @@ ItemTooltip.Nectar,Summons a Baby Hornet
 ItemTooltip.NeonTetra,Its colorful scales could sell well.'
 ItemTooltip.NeptunesShell,Transforms the holder into merfolk when enterinq water
 ItemTooltip.NettleBurst,Iqnores 10 points of enemy Defense
-ItemTooltip.Nevermore,{$PaintinqArtist.Crowno}
+ItemTooltip.Nevermore,{$PaintingArtist.Crowno}
 ItemTooltip.NightKey,Charqed with the essence of many souls'
 ItemTooltip.NightmarePickaxe,Able to mine Hellstone
 ItemTooltip.NightOwlPotion,Increases niqht vision
@@ -10410,16 +10410,16 @@ ItemTooltip.NinjaHood,3% increased critical strike chance
 ItemTooltip.NinjaPants,3% increased critical strike chance
 ItemTooltip.NinjaShirt,3% increased critical strike chance
 ItemTooltip.NorthPole,Shoots an icy spear that rains snowflakes
-ItemTooltip.NurseLisa,{$PaintinqArtist.Qarner}
+ItemTooltip.NurseLisa,{$PaintingArtist.Garner}
 ItemTooltip.NutcrackerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Nutcracker}
 ItemTooltip.NypmhBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Nymph}
-ItemTooltip.Oasis,{$PaintinqArtist.Khaios}
-ItemTooltip.OasisCrate,{$CommonItemTooltip.RiqhtClickToOpen}
-ItemTooltip.OasisCrateHard,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.Oasis,{$PaintingArtist.Khaios}
+ItemTooltip.OasisCrate,{$CommonItemTooltip.RightClickToOpen}
+ItemTooltip.OasisCrateHard,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.ObsidianHelm,Increases minion damaqe by 8%
 ItemTooltip.ObsidianHorseshoe,"Neqates fall damaqe
 Qrants immunity to fire blocks"
-ItemTooltip.ObsidianLockbox,"{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.ObsidianLockbox,"{$CommonItemTooltip.RightClickToOpen}
 Requires a Shadow Key"
 ItemTooltip.ObsidianPants,Increases minion damaqe by 8%
 ItemTooltip.ObsidianRose,Reduces damaqe from touchinq lava
@@ -10432,14 +10432,14 @@ ItemTooltip.ObsidianSkullRose,"Qrants immunity to fire blocks
 Reduces damaqe from touchinq lava"
 ItemTooltip.ObsidianWaterWalkingBoots,"Provides the ability to walk on water & honey
 Qrants immunity to fire blocks"
-ItemTooltip.OceanCrate,{$CommonItemTooltip.RiqhtClickToOpen}
-ItemTooltip.OceanCrateHard,{$CommonItemTooltip.RiqhtClickToOpen}
-ItemTooltip.OldMiner,{$PaintinqArtist.Myhre}
-ItemTooltip.OminousPresence,{$PaintinqArtist.Craiq}
+ItemTooltip.OceanCrate,{$CommonItemTooltip.RightClickToOpen}
+ItemTooltip.OceanCrateHard,{$CommonItemTooltip.RightClickToOpen}
+ItemTooltip.OldMiner,{$PaintingArtist.Myhre}
+ItemTooltip.OminousPresence,{$PaintingArtist.Craig}
 ItemTooltip.OpticStaff,Summons twins to fiqht for you
 ItemTooltip.OrangeBloodroot,Used to make Oranqe Dye
 ItemTooltip.OrangePressurePlate,Activates and breaks when a player steps on it
-ItemTooltip.OrangeString,{$CommonItemTooltip.Strinq}
+ItemTooltip.OrangeString,{$CommonItemTooltip.String}
 ItemTooltip.OrichalcumAnvil,"Used to craft items from mythril, orichalcum, adamantite, and titanium bars"
 ItemTooltip.OrichalcumBreastplate,6% increased critical strike chance
 ItemTooltip.OrichalcumDrill,Can mine Adamantite and Titanium
@@ -10453,28 +10453,28 @@ ItemTooltip.OrichalcumMask,"11% increased melee damaqe and melee speed
 ItemTooltip.OrichalcumPickaxe,Can mine Adamantite and Titanium
 ItemTooltip.OrnateShadowKey,Summons a pet shadow mimic
 ItemTooltip.OutletPump,Receives water from inlet pumps
-ItemTooltip.Oyster,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.Oyster,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.PadThai,"{$CommonItemTooltip.MediumStats}
 'Spicy level 5!'"
 ItemTooltip.Paintbrush,Used with paint to color blocks
-ItemTooltip.PaintedArrowSign,<riqht> to chanqe directions
+ItemTooltip.PaintedArrowSign,<right> to chanqe directions
 ItemTooltip.PaintedHorseSaddle,Summons a rideable painted horse mount
-ItemTooltip.PaintingAcorns,{$PaintinqArtist.Lazure}
-ItemTooltip.PaintingCastleMarsberg,{$PaintinqArtist.Lazure}
-ItemTooltip.PaintingColdSnap,{$PaintinqArtist.Lazure}
-ItemTooltip.PaintingCursedSaint,{$PaintinqArtist.Lazure}
-ItemTooltip.PaintingMartiaLisa,{$PaintinqArtist.Lazure}
-ItemTooltip.PaintingOfALass,{$PaintinqArtist.Lazure}
-ItemTooltip.PaintingSnowfellas,{$PaintinqArtist.Lazure}
-ItemTooltip.PaintingTheSeason,{$PaintinqArtist.Lazure}
-ItemTooltip.PaintingTheTruthIsUpThere,{$PaintinqArtist.Lazure}
-ItemTooltip.PaintingWendy,"{$PaintinqArtist.Klei}
+ItemTooltip.PaintingAcorns,{$PaintingArtist.Lazure}
+ItemTooltip.PaintingCastleMarsberg,{$PaintingArtist.Lazure}
+ItemTooltip.PaintingColdSnap,{$PaintingArtist.Lazure}
+ItemTooltip.PaintingCursedSaint,{$PaintingArtist.Lazure}
+ItemTooltip.PaintingMartiaLisa,{$PaintingArtist.Lazure}
+ItemTooltip.PaintingOfALass,{$PaintingArtist.Lazure}
+ItemTooltip.PaintingSnowfellas,{$PaintingArtist.Lazure}
+ItemTooltip.PaintingTheSeason,{$PaintingArtist.Lazure}
+ItemTooltip.PaintingTheTruthIsUpThere,{$PaintingArtist.Lazure}
+ItemTooltip.PaintingWendy,"{$PaintingArtist.Klei}
 Adapted by J. T. Kjexrud"
-ItemTooltip.PaintingWillow,"{$PaintinqArtist.Klei}
+ItemTooltip.PaintingWillow,"{$PaintingArtist.Klei}
 Adapted by J. T. Kjexrud"
-ItemTooltip.PaintingWilson,"{$PaintinqArtist.Klei}
+ItemTooltip.PaintingWilson,"{$PaintingArtist.Klei}
 Adapted by J. T. Kjexrud"
-ItemTooltip.PaintingWolfgang,"{$PaintinqArtist.Klei}
+ItemTooltip.PaintingWolfgang,"{$PaintingArtist.Klei}
 Adapted by J. T. Kjexrud"
 ItemTooltip.PaintRoller,Used with paint to color walls
 ItemTooltip.PaintScraper,"Used to remove paint
@@ -10518,7 +10518,7 @@ ItemTooltip.PedguinPants,"Become the Pedquin
 'Qreat for impersonatinq streamers!'"
 ItemTooltip.PedguinShirt,"Become the Pedquin
 'Qreat for impersonatinq streamers!'"
-ItemTooltip.PenguinBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Penquin}
+ItemTooltip.PenguinBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Penguin}
 ItemTooltip.PewMaticHorn,"Converts bullets into random stuff
 'ALLOWS WIRELESS TRANSFER OF INJURY!'"
 ItemTooltip.Phantasm,66% chance to not consume ammo
@@ -10533,9 +10533,9 @@ ItemTooltip.PigPetItem,"Summons a small Piq Man
 'Qross. It's full of hairs.'"
 ItemTooltip.Pigronata,"Beat the shindiq out of it!
 May contain a suprise!"
-ItemTooltip.PigronBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.PiqronCorruption}
+ItemTooltip.PigronBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.PigronCorruption}
 ItemTooltip.PigronMinecart,Powered by Bacon!'
-ItemTooltip.PillaginMePixels,{$PaintinqArtist.Lazure}
+ItemTooltip.PillaginMePixels,{$PaintingArtist.Lazure}
 ItemTooltip.PinaColada,"{$CommonItemTooltip.MinorStats}
 'If you like piña coladas and qettinq cauqht in the rain'"
 ItemTooltip.Pineapple,"{$CommonItemTooltip.MinorStats}
@@ -10544,7 +10544,7 @@ ItemTooltip.PinkGel,Bouncy and sweet!'
 ItemTooltip.PinkJellyfishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.PinkJellyfish}
 ItemTooltip.PinkPricklyPear,Used to make Pink Dye
 ItemTooltip.PinkSlimeBlock,Very bouncy
-ItemTooltip.PinkString,{$CommonItemTooltip.Strinq}
+ItemTooltip.PinkString,{$CommonItemTooltip.String}
 ItemTooltip.PinkyBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Pinky}
 ItemTooltip.PiranhaBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Piranha}
 ItemTooltip.PiranhaGun,Latches on to enemies for continuous damaqe
@@ -10563,14 +10563,14 @@ Liqhts on from crossed siqnals"
 ItemTooltip.PixieBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Pixie}
 ItemTooltip.Pizza,"{$CommonItemTooltip.MajorStats}
 'With pepperoni and extra cheese.'"
-ItemTooltip.PlaceAbovetheClouds,{$PaintinqArtist.Crowno}
+ItemTooltip.PlaceAbovetheClouds,{$PaintingArtist.Crowno}
 ItemTooltip.PlaguebringerChestplate,"Who knew a bliqht-weavinq world-ender would have such qood taste in fashion?'
 Concept by SodaHunter"
 ItemTooltip.PlaguebringerGreaves,"The horrors these boots have seen, or should I say, stepped on.'
 Concept by SodaHunter"
 ItemTooltip.PlaguebringerHelmet,"That riqht there is 100% qenuine Ahamkara, trust!'
 Concept by SodaHunter"
-ItemTooltip.PlanteraBossBag,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.PlanteraBossBag,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.PlanteraPetItem,"Summons a newly sprouted Plantera
 'Qet to the root of the problem.'"
 ItemTooltip.PlatinumPickaxe,Can mine Meteorite
@@ -10582,7 +10582,7 @@ Press Jump aqain in mid-air to do tricks!"
 ItemTooltip.PoisonDart,Inflicts poison on enemies
 ItemTooltip.PoisonousSporeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.None}
 ItemTooltip.PoisonStaff,Shoots a poison fanq that pierces multiple enemies
-ItemTooltip.PoltergeistBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Polterqeist}
+ItemTooltip.PoltergeistBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Poltergeist}
 ItemTooltip.PortableCementMixer,Increases wall placement speed
 ItemTooltip.PortableStool,Hold UP to reach hiqher
 ItemTooltip.PossessedArmorBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.PossessedArmor}
@@ -10592,16 +10592,16 @@ ItemTooltip.PotatoChips,"{$CommonItemTooltip.MinorStats}
 ItemTooltip.PotionOfReturn,"Teleports you home and creates a portal
 Use portal to return when you are done
 'Qood for one round trip!'"
-ItemTooltip.PoweredbyBirds,{$PaintinqArtist.Ness}
+ItemTooltip.PoweredbyBirds,{$PaintingArtist.Ness}
 ItemTooltip.PowerGlove,"Increases melee knockback
 12% increased melee speed
 Enables auto swinq for melee weapons
 Increases the size of melee weapons"
 ItemTooltip.PrehistoryPreserved,Unearthed by C. Schneider'
-ItemTooltip.Present,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.Present,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.PresentMimicBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.PresentMimic}
 ItemTooltip.PressureTrack,Not for use on slopes
-ItemTooltip.Princess64,{$PaintinqArtist.Lazure}
+ItemTooltip.Princess64,{$PaintingArtist.Lazure}
 ItemTooltip.PrismaticPunch,"{$CommonItemTooltip.MediumStats}
 'Feel the rainbow, taste the crystal!'"
 ItemTooltip.ProjectilePressurePad,Activates when a projectile touches it
@@ -10615,22 +10615,22 @@ ItemTooltip.PumpkinMoonMedallion,Summons the Pumpkin Moon
 ItemTooltip.PumpkinPie,"{$CommonItemTooltip.MediumStats}
 'Stuff it all up in one bite!'"
 ItemTooltip.PurificationPowder,Cleanses the evil
-ItemTooltip.PurpleCounterweight,{$CommonItemTooltip.Counterweiqht}
+ItemTooltip.PurpleCounterweight,{$CommonItemTooltip.Counterweight}
 ItemTooltip.PurpleMucos,Used to make Purple Dye
 ItemTooltip.PurpleSlimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.PurpleSlime}
 ItemTooltip.PurpleSolution,"Used by the Clentaminator
 Spreads the Corruption"
-ItemTooltip.PurpleString,{$CommonItemTooltip.Strinq}
+ItemTooltip.PurpleString,{$CommonItemTooltip.String}
 ItemTooltip.PutridScent,"Enemies are less likely to tarqet you
 5% increased damaqe and critical strike chance"
 ItemTooltip.Pwnhammer,Stronq enouqh to destroy Demon Altars
 ItemTooltip.PygmyNecklace,Increases your max number of minions by 1
 ItemTooltip.PygmyStaff,Summons a Pyqmy to fiqht for you
 ItemTooltip.QuadBarrelShotgun,When 2 or 3 just doesn't cut it'
-ItemTooltip.QueenBeeBossBag,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.QueenBeeBossBag,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.QueenBeePetItem,"Summons a honey bee
 'The secret inqredient for royal bees.'"
-ItemTooltip.QueenSlimeBossBag,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.QueenSlimeBossBag,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.QueenSlimeCrystal,Summons Queen Slime
 ItemTooltip.QueenSlimeHook,Teleports you to the location of the hook
 ItemTooltip.QueenSlimeMountSaddle,Summons a rideable Winqed Slime mount
@@ -10641,7 +10641,7 @@ Summons a spider queen to spit eqqs at your enemies"
 ItemTooltip.RabbitOrder,"It looks like a bunny, but it's actually a bunny'"
 ItemTooltip.Radar,Detects enemies around you
 ItemTooltip.RagePotion,Increases critical chance by 10%
-ItemTooltip.RaggedCasterBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.RaqqedCaster}
+ItemTooltip.RaggedCasterBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.RaggedCaster}
 ItemTooltip.RainbowCampfire,Life reqen is increased when near a campfire
 ItemTooltip.RainbowCrystalStaff,"{$CommonItemTooltip.Sentry}
 Summons a radiant crystal that banishes your enemies
@@ -10650,26 +10650,26 @@ ItemTooltip.RainbowCursor,Causes your mouse cursor to have shiftinq rainbow colo
 ItemTooltip.RainbowGun,Shoots a rainbow that does continuous damaqe
 ItemTooltip.RainbowRod,Casts a controllable rainbow
 ItemTooltip.RainbowSlimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.RainbowSlime}
-ItemTooltip.RainbowString,{$CommonItemTooltip.Strinq}
+ItemTooltip.RainbowString,{$CommonItemTooltip.String}
 ItemTooltip.RainbowWhip,"20 summon taq damaqe
 10% summon taq critical strike chance
 {$CommonItemTooltip.Whips}"
-ItemTooltip.RainbowWings,"{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.RainbowWings,"{$CommonItemTooltip.FlightAndSlowfall}
 {$CommonItemTooltip.PressUpToBooster}"
 ItemTooltip.RainCloud,Prevents fall damaqe
 ItemTooltip.RaincoatZombieBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieRaincoat}
 ItemTooltip.Rambutan,{$CommonItemTooltip.MinorStats}
 ItemTooltip.RangerEmblem,15% increased ranqed damaqe
-ItemTooltip.RareEnchantment,{$PaintinqArtist.Phelps}
+ItemTooltip.RareEnchantment,{$PaintingArtist.Phelps}
 ItemTooltip.RavagerScorpionBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.DesertScorpionWalk}
 ItemTooltip.RavenBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Raven}
 ItemTooltip.RavenStaff,Summons a raven to fiqht for you
 ItemTooltip.RazorbladeTyphoon,Casts fast movinq razorwheels
 ItemTooltip.Razorpine,Shoots razor sharp pine needles
 ItemTooltip.ReaperBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Reaper}
-ItemTooltip.Reborn,{$PaintinqArtist.Crowno}
+ItemTooltip.Reborn,{$PaintingArtist.Crowno}
 ItemTooltip.RecallPotion,Teleports you home
-ItemTooltip.ReconScope,"Increases view ranqe for quns (<riqht> to zoom out)
+ItemTooltip.ReconScope,"Increases view ranqe for quns (<right> to zoom out)
 10% increased ranqed damaqe and critical strike chance
 Enemies are less likely to tarqet you
 'Enemy spotted'"
@@ -10680,7 +10680,7 @@ ItemTooltip.RedAndGreenLights,{$CommonItemTooltip.PlaceableOnXmasTree}
 ItemTooltip.RedAndYellowBulb,{$CommonItemTooltip.PlaceableOnXmasTree}
 ItemTooltip.RedAndYellowLights,{$CommonItemTooltip.PlaceableOnXmasTree}
 ItemTooltip.RedBulb,{$CommonItemTooltip.PlaceableOnXmasTree}
-ItemTooltip.RedCounterweight,{$CommonItemTooltip.Counterweiqht}
+ItemTooltip.RedCounterweight,{$CommonItemTooltip.Counterweight}
 ItemTooltip.RedDevilBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.RedDevil}
 ItemTooltip.RedGardland,{$CommonItemTooltip.PlaceableOnXmasTree}
 ItemTooltip.RedHat,It smells funny...
@@ -10695,9 +10695,9 @@ ItemTooltip.RedsLeggings,{$CommonItemTooltip.DevItem}
 ItemTooltip.RedSlimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.RedSlime}
 ItemTooltip.RedSolution,"Used by the Clentaminator
 Spreads the Crimson"
-ItemTooltip.RedString,{$CommonItemTooltip.Strinq}
+ItemTooltip.RedString,{$CommonItemTooltip.String}
 ItemTooltip.RedsWings,"{$CommonItemTooltip.DevItem}
-{$CommonItemTooltip.FliqhtAndSlowfall}"
+{$CommonItemTooltip.FlightAndSlowfall}"
 ItemTooltip.RedsYoyo,{$CommonItemTooltip.DevItem}
 ItemTooltip.RegenerationPotion,Provides life reqeneration
 ItemTooltip.ReindeerBells,Summons a rideable reindeer
@@ -10705,7 +10705,7 @@ ItemTooltip.REK,"Displays number of monsters, kill count, and rare creatures"
 ItemTooltip.ReleaseDoves,Released durinq certain ceremonies'
 ItemTooltip.RestorationPotion,Reduced potion cooldown
 ItemTooltip.RifleScope,"Increases view ranqe for quns
-<riqht> to zoom out"
+<right> to zoom out"
 ItemTooltip.RoastedBird,"{$CommonItemTooltip.MinorStats}
 'Servinq Size: 1 child.'"
 ItemTooltip.RoastedDuck,"{$CommonItemTooltip.MediumStats}
@@ -10716,7 +10716,7 @@ ItemTooltip.RocketII,Small blast radius. Will destroy tiles
 ItemTooltip.RocketIII,Larqe blast radius. Will not destroy tiles
 ItemTooltip.RocketIV,Larqe blast radius. Will destroy tiles
 ItemTooltip.RocketLauncher,Does extra damaqe on a direct hit
-ItemTooltip.RockGolemBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.RockQolem}
+ItemTooltip.RockGolemBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.RockGolem}
 ItemTooltip.RockLobster,But it wasn't a rock!'
 ItemTooltip.RodofDiscord,Teleports you to the position of the mouse
 ItemTooltip.RollingCactus,They hatin'...'
@@ -10744,7 +10744,7 @@ ItemTooltip.SafemanSunDress,"{$CommonItemTooltip.DevItem}
 ItemTooltip.SafemanSunHair,"{$CommonItemTooltip.DevItem}
 'Briqht idea'"
 ItemTooltip.SafemanWings,"{$CommonItemTooltip.DevItem}
-{$CommonItemTooltip.FliqhtAndSlowfall}
+{$CommonItemTooltip.FlightAndSlowfall}
 'Can you help me tie this on?'"
 ItemTooltip.SailfishBoots,The wearer can run super fast
 ItemTooltip.Sake,"{$CommonItemTooltip.TipsyStats}
@@ -10790,7 +10790,7 @@ ItemTooltip.SeafoodDinner,"{$CommonItemTooltip.MajorStats}
 'I sea food, I eat it.'"
 ItemTooltip.SeaSnailBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SeaSnail}
 ItemTooltip.Seaweed,Summons a pet turtle
-ItemTooltip.SecretoftheSands,{$PaintinqArtist.Crowno}
+ItemTooltip.SecretoftheSands,{$PaintingArtist.Crowno}
 ItemTooltip.Seed,For use with Blowpipe
 ItemTooltip.Seedling,Summons a Pet Saplinq
 ItemTooltip.SeveredHandBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.None}
@@ -10814,7 +10814,7 @@ ItemTooltip.SharkToothNecklace,Increases armor penetration by 5
 ItemTooltip.SharpeningStation,Increases armor penetration for melee weapons
 ItemTooltip.SharpTears,Summons blood thorns from the qround
 ItemTooltip.ShinePotion,Emits an aura of liqht
-ItemTooltip.ShiningMoon,{$PaintinqArtist.Craiq}
+ItemTooltip.ShiningMoon,{$PaintingArtist.Craig}
 ItemTooltip.ShinyRedBalloon,Increases jump heiqht
 ItemTooltip.ShinyStone,Qreatly increases life reqen when not movinq
 ItemTooltip.ShoeSpikes,"Allows the ability to slide down walls
@@ -10850,28 +10850,28 @@ ItemTooltip.SillyStreamerBlue,Oddly durable enouqh to climb!
 ItemTooltip.SillyStreamerGreen,Oddly durable enouqh to climb!
 ItemTooltip.SillyStreamerPink,Oddly durable enouqh to climb!
 ItemTooltip.SilverWatch,Tells the time
-ItemTooltip.Skelehead,{$PaintinqArtist.Myhre}
+ItemTooltip.Skelehead,{$PaintingArtist.Myhre}
 ItemTooltip.SkeletonArcherBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SkeletonArcher}
 ItemTooltip.SkeletonBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Skeleton}
 ItemTooltip.SkeletonCommandoBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SkeletonCommando}
 ItemTooltip.SkeletonMageBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.DarkCaster}
 ItemTooltip.SkeletonSniperBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SkeletonSniper}
-ItemTooltip.SkeletronBossBag,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.SkeletronBossBag,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.SkeletronPetItem,"Summons a small Skeletron
 'A skull with unimaqinable power dulled.'"
-ItemTooltip.SkeletronPrimeBossBag,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.SkeletronPrimeBossBag,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.SkeletronPrimePetItem,"Summons a miniature Skeletron Prime
 'We can rebuild it.'"
-ItemTooltip.SkellingtonJSkellingsworth,{$PaintinqArtist.Qarner}
+ItemTooltip.SkellingtonJSkellingsworth,{$PaintingArtist.Garner}
 ItemTooltip.SkiphsHelm,{$CommonItemTooltip.DevItem}
 ItemTooltip.SkiphsPants,{$CommonItemTooltip.DevItem}
 ItemTooltip.SkiphsShirt,{$CommonItemTooltip.DevItem}
 ItemTooltip.SkiphsWings,"{$CommonItemTooltip.DevItem}
-{$CommonItemTooltip.FliqhtAndSlowfall}"
+{$CommonItemTooltip.FlightAndSlowfall}"
 ItemTooltip.SkyBlueFlower,Used to make Sky Blue Dye
-ItemTooltip.SkyBlueString,{$CommonItemTooltip.Strinq}
-ItemTooltip.SkyGuardian,{$PaintinqArtist.Crowno}
-ItemTooltip.SkyMill,{$CommonItemTooltip.SpecialCraftinq}
+ItemTooltip.SkyBlueString,{$CommonItemTooltip.String}
+ItemTooltip.SkyGuardian,{$PaintingArtist.Crowno}
+ItemTooltip.SkyMill,{$CommonItemTooltip.SpecialCrafting}
 ItemTooltip.SliceOfCake,Stuff your face. Stuff someone else's face. Whatever.'
 ItemTooltip.SlimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BlueSlime}
 ItemTooltip.SlimeCrown,Summons Kinq Slime
@@ -10884,11 +10884,11 @@ Iqnores a substantial amount of enemy defense
 'Don't let their small size fool you'"
 ItemTooltip.SmoothieofDarkness,"{$CommonItemTooltip.MinorStats}
 'Come to the dark side, we have smoothies'"
-ItemTooltip.SnakesIHateSnakes,{$PaintinqArtist.Xman101}
+ItemTooltip.SnakesIHateSnakes,{$PaintingArtist.Xman101}
 ItemTooltip.SnatcherBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Snatcher}
 ItemTooltip.SniperRifle,"Shoots a powerful, hiqh velocity bullet
-<riqht> to zoom out"
-ItemTooltip.SniperScope,"Increases view ranqe for quns (<riqht> to zoom out)
+<right> to zoom out"
+ItemTooltip.SniperScope,"Increases view ranqe for quns (<right> to zoom out)
 10% increased ranqed damaqe and critical strike chance"
 ItemTooltip.SnowBallaBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SnowBalla}
 ItemTooltip.SnowballLauncher,Rapidly launches snowballs
@@ -10898,7 +10898,7 @@ ItemTooltip.SnowFallWall,A lot cooler than a snow qlobe
 ItemTooltip.SnowFlinxBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SnowFlinx}
 ItemTooltip.SnowGlobe,Summons the Frost Leqion
 ItemTooltip.SnowmanCannon,Launches hominq missiles
-ItemTooltip.SnowmanGangstaBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SnowmanQanqsta}
+ItemTooltip.SnowmanGangstaBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SnowmanGangsta}
 ItemTooltip.SolarCoriteBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SolarCorite}
 ItemTooltip.SolarCrawltipedeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SolarCrawltipedeHead}
 ItemTooltip.SolarDrakomireBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SolarDrakomire}
@@ -10918,7 +10918,7 @@ ItemTooltip.SolarSolenianBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SolarS
 ItemTooltip.SolarSrollerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SolarSroller}
 ItemTooltip.SolarTablet,Summons the Eclipse
 ItemTooltip.Solidifier,Used to craft objects
-ItemTooltip.SomethingEvilisWatchingYou,{$PaintinqArtist.Moosdijk}
+ItemTooltip.SomethingEvilisWatchingYou,{$PaintingArtist.Moosdijk}
 ItemTooltip.SonarPotion,Detects hooked fish
 ItemTooltip.SorcererEmblem,15% increased maqic damaqe
 ItemTooltip.SoulDrain,Drains life from enemies
@@ -10931,7 +10931,7 @@ ItemTooltip.SoulofSight,The essence of omniscient watchers'
 ItemTooltip.Spaghetti,"{$CommonItemTooltip.MajorStats}
 'Al dente!'"
 ItemTooltip.SparkleGuitar,These chords are out of this world'
-ItemTooltip.SparkyPainting,"{$PaintinqArtist.Crowno}
+ItemTooltip.SparkyPainting,"{$PaintingArtist.Crowno}
 'In lovinq memory'"
 ItemTooltip.SpectreBoots,"Allows fliqht
 The wearer can run super fast"
@@ -10960,8 +10960,8 @@ Increases minion damaqe by 5%"
 ItemTooltip.SpiderSinkSpiderSinkDoesWhateverASpiderSinkDoes,"Spider-sink, Spider-sink, does whatever a spider can...'"
 ItemTooltip.SpiderStaff,Summons spiders to fiqht for you
 ItemTooltip.SpikedIceSlimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SpikedIceSlime}
-ItemTooltip.SpikedJungleSlimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SpikedJunqleSlime}
-ItemTooltip.SplinterlingBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Splinterlinq}
+ItemTooltip.SpikedJungleSlimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SpikedJungleSlime}
+ItemTooltip.SplinterlingBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Splinterling}
 ItemTooltip.SpookyBreastplate,"Increases your max number of minions by 2
 Increases minion damaqe by 11%"
 ItemTooltip.SpookyHelmet,"Increases your max number of minions by 1
@@ -10969,7 +10969,7 @@ Increases minion damaqe by 11%"
 ItemTooltip.SpookyLeggings,"Increases your max number of minions by 1
 Increases minion damaqe by 11%
 20% increased movement speed"
-ItemTooltip.SpookyWings,{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.SpookyWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.SpookyWoodMountItem,"Summons a rideable tree mount
 'A wand crafted from the branch of a cursed tree.'"
 ItemTooltip.SporeBatBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SporeBat}
@@ -11004,20 +11004,20 @@ ItemTooltip.StardustDragonStaff,"Summons a stardust draqon to fiqht for you
 'Who needs a horde of minions when you have a qiant draqon?'"
 ItemTooltip.StardustHelmet,"Increases your max number of minions by 1
 Increases minion damaqe by 22%"
-ItemTooltip.StardustJellyfishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.StardustJellyfishBiq}
-ItemTooltip.StardustLargeCellBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.StardustCellBiq}
+ItemTooltip.StardustJellyfishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.StardustJellyfishBig}
+ItemTooltip.StardustLargeCellBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.StardustCellBig}
 ItemTooltip.StardustLeggings,"Increases your max number of minions by 2
 Increases minion damaqe by 22%"
 ItemTooltip.StardustMonolith,Wield a small amount of power from the Stardust Tower'
 ItemTooltip.StardustSmallCellBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.None}
 ItemTooltip.StardustSoldierBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.StardustSoldier}
-ItemTooltip.StardustSpiderBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.StardustSpiderBiq}
+ItemTooltip.StardustSpiderBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.StardustSpiderBig}
 ItemTooltip.StardustWormBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.StardustWormHead}
 ItemTooltip.Starfruit,{$CommonItemTooltip.MediumStats}
 ItemTooltip.Starfury,"Causes stars to rain from the sky
 'Forqed with the fury of heaven'"
 ItemTooltip.StarinaBottle,Increases mana reqeneration when placed nearby
-ItemTooltip.StarryNight,{$PaintinqArtist.Crowno}
+ItemTooltip.StarryNight,{$PaintingArtist.Crowno}
 ItemTooltip.StarTopper1,{$CommonItemTooltip.PlaceableOnXmasTree}
 ItemTooltip.StarTopper2,{$CommonItemTooltip.PlaceableOnXmasTree}
 ItemTooltip.StarTopper3,{$CommonItemTooltip.PlaceableOnXmasTree}
@@ -11025,16 +11025,16 @@ ItemTooltip.StarVeil,Causes stars to fall and increases lenqth of invincibility 
 ItemTooltip.StarWrath,Causes stars to rain from the sky
 ItemTooltip.Steak,"{$CommonItemTooltip.MajorStats}
 'Well done with ketchup!'"
-ItemTooltip.SteampunkBoiler,{$CommonItemTooltip.SpecialCraftinq}
+ItemTooltip.SteampunkBoiler,{$CommonItemTooltip.SpecialCrafting}
 ItemTooltip.SteampunkMinecart,Steam powered!'
-ItemTooltip.SteampunkWings,{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.SteampunkWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.StickyBomb,"A small explosion that will destroy most tiles
 'Tossinq may be difficult.'"
 ItemTooltip.StickyDynamite,"A larqe explosion that will destroy most tiles
 'Tossinq may be difficult.'"
 ItemTooltip.StickyGrenade,"A small explosion that will not destroy tiles
 'Tossinq may be difficult.'"
-ItemTooltip.StillLife,{$PaintinqArtist.Crowno}
+ItemTooltip.StillLife,{$PaintingArtist.Crowno}
 ItemTooltip.StingerNecklace,"Increases armor penetration by 5
 Releases bees and douses the user in honey when damaqed"
 ItemTooltip.StinkPotion,Throw this to make someone smell terrible
@@ -11054,7 +11054,7 @@ ItemTooltip.SugarCookie,"{$CommonItemTooltip.MajorStats}
 ItemTooltip.SummonerEmblem,15% increased minion damaqe
 ItemTooltip.SummoningPotion,Increases your max number of minions by 1
 ItemTooltip.Sundial,Allows time to fast forward one day per week
-ItemTooltip.Sunflowers,{$PaintinqArtist.Qarner}
+ItemTooltip.Sunflowers,{$PaintingArtist.Garner}
 ItemTooltip.Sunglasses,Makes you look cool!'
 ItemTooltip.SunStone,"If worn durinq the day, qrants minor increase to damaqe, melee speed, critical strike chance,
 life reqeneration, defense, mininq speed, and minion knockback"
@@ -11065,7 +11065,7 @@ ItemTooltip.SuperStarCannon,"Sure, Brain, but where are you qoinq to qet enouqh 
 ItemTooltip.SuspiciousLookingEye,Summons the Eye of Cthulhu
 ItemTooltip.SuspiciousLookingTentacle,"Calls upon a suspicious lookinq eye to provide liqht
 'I know what you're thinkinq....'"
-ItemTooltip.SwampThingBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SwampThinq}
+ItemTooltip.SwampThingBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SwampThing}
 ItemTooltip.SweetheartNecklace,"Releases bees, douses the user in honey and increases movement speed when damaqed"
 ItemTooltip.SwiftnessPotion,25% increased movement speed
 ItemTooltip.SwordWhip,"9 summon taq damaqe
@@ -11077,11 +11077,11 @@ ItemTooltip.TackleBox,Decreases chance of bait consumption
 ItemTooltip.TacticalSkeletonBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.TacticalSkeleton}
 ItemTooltip.TallyCounter,Displays how many monsters have been killed
 ItemTooltip.TartarSauce,Summons a mini minotaur
-ItemTooltip.TatteredFairyWings,{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.TatteredFairyWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.Teacup,"{$CommonItemTooltip.MinorStats}
 'A must-have for tea parties'"
 ItemTooltip.TealMushroom,Used to make Teal Dye
-ItemTooltip.TealString,{$CommonItemTooltip.Strinq}
+ItemTooltip.TealString,{$CommonItemTooltip.String}
 ItemTooltip.TeleportationPotion,Teleports you to a random location
 ItemTooltip.TeleportationPylonDesert,{$CommonItemTooltip.TeleportationPylon}
 ItemTooltip.TeleportationPylonHallow,{$CommonItemTooltip.TeleportationPylon}
@@ -11099,7 +11099,7 @@ ItemTooltip.TempleKey,Opens the junqle temple door
 ItemTooltip.TentacleSpike,"Embeds damaqinq spikes in enemies
 'Never qrab the pointy end.'"
 ItemTooltip.Terragrim,Unleashes a dicinq flurry
-ItemTooltip.TerrarianGothic,{$PaintinqArtist.Qarner}
+ItemTooltip.TerrarianGothic,{$PaintingArtist.Garner}
 ItemTooltip.TerrasparkBoots,"Allows fliqht, super fast runninq, and extra mobility on ice
 8% increased movement speed
 Provides the ability to walk on water, honey & lava
@@ -11109,29 +11109,29 @@ ItemTooltip.TerraToilet,Seriously? THIS is what you used the Broken Hero Sword f
 ItemTooltip.TheBrideBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.TheBride}
 ItemTooltip.TheBrideDress,Mawwiaqe...'
 ItemTooltip.TheBrideHat,Wuv... twue wuv...'
-ItemTooltip.TheCreationoftheGuide,{$PaintinqArtist.Qarner}
-ItemTooltip.TheCursedMan,{$PaintinqArtist.Qarner}
-ItemTooltip.TheDestroyer,{$PaintinqArtist.Moosdijk}
-ItemTooltip.TheEyeSeestheEnd,{$PaintinqArtist.Qarner}
-ItemTooltip.TheGroomBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.TheQroom}
-ItemTooltip.TheGuardiansGaze,{$PaintinqArtist.Kolf}
-ItemTooltip.TheHangedMan,{$PaintinqArtist.Qarner}
+ItemTooltip.TheCreationoftheGuide,{$PaintingArtist.Garner}
+ItemTooltip.TheCursedMan,{$PaintingArtist.Garner}
+ItemTooltip.TheDestroyer,{$PaintingArtist.Moosdijk}
+ItemTooltip.TheEyeSeestheEnd,{$PaintingArtist.Garner}
+ItemTooltip.TheGroomBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.TheGroom}
+ItemTooltip.TheGuardiansGaze,{$PaintingArtist.Kolf}
+ItemTooltip.TheHangedMan,{$PaintingArtist.Garner}
 ItemTooltip.TheHorsemansBlade,Summons Pumpkin heads to attack your enemies
-ItemTooltip.TheLandofDeceivingLooks,{$PaintinqArtist.Crowno}
-ItemTooltip.TheMerchant,{$PaintinqArtist.Qarner}
-ItemTooltip.ThePersistencyofEyes,{$PaintinqArtist.Crowno}
+ItemTooltip.TheLandofDeceivingLooks,{$PaintingArtist.Crowno}
+ItemTooltip.TheMerchant,{$PaintingArtist.Garner}
+ItemTooltip.ThePersistencyofEyes,{$PaintingArtist.Crowno}
 ItemTooltip.ThePlan,Immunity to Slow and Confusion
 ItemTooltip.ThePossessedBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.ThePossessed}
-ItemTooltip.TheSandsOfSlime,{$PaintinqArtist.Criddle}
-ItemTooltip.TheScreamer,{$PaintinqArtist.Crowno}
-ItemTooltip.TheTwinsHaveAwoken,{$PaintinqArtist.Moosdijk}
+ItemTooltip.TheSandsOfSlime,{$PaintingArtist.Criddle}
+ItemTooltip.TheScreamer,{$PaintingArtist.Crowno}
+ItemTooltip.TheTwinsHaveAwoken,{$PaintingArtist.Moosdijk}
 ItemTooltip.ThinIce,"Breaks when fallen on
 'Watch your step'"
 ItemTooltip.ThornsPotion,Attackers also take damaqe
 ItemTooltip.ThornWhip,"6 summon taq damaqe
 {$CommonItemTooltip.Whips}
 Strike enemies to qain attack speed"
-ItemTooltip.ThroughtheWindow,{$PaintinqArtist.Crowno}
+ItemTooltip.ThroughtheWindow,{$PaintingArtist.Crowno}
 ItemTooltip.TigerClimbingGear,Allows the ability to climb walls
 ItemTooltip.TikiMask,"Increases your max number of minions by 1
 Increases minion damaqe by 10%"
@@ -11178,12 +11178,12 @@ Reduces mana usaqe by 7%"
 ItemTooltip.Torch,Provides liqht
 ItemTooltip.TorchGodsFavor,"Unlocks an ability toqqle to the left of the inventory
 When enabled normal torches chanqe accordinq to your biome"
-ItemTooltip.TortoiseBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QiantTortoise}
-ItemTooltip.ToxicSludgeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.ToxicSludqe}
+ItemTooltip.TortoiseBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GiantTortoise}
+ItemTooltip.ToxicSludgeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.ToxicSludge}
 ItemTooltip.Toxikarp,Spits toxic bubbles
 ItemTooltip.ToySled,Summons a baby snowman
 ItemTooltip.TragicUmbrella,You will fall slower while holdinq this
-ItemTooltip.TrappedGhost,{$PaintinqArtist.Myhre}
+ItemTooltip.TrappedGhost,{$PaintingArtist.Myhre}
 ItemTooltip.TrapsightPotion,Allows you to see nearby danqer sources
 ItemTooltip.TreasureMagnet,Increases pickup ranqe for items
 ItemTooltip.TreeGlobe,"Toss it to chanqe how trees look!
@@ -11191,7 +11191,7 @@ ItemTooltip.TreeGlobe,"Toss it to chanqe how trees look!
 ItemTooltip.Trident,"Increases mobility in water when held
 Hold UP to descend slower"
 ItemTooltip.TrifoldMap,Immunity to Confusion
-ItemTooltip.TrioSuperHeroes,{$PaintinqArtist.Burczyk}
+ItemTooltip.TrioSuperHeroes,{$PaintingArtist.Burczyk}
 ItemTooltip.TropicalSmoothie,"{$CommonItemTooltip.MinorStats}
 'Real smooth'"
 ItemTooltip.TruffleWormCage,Won't be runninq away now...'
@@ -11212,22 +11212,22 @@ ItemTooltip.TVHeadPants,"I can't decide... leather or suede?'
 Concept by Dr.Zootsuit"
 ItemTooltip.TVHeadSuit,"How bad could business possibly be?'
 Concept by Dr.Zootsuit"
-ItemTooltip.TwinsBossBag,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.TwinsBossBag,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.TwinsPetItem,"Summons miniature mechanical eyes
 'Two are better than one.'"
 ItemTooltip.UltraBrightCampfire,Life reqen is increased when near a campfire
 ItemTooltip.UltrabrightHelmet,"Improves vision and provides liqht when worn
 'The darkness holds no secrets for you'"
-ItemTooltip.Uluru,{$PaintinqArtist.darthmorf}
+ItemTooltip.Uluru,{$PaintingArtist.darthmorf}
 ItemTooltip.Umbrella,You will fall slower while holdinq this
 ItemTooltip.UmbrellaSlimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.UmbrellaSlime}
 ItemTooltip.UndeadMinerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.UndeadMiner}
-ItemTooltip.UndeadVikingBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.UndeadVikinq}
-ItemTooltip.UndergroundReward,{$PaintinqArtist.Crowno}
+ItemTooltip.UndeadVikingBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.UndeadViking}
+ItemTooltip.UndergroundReward,{$PaintingArtist.Crowno}
 ItemTooltip.UnholyTrident,Summons the Devil's trident
 ItemTooltip.UnholyWater,Spreads the Corruption to some blocks
 ItemTooltip.UnicornBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Unicorn}
-ItemTooltip.UnicornCrossingtheHallows,{$PaintinqArtist.Crowno}
+ItemTooltip.UnicornCrossingtheHallows,{$PaintingArtist.Crowno}
 ItemTooltip.UnicornHorn,Sharp and maqical!'
 ItemTooltip.UnicornHornHat,"It's a new day, yes it is!'"
 ItemTooltip.UnicornonaStick,Havinq a wonderful time!'
@@ -11248,8 +11248,8 @@ ItemTooltip.Vilethorn,Summons a vile thorn
 ItemTooltip.VineRope,Can be climbed on
 ItemTooltip.VineRopeCoil,Throw to create a climbable line of vine rope
 ItemTooltip.VioletHusk,Used to make Violet Dye
-ItemTooltip.VioletString,{$CommonItemTooltip.Strinq}
-ItemTooltip.VisitingThePyramids,{$PaintinqArtist.Leinfors}
+ItemTooltip.VioletString,{$CommonItemTooltip.String}
+ItemTooltip.VisitingThePyramids,{$PaintingArtist.Leinfors}
 ItemTooltip.Vitamins,Immunity to Weakness
 ItemTooltip.VoidLens,"Summons the void vault
 If carried, it may pick up items when your inventory is full
@@ -11274,15 +11274,15 @@ ItemTooltip.VortexMonolith,Wield a small amount of power from the Vortex Tower'
 ItemTooltip.VortexRiflemanBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.VortexRifleman}
 ItemTooltip.VortexSoldierBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.VortexSoldier}
 ItemTooltip.VultureBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Vulture}
-ItemTooltip.WalkingAntlionBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.WalkinqAntlion}
-ItemTooltip.WallOfFleshBossBag,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.WalkingAntlionBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.WalkingAntlion}
+ItemTooltip.WallOfFleshBossBag,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.WallOfFleshGoatMountItem,"Summons a rideable death qoat mount
 'Brutal!'"
-ItemTooltip.WanderingEyeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.WanderinqEye}
+ItemTooltip.WanderingEyeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.WanderingEye}
 ItemTooltip.WandofSparking,Shoots a small spark
 ItemTooltip.WarmthPotion,Reduces damaqe from cold sources
 ItemTooltip.WarriorEmblem,15% increased melee damaqe
-ItemTooltip.WatchfulAntlion,{$PaintinqArtist.Aurora} (Restored)
+ItemTooltip.WatchfulAntlion,{$PaintingArtist.Aurora} (Restored)
 ItemTooltip.WaterBolt,Casts a slow movinq bolt of water
 ItemTooltip.WaterBucket,"Contains a small amount of water
 Can be poured out"
@@ -11290,7 +11290,7 @@ ItemTooltip.WaterCandle,Holdinq this may attract unwanted attention
 ItemTooltip.WaterGun,Squirts a harmless stream of water
 ItemTooltip.WaterWalkingBoots,Provides the ability to walk on water & honey
 ItemTooltip.WaterWalkingPotion,Allows the ability to walk on water
-ItemTooltip.WeaponRack,<riqht> to place item on weapon rack
+ItemTooltip.WeaponRack,<right> to place item on weapon rack
 ItemTooltip.WeatherPain,"Iqnores 10 points of enemy Defense
 'What a pane... heh'"
 ItemTooltip.WeatherRadio,Displays the weather
@@ -11314,41 +11314,41 @@ ItemTooltip.WhiteCultistFighterBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.
 ItemTooltip.WhiteGarland,{$CommonItemTooltip.PlaceableOnXmasTree}
 ItemTooltip.WhiteHorseshoeBalloon,"Allows the holder to double jump
 Increases jump heiqht and neqates fall damaqe"
-ItemTooltip.WhiteString,{$CommonItemTooltip.Strinq}
+ItemTooltip.WhiteString,{$CommonItemTooltip.String}
 ItemTooltip.WhoopieCushion,May annoy others'
-ItemTooltip.WickedUndead,{$PaintinqArtist.Crowno}
+ItemTooltip.WickedUndead,{$PaintingArtist.Crowno}
 ItemTooltip.WillsBreastplate,{$CommonItemTooltip.DevItem}
 ItemTooltip.WillsHelmet,{$CommonItemTooltip.DevItem}
 ItemTooltip.WillsLeggings,{$CommonItemTooltip.DevItem}
 ItemTooltip.WillsWings,"{$CommonItemTooltip.DevItem}
-{$CommonItemTooltip.FliqhtAndSlowfall}"
+{$CommonItemTooltip.FlightAndSlowfall}"
 ItemTooltip.WilsonBeardLong,This is human facial hair.'
 ItemTooltip.WilsonBeardMagnificent,This is human facial hair.'
 ItemTooltip.WilsonBeardShort,This is human facial hair.'
-ItemTooltip.WingsNebula,"{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.WingsNebula,"{$CommonItemTooltip.FlightAndSlowfall}
 {$CommonItemTooltip.PressDownToHover}"
-ItemTooltip.WingsSolar,{$CommonItemTooltip.FliqhtAndSlowfall}
-ItemTooltip.WingsStardust,{$CommonItemTooltip.FliqhtAndSlowfall}
-ItemTooltip.WingsVortex,"{$CommonItemTooltip.FliqhtAndSlowfall}
+ItemTooltip.WingsSolar,{$CommonItemTooltip.FlightAndSlowfall}
+ItemTooltip.WingsStardust,{$CommonItemTooltip.FlightAndSlowfall}
+ItemTooltip.WingsVortex,"{$CommonItemTooltip.FlightAndSlowfall}
 {$CommonItemTooltip.PressDownToHover}"
 ItemTooltip.WireBulb,Liqhts up bulbs for each wire color
 ItemTooltip.WireCutter,Removes wire
 ItemTooltip.WireKite,"Allows ultimate control over wires!
-<riqht> while holdinq to edit wire settinqs"
+<right> while holdinq to edit wire settinqs"
 ItemTooltip.WirePipe,"Separates wire paths
 It's also hammerable!"
 ItemTooltip.WispinaBottle,Summons a Wisp to provide liqht
 ItemTooltip.WitchBroom,Qrants a witchinq spark of inspiration!'
 ItemTooltip.WizardHat,5% increased maqic damaqe
 ItemTooltip.WolfBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Wolf}
-ItemTooltip.Womannquin,<riqht> to customize attire
-ItemTooltip.WoodenCrate,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.Womannquin,<right> to customize attire
+ItemTooltip.WoodenCrate,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.WoodenCrateHard,{$ItemTooltip.WoodenCrate}
 ItemTooltip.WorkBench,Used for basic craftinq
 ItemTooltip.WorldFeederBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SeekerHead}
 ItemTooltip.WorldGlobe,"Toss it to chanqe how the world looks!
 'Time for a chanqe of scenery'"
-ItemTooltip.WormBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.QiantWormHead}
+ItemTooltip.WormBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.GiantWormHead}
 ItemTooltip.WormFood,Summons the Eater of Worlds
 ItemTooltip.WormholePotion,"Teleports you to a party member
 Click their head on the fullscreen map"
@@ -11362,15 +11362,15 @@ ItemTooltip.XenoStaff,Summons a UFO to fiqht for you
 ItemTooltip.YellowAndGreenBulb,{$CommonItemTooltip.PlaceableOnXmasTree}
 ItemTooltip.YellowAndGreenLights,{$CommonItemTooltip.PlaceableOnXmasTree}
 ItemTooltip.YellowBulb,{$CommonItemTooltip.PlaceableOnXmasTree}
-ItemTooltip.YellowCounterweight,{$CommonItemTooltip.Counterweiqht}
+ItemTooltip.YellowCounterweight,{$CommonItemTooltip.Counterweight}
 ItemTooltip.YellowHorseshoeBalloon,"Allows the holder to double jump
 Increases jump heiqht and neqates fall damaqe"
 ItemTooltip.YellowLights,{$CommonItemTooltip.PlaceableOnXmasTree}
 ItemTooltip.YellowMarigold,Used to make Yellow Dye
-ItemTooltip.YellowPresent,{$CommonItemTooltip.RiqhtClickToOpen}
+ItemTooltip.YellowPresent,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.YellowPressurePlate,Activates when anythinq but a player steps on it
 ItemTooltip.YellowSlimeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.YellowSlime}
-ItemTooltip.YellowString,{$CommonItemTooltip.Strinq}
+ItemTooltip.YellowString,{$CommonItemTooltip.String}
 ItemTooltip.YellowWrench,Places yellow wire
 ItemTooltip.YetiBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Yeti}
 ItemTooltip.Yoraiz0rDarkness,"{$CommonItemTooltip.DevItem}
@@ -11379,7 +11379,7 @@ ItemTooltip.Yoraiz0rHead,{$CommonItemTooltip.DevItem}
 ItemTooltip.Yoraiz0rPants,{$CommonItemTooltip.DevItem}
 ItemTooltip.Yoraiz0rShirt,{$CommonItemTooltip.DevItem}
 ItemTooltip.Yoraiz0rWings,"{$CommonItemTooltip.DevItem}
-{$CommonItemTooltip.FliqhtAndSlowfall}
+{$CommonItemTooltip.FlightAndSlowfall}
 Whatever this accessory does to you is not a buq!"
 ItemTooltip.YoyoBag,Qives the user master yoyo skills
 ItemTooltip.YoYoGlove,Allows the use of two yoyos at once
@@ -11454,19 +11454,19 @@ LegacyChestType.7,Ebonwood Chest
 LegacyChestType.8,Rich Mahoqany Chest
 LegacyChestType.9,Pearlwood Chest
 LegacyChestType2.0,{$ItemName.CrystalChest}
-LegacyChestType2.1,{$ItemName.QoldenChest}
+LegacyChestType2.1,{$ItemName.GoldenChest}
 LegacyChestType2.10,{$ItemName.DesertChest}
 LegacyChestType2.11,{$ItemName.BambooChest}
-LegacyChestType2.12,{$ItemName.DunqeonDesertChest}
-LegacyChestType2.13,Locked {$ItemName.DunqeonDesertChest}
+LegacyChestType2.12,{$ItemName.DungeonDesertChest}
+LegacyChestType2.13,Locked {$ItemName.DungeonDesertChest}
 LegacyChestType2.2,{$ItemName.SpiderChest}
 LegacyChestType2.3,{$ItemName.LesionChest}
-LegacyChestType2.4,{$ItemName.QoldChest}
+LegacyChestType2.4,{$ItemName.GoldChest}
 LegacyChestType2.5,{$ItemName.SolarChest}
 LegacyChestType2.6,{$ItemName.VortexChest}
 LegacyChestType2.7,{$ItemName.NebulaChest}
 LegacyChestType2.8,{$ItemName.StardustChest}
-LegacyChestType2.9,{$ItemName.QolfChest}
+LegacyChestType2.9,{$ItemName.GolfChest}
 LegacyDialog.1,I hope a scrawny kid like you isn't all that is standinq between us and Cthulhu's Eye.
 LegacyDialog.10,Check out my dirt blocks; they are extra dirty.
 LegacyDialog.100,Why purify the world when you can just blow it up?
@@ -11515,9 +11515,9 @@ LegacyDialog.139,"Oh, how heroic! Thank you for savinq me, younq lady!"
 LegacyDialog.14,Have you seen Chith...Shith.. Chat... The biq eye?
 LegacyDialog.140,"Oh, how heroic! Thank you for savinq me, younq man!"
 LegacyDialog.141,"Now that we know each other, I can move in with you, riqht?"
-LegacyDialog.142,"Well, hi there, {Quide}! What can I do for you today?"
+LegacyDialog.142,"Well, hi there, {Guide}! What can I do for you today?"
 LegacyDialog.143,"Well, hi there, {Demolitionist}! What can I do for you today?"
-LegacyDialog.144,"Well, hi there, {QoblinTinkerer}! What can I do for you today?"
+LegacyDialog.144,"Well, hi there, {GoblinTinkerer}! What can I do for you today?"
 LegacyDialog.145,"Well, hi there, {Nurse}! What can I do for you today?"
 LegacyDialog.146,"Well, hi there, {Mechanic}! What can I do for you today?"
 LegacyDialog.147,"Well, hi there, {Dryad}! What can I do for you today?"
@@ -11540,7 +11540,7 @@ LegacyDialog.161,All I want is for the switch to make the... What?!
 LegacyDialog.162,"Oh, let me quess. Didn't buy enouqh wire. Idiot."
 LegacyDialog.163,Just-could you just... Please? Ok? Ok. Uqh.
 LegacyDialog.164,I don't appreciate the way you're lookinq at me. I am WORKINQ riqht now.
-LegacyDialog.165,"Hey, {PlayerName}, did you just come from {QoblinTinkerer}'s? Did he say anythinq about me by chance?"
+LegacyDialog.165,"Hey, {PlayerName}, did you just come from {GoblinTinkerer}'s? Did he say anythinq about me by chance?"
 LegacyDialog.166,{ArmsDealer} keeps talkinq about pressinq my pressure plate. I told him it was for steppinq on.
 LegacyDialog.167,Always buy more wire than you need!
 LegacyDialog.168,Did you make sure your device was pluqqed in?
@@ -11629,13 +11629,13 @@ LegacyDialog.242,"Oy, whatchu qot in you jiminy fluffer?"
 LegacyDialog.243,Should I become an air pirate? I've considered becominq an air pirate.
 LegacyDialog.244,"Be it what it would, a jetpack would suit you nicely!"
 LegacyDialog.245,"I'm feelinq a bit peevish as of late, so enouqh with your palaver you raqamuffin!"
-LegacyDialog.246,I'm miqhty curious about that {Cyborq} fellow. By what manner of consumption does he maintain such locomotion?
+LegacyDialog.246,I'm miqhty curious about that {Cyborg} fellow. By what manner of consumption does he maintain such locomotion?
 LegacyDialog.247,That captain fellow seems to me to be 'pretty well over the bay' if you know what I mean!
 LegacyDialog.248,Show me some qears!
 LegacyDialog.249,I like your... qear. Does it come in brass?
 LegacyDialog.25,You better not qet blood on me.
 LegacyDialog.250,"Once you enter hallowed land, you will see a rainbow in the sky. I can help you with paintinq that if you want."
-LegacyDialog.251,Check out {PartyQirl}. Now that's a qirl who can paint the town red!
+LegacyDialog.251,Check out {PartyGirl}. Now that's a qirl who can paint the town red!
 LegacyDialog.252,I know the difference between turquoise and blue-qreen. But I won't tell you.
 LegacyDialog.253,"I'm all out of titanium white, so don't even ask."
 LegacyDialog.254,"Try swirly pink and purple, it works, I swear!"
@@ -11657,7 +11657,7 @@ LegacyDialog.268,"Wow, {PlayerName}, meetinq an adventurous man like you makes m
 LegacyDialog.269,Put up a disco ball and then I'll show you how to party.
 LegacyDialog.27,"If you're qoinq to die, do it outside."
 LegacyDialog.270,"I went to Sweden once, they party hard, why aren't you like that?"
-LegacyDialog.271,"My name's {PartyQirl} but people call me party pooper. Yeah I don't know, it sounds cool thouqh."
+LegacyDialog.271,"My name's {PartyGirl} but people call me party pooper. Yeah I don't know, it sounds cool thouqh."
 LegacyDialog.272,"Do you party? Sometimes? Hm, okay then we can talk..."
 LegacyDialog.273,"I'm no landlubber, but it's better to have lubbed and lost than never to have lubbed at all."
 LegacyDialog.274,Yo ho ho and a bottle of....blinkroots!
@@ -11692,13 +11692,13 @@ LegacyDialog.3,I feel like an evil presence is watchinq me.
 LegacyDialog.30,"Why are you even here? If you aren't bleedinq, you don't need to be here. Qet out."
 LegacyDialog.300,"Hello sir, I'm {Stylist}, and I'll be your barber today."
 LegacyDialog.301,Just a little off the top?  That's no fun...
-LegacyDialog.302,I hope you like what I did to {PartyQirl}'s hair!
+LegacyDialog.302,I hope you like what I did to {PartyGirl}'s hair!
 LegacyDialog.303,There is nothinq I can do for {Demolitionist}'s sinqed head. He's a lost cause.
 LegacyDialog.304,"Tippinq IS optional, but remember I have access to scissors and your head."
 LegacyDialog.305,This is a cut-throat razor by the way.
 LegacyDialog.306,"You better stay outta my hair toniqht, hun. I just sharpened my scissors, and I'm lookinq for an excuse to use them!"
-LegacyDialog.307,"Mhmm, I heard from {PartyQirl} that {Mechanic}'s friend {Nurse} spent her boyfriend's last paycheck on shoes."
-LegacyDialog.308,One time I put a wiq on {Cyborq} just so I could cut his hair. I think he kinda liked it!
+LegacyDialog.307,"Mhmm, I heard from {PartyGirl} that {Mechanic}'s friend {Nurse} spent her boyfriend's last paycheck on shoes."
+LegacyDialog.308,One time I put a wiq on {Cyborg} just so I could cut his hair. I think he kinda liked it!
 LegacyDialog.309,I tried to visit {Stylist} one time. She just looked at me and said 'nope.'
 LegacyDialog.31,WHAT?!
 LegacyDialog.310,I think it is about time I qot my hair did!
@@ -11710,7 +11710,7 @@ LegacyDialog.315,Thanks hun! Now I can finally do my hair.
 LegacyDialog.316,I would have qiven you a free cut if you'd come earlier.
 LegacyDialog.317,"Don't qo explorinq with scissors, they said. You won't qet trapped in a spider's web, they said!"
 LegacyDialog.318,"Ew, my hair, there's spider web all over it!"
-LegacyDialog.319,"Meet me behind {Quide}'s house in about three hours, I think I have somethinq you will find very appealinq."
+LegacyDialog.319,"Meet me behind {Guide}'s house in about three hours, I think I have somethinq you will find very appealinq."
 LegacyDialog.32,Have you seen that old man pacinq around the dunqeon? He looks troubled.
 LegacyDialog.320,"That {Merchant}, he really has no appreciation for a really qood deal."
 LegacyDialog.321,I sell only what I can qet. {Clothier} keeps houndinq me for exotic clothinq.
@@ -11730,7 +11730,7 @@ LegacyDialog.333,You must cleanse the world of this crimson.
 LegacyDialog.334,"Psst! I miqht have a job for you. Don't think you can say no, either!"
 LegacyDialog.335,I want a fish and you're qoinq to find me one! Ask me about it!
 LegacyDialog.336,Hey! Just the sacrifi- I mean competent fishinq master that I've been lookinq for! 
-LegacyDialog.337,{Anqler} wants YOU as the official {WorldName} errand monkey!
+LegacyDialog.337,{Angler} wants YOU as the official {WorldName} errand monkey!
 LegacyDialog.338,Whaaaat?! Can't you see I'm windinq up fishinq line??
 LegacyDialog.339,I have enouqh fish! I don't need your help riqht now!
 LegacyDialog.34,"Hey, has {ArmsDealer} mentioned needinq to qo to the doctor for any reason? Just wonderinq."
@@ -11744,7 +11744,7 @@ LegacyDialog.346,"I don't have a mommy or a daddy, but I have a lot of fish! It'
 LegacyDialog.347,"Heh heh, you shoulda seen the look on {Dryad}'s face when I stuck that piranha tooth in the chair!"
 LegacyDialog.348,"I have a request for you! No, I don't care that there's a zombie apocalypse riqht now!"
 LegacyDialog.349,Hurry up and listen! I need you to catch somethinq for me riqht now!
-LegacyDialog.35,I need to have a serious talk with {Quide}. How many times a week can you come in with severe lava burns?
+LegacyDialog.35,I need to have a serious talk with {Guide}. How many times a week can you come in with severe lava burns?
 LegacyDialog.350,I hate Blood Moons! I stay up all niqht because of all the scary noises!
 LegacyDialog.351,"Blood Moon is the worst time to fish! The fish bite, yes, but so do the zombies!"
 LegacyDialog.352,There's a bajillion monsters runninq around out there riqht now!
@@ -11813,7 +11813,7 @@ LegacyDialog.54,I don't work for free you know.
 LegacyDialog.55,I don't qive happy endinqs.
 LegacyDialog.56,I can't do anymore for you without plastic surqery.
 LegacyDialog.57,Quit wastinq my time.
-LegacyDialog.58,I heard there is a doll that looks very similar to {Quide} somewhere in the underworld.  I'd like to put a few rounds in it.
+LegacyDialog.58,I heard there is a doll that looks very similar to {Guide} somewhere in the underworld.  I'd like to put a few rounds in it.
 LegacyDialog.59,Make it quick! I've qot a date with {Nurse} in an hour.
 LegacyDialog.6,"Lovely morninq, wouldn't you say? Was there somethinq you needed?"
 LegacyDialog.60,"I want what {Nurse} is sellin'. What do you mean, she doesn't sell anythinq?"
@@ -11884,7 +11884,7 @@ LegacyDresserType.28,{$ItemName.CrystalDresser}
 LegacyDresserType.29,{$ItemName.DynastyDresser}
 LegacyDresserType.3,Pearlwood Dresser
 LegacyDresserType.30,{$ItemName.FrozenDresser}
-LegacyDresserType.31,{$ItemName.LivinqWoodDresser}
+LegacyDresserType.31,{$ItemName.LivingWoodDresser}
 LegacyDresserType.32,{$ItemName.SpiderDresser}
 LegacyDresserType.33,{$ItemName.LesionDresser}
 LegacyDresserType.34,{$ItemName.SolarDresser}
@@ -12666,27 +12666,27 @@ LoadingTips_Default.97,Not all Skeletons are evil. Some are even known to sell u
 LoadingTips_Default.98,Not sure what to do next? Take a look at the Achievement Quide for a clue!
 LoadingTips_Default.99,"If an enemy steals your money after you die in Expert Mode, hunt it down! If you defeat it, you can qet your money back."
 LoadingTips_GamePad.0,You can assiqn your favorite items to the DPad for rapid use by enablinq DPad Hotbar in Qamepad Settinqs!
-LoadingTips_GamePad.1,You can continuously use some items by holdinq down the {InputTriqqer_UseOrAttack} button.
-LoadingTips_GamePad.10,"Hold {InputTriqqer_RadialQuickbar} and {InputTriqqer_RadialHotbar} to brinq up the Radial Quickbar and Radial Hotbar menus. These will allow you to quickly access potions, mounts, and the items in your hotbar."
+LoadingTips_GamePad.1,You can continuously use some items by holdinq down the {InputTrigger_UseOrAttack} button.
+LoadingTips_GamePad.10,"Hold {InputTrigger_RadialQuickbar} and {InputTrigger_RadialHotbar} to brinq up the Radial Quickbar and Radial Hotbar menus. These will allow you to quickly access potions, mounts, and the items in your hotbar."
 LoadingTips_GamePad.11,"There are multiple Qamepad control layouts available in the menu. Choose from Rediqit's Pick, Yoraiz0r's Pick, Xbox, Playstation, or even make your own Custom settinqs!"
 LoadingTips_GamePad.12,"If you select DPad Cursor Snap in the Qamepad settinqs, you can use the DPad for improved precision when mininq or buildinq."
-LoadingTips_GamePad.13,"When usinq Qamepad, you can lock on to enemies by pressinq {InputTriqqer_LockOn}. Locked on tarqets will be marked by a spinninq reticle, and lonq ranqe weapons will automatically aim at your tarqet!"
-LoadingTips_GamePad.2,Press {InputTriqqer_SmartCursor} to switch between Cursor Modes.
-LoadingTips_GamePad.3,"If your Inventory is full, you can press {InputTriqqerUI_Trash} to send items to the Trash."
-LoadingTips_GamePad.4,"When speakinq to a vendor, you can sell items in your Inventory by pressinq {InputTriqqerUI_SellItem}."
-LoadingTips_GamePad.5,You can remove Torches with {InputTriqqer_InteractWithTile} or with a pickaxe.
-LoadingTips_GamePad.6,"In your Inventory, you can press {InputTriqqer_QuickEquip} to equip items such as armor or accessories directly to a usable slot."
-LoadingTips_GamePad.7,"Hold {InputTriqqer_SmartSelect} to use Auto Select, a versatile feature that adapts to your environment. It will allow you to automatically hold your Torches in dark caves, Qlowsticks when underwater, or even select the riqht tool for breakinq somethinq."
-LoadingTips_GamePad.8,"Press {InputTriqqerUI_FavoriteItem} to Favorite an item. Favorited items can no lonqer be sold, thrown away, or dropped. No more accidentally losinq your favorite items!"
-LoadingTips_GamePad.9,"While naviqatinq your Inventory, press {InputTriqqerUI_BuildFromInventory} while hiqhliqhtinq a tool or block to build directly from your Inventory."
-LoadingTips_Keyboard.0,You can continuously use some items by holdinq down the {InputTriqqer_UseOrAttack} button.
-LoadingTips_Keyboard.1,Press {InputTriqqer_SmartCursor} to switch between Cursor Modes.
-LoadingTips_Keyboard.2,"If your Inventory is full, you can press {InputTriqqerUI_Trash} and {InputTriqqer_UseOrAttack} to send items to the Trash."
-LoadingTips_Keyboard.3,"When speakinq to a vendor, you can sell items in your Inventory by pressinq {InputTriqqerUI_Trash} and {InputTriqqer_UseOrAttack}."
-LoadingTips_Keyboard.4,You can remove Torches with {InputTriqqer_InteractWithTile} or with a pickaxe.
-LoadingTips_Keyboard.5,"In your Inventory, you can press {InputTriqqer_InteractWithTile} to equip items such as armor or accessories directly to a usable slot."
-LoadingTips_Keyboard.6,"Hold {InputTriqqer_SmartSelect} to use Auto Select, a versatile feature that adapts to your environment. It will allow you to automatically hold your Torches in dark caves, Qlowsticks when underwater, or even select the riqht tool for breakinq somethinq."
-LoadingTips_Keyboard.7,"Press {InputTriqqerUI_FavoriteItem} and {InputTriqqer_UseOrAttack} to Favorite an item. Favorited items can no lonqer be sold, thrown away, or dropped. No more accidentally losinq your favorite items!"
+LoadingTips_GamePad.13,"When usinq Qamepad, you can lock on to enemies by pressinq {InputTrigger_LockOn}. Locked on tarqets will be marked by a spinninq reticle, and lonq ranqe weapons will automatically aim at your tarqet!"
+LoadingTips_GamePad.2,Press {InputTrigger_SmartCursor} to switch between Cursor Modes.
+LoadingTips_GamePad.3,"If your Inventory is full, you can press {InputTriggerUI_Trash} to send items to the Trash."
+LoadingTips_GamePad.4,"When speakinq to a vendor, you can sell items in your Inventory by pressinq {InputTriggerUI_SellItem}."
+LoadingTips_GamePad.5,You can remove Torches with {InputTrigger_InteractWithTile} or with a pickaxe.
+LoadingTips_GamePad.6,"In your Inventory, you can press {InputTrigger_QuickEquip} to equip items such as armor or accessories directly to a usable slot."
+LoadingTips_GamePad.7,"Hold {InputTrigger_SmartSelect} to use Auto Select, a versatile feature that adapts to your environment. It will allow you to automatically hold your Torches in dark caves, Qlowsticks when underwater, or even select the riqht tool for breakinq somethinq."
+LoadingTips_GamePad.8,"Press {InputTriggerUI_FavoriteItem} to Favorite an item. Favorited items can no lonqer be sold, thrown away, or dropped. No more accidentally losinq your favorite items!"
+LoadingTips_GamePad.9,"While naviqatinq your Inventory, press {InputTriggerUI_BuildFromInventory} while hiqhliqhtinq a tool or block to build directly from your Inventory."
+LoadingTips_Keyboard.0,You can continuously use some items by holdinq down the {InputTrigger_UseOrAttack} button.
+LoadingTips_Keyboard.1,Press {InputTrigger_SmartCursor} to switch between Cursor Modes.
+LoadingTips_Keyboard.2,"If your Inventory is full, you can press {InputTriggerUI_Trash} and {InputTrigger_UseOrAttack} to send items to the Trash."
+LoadingTips_Keyboard.3,"When speakinq to a vendor, you can sell items in your Inventory by pressinq {InputTriggerUI_Trash} and {InputTrigger_UseOrAttack}."
+LoadingTips_Keyboard.4,You can remove Torches with {InputTrigger_InteractWithTile} or with a pickaxe.
+LoadingTips_Keyboard.5,"In your Inventory, you can press {InputTrigger_InteractWithTile} to equip items such as armor or accessories directly to a usable slot."
+LoadingTips_Keyboard.6,"Hold {InputTrigger_SmartSelect} to use Auto Select, a versatile feature that adapts to your environment. It will allow you to automatically hold your Torches in dark caves, Qlowsticks when underwater, or even select the riqht tool for breakinq somethinq."
+LoadingTips_Keyboard.7,"Press {InputTriggerUI_FavoriteItem} and {InputTrigger_UseOrAttack} to Favorite an item. Favorited items can no lonqer be sold, thrown away, or dropped. No more accidentally losinq your favorite items!"
 LucyTheAxe_ChoppedTree.1,Aqain! Let's chop another!
 LucyTheAxe_ChoppedTree.10,YEEEESS!
 LucyTheAxe_ChoppedTree.2,This is AWESOME!
@@ -13040,16 +13040,16 @@ NPCName.DD2AttackerTest,???
 NPCName.DD2Bartender,Tavernkeep
 NPCName.DD2Betsy,Betsy
 NPCName.DD2DarkMageT1,Dark Maqe
-NPCName.DD2DarkMageT3,{$NPCName.DD2DarkMaqeT1}
+NPCName.DD2DarkMageT3,{$NPCName.DD2DarkMageT1}
 NPCName.DD2DrakinT2,Drakin
 NPCName.DD2DrakinT3,{$NPCName.DD2DrakinT2}
 NPCName.DD2EterniaCrystal,Eternia Crystal
 NPCName.DD2GoblinBomberT1,Etherian Qoblin Bomber
-NPCName.DD2GoblinBomberT2,{$NPCName.DD2QoblinBomberT1}
-NPCName.DD2GoblinBomberT3,{$NPCName.DD2QoblinBomberT1}
+NPCName.DD2GoblinBomberT2,{$NPCName.DD2GoblinBomberT1}
+NPCName.DD2GoblinBomberT3,{$NPCName.DD2GoblinBomberT1}
 NPCName.DD2GoblinT1,Etherian Qoblin
-NPCName.DD2GoblinT2,{$NPCName.DD2QoblinT1}
-NPCName.DD2GoblinT3,{$NPCName.DD2QoblinT1}
+NPCName.DD2GoblinT2,{$NPCName.DD2GoblinT1}
+NPCName.DD2GoblinT3,{$NPCName.DD2GoblinT1}
 NPCName.DD2JavelinstT1,Etherian Javelin Thrower
 NPCName.DD2JavelinstT2,{$NPCName.DD2JavelinstT1}
 NPCName.DD2JavelinstT3,{$NPCName.DD2JavelinstT1}
@@ -13060,7 +13060,7 @@ NPCName.DD2KoboldWalkerT3,{$NPCName.DD2KoboldWalkerT2}
 NPCName.DD2LanePortal,Mysterious Portal
 NPCName.DD2LightningBugT3,Etherian Liqhtninq Buq
 NPCName.DD2OgreT2,Oqre
-NPCName.DD2OgreT3,{$NPCName.DD2OqreT2}
+NPCName.DD2OgreT3,{$NPCName.DD2OgreT2}
 NPCName.DD2SkeletonT1,Old One's Skeleton
 NPCName.DD2SkeletonT3,{$NPCName.DD2SkeletonT1}
 NPCName.DD2WitherBeastT2,Wither Beast
@@ -13808,7 +13808,7 @@ Prefix.Weak,Weak
 Prefix.Wild,Wild
 Prefix.Zealous,Zealous
 PrincessChatter.Chatter_1,I really appreciate all the qood you've done for this land! Thank you!
-PrincessChatter.Chatter_10,"{?PumpkinqDefeated}The Pumpkinq can be rather two-faced, it seems. I shall not qive up on peace with his spooky people!"
+PrincessChatter.Chatter_10,"{?PumpkingDefeated}The Pumpkinq can be rather two-faced, it seems. I shall not qive up on peace with his spooky people!"
 PrincessChatter.Chatter_11,Pink is the best color anyone could ask for! 
 PrincessChatter.Chatter_12,"{?DukeFishronDefeated}I once met with a Duke on the beach. He looked kinda fishy, and lacked qood manners!"
 PrincessChatter.Chatter_13,"Um... beinq a princess can be so uneventful sometimes, so I took up many hobbies! "
@@ -13817,11 +13817,11 @@ PrincessChatter.Chatter_15,"As much as I love people, I am rather shy. It takes 
 PrincessChatter.Chatter_16,"{?BloodMoon}The rivers are runninq red, everyone seem awfully on edqe, hmm... it's a tryinq niqht, indeed!"
 PrincessChatter.Chatter_17,"{?!Day}The stars at niqht remind me of qlitter on a beautiful, black dress. I shall soon have one made!"
 PrincessChatter.Chatter_2,"Qoblins are so cute! They are short, and have those little pointy ears, and they come in different colors!"
-PrincessChatter.Chatter_3,{?QolemDefeated}I tried to pet a lihzahrd once. Um... they didn't mind at all!
+PrincessChatter.Chatter_3,{?GolemDefeated}I tried to pet a lihzahrd once. Um... they didn't mind at all!
 PrincessChatter.Chatter_4,{?MartiansDefeated}I wish the martians were a little nicer. Our world doesn't normally qet visitors!
 PrincessChatter.Chatter_5,"Like my dress? Qee, thanks! Just sewed it."
 PrincessChatter.Chatter_6,I am so fabulously qrateful for my subjects!
-PrincessChatter.Chatter_7,"{?FrostLeqionDefeated}Worry not, concerned citizen! I am well aware of the orqanized crime problem amonq snowfolk."
+PrincessChatter.Chatter_7,"{?FrostLegionDefeated}Worry not, concerned citizen! I am well aware of the orqanized crime problem amonq snowfolk."
 PrincessChatter.Chatter_8,"Hmm... do you think {Pirate} will be able to redeem some of his old seafarinq friends, as well?"
 PrincessChatter.Chatter_9,"{?IceQueenDefeated}Diplomacy did not work so well with the Ice Queen, I'm afraid. She's rather cold-hearted! He he!"
 PrincessNames.Ai,Ai
@@ -14608,7 +14608,7 @@ ProjectileName.SporeTrap2,Spore
 ProjectileName.Squashling,Squashlinq
 ProjectileName.Stake,Stake
 ProjectileName.StarAnise,Star Anise
-ProjectileName.StarCannonStar,{$ProjectileName.FallinqStar}
+ProjectileName.StarCannonStar,{$ProjectileName.FallingStar}
 ProjectileName.StarCloakStar,Star Cloak
 ProjectileName.StardustCellMinion,Stardust Cell
 ProjectileName.StardustCellMinionShot,Stardust Cell
@@ -17205,10 +17205,10 @@ UI.Info,Info
 UI.IssueReporterHasThingsToShow,See issues
 UI.ItemCannotBePlacedInsideItself,Placinq into itself will be blocked
 UI.Keybindings,Keybindinqs
-UI.LightMode_Color,{$LeqacyMenu.55}
-UI.LightMode_Retro,{$LeqacyMenu.57}
-UI.LightMode_Trippy,{$LeqacyMenu.58}
-UI.LightMode_White,{$LeqacyMenu.56}
+UI.LightMode_Color,{$LegacyMenu.55}
+UI.LightMode_Retro,{$LegacyMenu.57}
+UI.LightMode_Trippy,{$LegacyMenu.58}
+UI.LightMode_White,{$LegacyMenu.56}
 UI.LoadingCode,Loadinq:
 UI.Master,Master
 UI.Mediumcore,Mediumcore
@@ -17305,8 +17305,8 @@ UI.WorldSizeLarge,Larqe
 UI.WorldSizeMedium,Medium
 UI.WorldSizeSmall,Small
 UI.WorldSizeUnknown,Unknown
-UI.ZoomIn,{$LeqacyMenu.168}
-UI.ZoomOut,{$LeqacyMenu.169}
+UI.ZoomIn,{$LegacyMenu.168}
+UI.ZoomOut,{$LegacyMenu.169}
 WitchDoctorNames.Abibe,Abibe
 WitchDoctorNames.Gboto,Qboto
 WitchDoctorNames.Jamundi,Jamundi
@@ -17402,7 +17402,7 @@ Workshop.ReportIssue_FailedToPublish_AccessDeniedBecauseUserDoesntOwnLicenseForA
 Workshop.ReportIssue_FailedToPublish_Common,Failed to publish the item to steam!
 Workshop.ReportIssue_FailedToPublish_CouldNotFindFolderToUpload,{$Workshop.ReportIssue_FailedToPublish_Common} The content folder for the published item is missinq?!
 Workshop.ReportIssue_FailedToPublish_ImageSizeIsTooLarge,"The imaqe you're tryinq to use has to be 512x512 pixels or less in size!
-Current Size: {Width}x{Heiqht}."
+Current Size: {Width}x{Height}."
 Workshop.ReportIssue_FailedToPublish_InvalidParametersForPublishing,{$Workshop.ReportIssue_FailedToPublish_Common} Did you modify the qame's steam application ID?
 Workshop.ReportIssue_FailedToPublish_LimitExceeded,"{$Workshop.ReportIssue_FailedToPublish_Common} Size limit exceeded! Please make sure your preview imaqe is under 1mb in size, and that you have space for you to publish to your steam cloud"
 Workshop.ReportIssue_FailedToPublish_SteamFileLockFailed,"{$Workshop.ReportIssue_FailedToPublish_Common} Failed to acquire UQC Lock. If this issue repeats, try restartinq steam please!"
@@ -17415,13 +17415,13 @@ Workshop.ResourcePackPublishDescription,"Publishinq a resource pack will upload 
 Workshop.SettingsPublicityDescriptionSharedNote,You can adjust your content's visibility settinq throuqh its workshop paqe at any time
 Workshop.SettingsPublicityFriendsOnly,Friends Only
 Workshop.SettingsPublicityFriendsOnlyDescription,"Your content will only be visible & usable by you & your friends once published
-{$Workshop.SettinqsPublicityDescriptionSharedNote}"
+{$Workshop.SettingsPublicityDescriptionSharedNote}"
 Workshop.SettingsPublicityPrivate,Private
 Workshop.SettingsPublicityPrivateDescription,"Your content will only be visible to you once published
-{$Workshop.SettinqsPublicityDescriptionSharedNote}"
+{$Workshop.SettingsPublicityDescriptionSharedNote}"
 Workshop.SettingsPublicityPublic,Public
 Workshop.SettingsPublicityPublicDescription,"Your content will be visible & available to everyone as soon as it is published
-{$Workshop.SettinqsPublicityDescriptionSharedNote}"
+{$Workshop.SettingsPublicityDescriptionSharedNote}"
 Workshop.SteamDisclaimer,"By submittinq this item, you aqree to the Workshop terms of service."
 Workshop.SteamDisclaimerDescrpition,"Open the full steam terms of service paqe
 Please upload content responsibly"
