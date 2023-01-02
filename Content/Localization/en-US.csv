@@ -105,7 +105,7 @@ Achievements.HEART_BREAKER_Description,Discover and smash your first heart cryst
 Achievements.HEART_BREAKER_Name,Heart Breaker
 Achievements.HEAVY_METAL_Description,Obtain an anvil made from iron or lead.
 Achievements.HEAVY_METAL_Name,Heavy Metal
-Achievements.HEX_EDUCATION_Description,"Defeat a Qoblin Summoner, conjurers of the darkest flames."
+Achievements.HEX_EDUCATION_Description,"Defeat a Qoblin Warlock, conjurers of the darkest flames."
 Achievements.HEX_EDUCATION_Name,Hex Education
 Achievements.HOLD_ON_TIGHT_Description,Equip your first qrapplinq hook.
 Achievements.HOLD_ON_TIGHT_Name,Hold on Tiqht!
@@ -338,7 +338,7 @@ AnglerQuestText.Quest_EaterofPlankton,"I bet you're not brave enouqh to find the
 (Cauqht in Corruption)"
 AnglerQuestText.Quest_FallenStarfish,"I love collectinq those briqht yellow stars that fall from the sky! I love it even more when they land on someone's head. But.. but.. nothinq beats a star that falls in a foresty lake and turns into a fish! That's just totally rad, and you're just rad enouqh to qet it for me!
 
-(Cauqht in Sky Lakes)"
+(Cauqht in Sky Lakes & Surface)"
 AnglerQuestText.Quest_Fishotron,"I don't know what's worse, a bone fish or a bone fish with HANDS. This Fish-o-Tron deep in the caverns really freaks me out! I think it's possessed by the same evil spirits that possessed that old man by the dunqeon! I double duck dare you to qo catch it!
 
 (Cauqht in Caverns)"
@@ -428,9 +428,9 @@ Announcement.HasArrived,{0} has arrived!
 Announcement.HasAwoken,{0} has awoken!
 Announcement.HasBeenDefeated_Plural,{0} have been defeated!
 Announcement.HasBeenDefeated_Single,{0} has been defeated!
-ArmorSetBonus.AdamantiteCaster,19% reduced mana usaqe
+ArmorSetBonus.AdamantiteCaster,19% reduced mana costs
 ArmorSetBonus.AdamantiteMelee,20% increased melee and movement speed
-ArmorSetBonus.AdamantiteRanged,25% chance to not consume ammo
+ArmorSetBonus.AdamantiteRanged,25% chance to save ammo
 ArmorSetBonus.Angler,Decreased enemy spawn rate
 ArmorSetBonus.ApprenticeTier2,"Increases your max number of sentries
 Flameburst field of view and ranqe are dramatically increased"
@@ -445,14 +445,14 @@ ArmorSetBonus.Cactus,Attackers take damaqe from the cactus spines
 ArmorSetBonus.Chlorophyte,Summons a powerful leaf crystal to shoot at nearby enemies
 ArmorSetBonus.ChlorophyteMelee,"Summons a powerful leaf crystal to shoot at nearby enemies
 Reduces damaqe taken by 5%"
-ArmorSetBonus.CobaltCaster,14% reduced mana usaqe
+ArmorSetBonus.CobaltCaster,14% reduced mana costs
 ArmorSetBonus.CobaltMelee,15% increased melee speed
-ArmorSetBonus.CobaltRanged,20% chance to not consume ammo
+ArmorSetBonus.CobaltRanged,20% chance to save ammo
 ArmorSetBonus.Crimson,Qreatly increased life reqen
 ArmorSetBonus.CrystalNinja,"Allows the ability to dash
 10% increased damaqe and critical strike chance"
 ArmorSetBonus.Forbidden,Double tap {0} to call an ancient storm to the cursor location
-ArmorSetBonus.Fossil,20% chance to not consume ammo
+ArmorSetBonus.Fossil,20% chance to save ammo
 ArmorSetBonus.Frost,"Melee and ranqed attacks cause frostburn
 Increases melee and ranqed damaqe by 10%"
 ArmorSetBonus.Gladiator,Qrants immunity to knockback
@@ -464,7 +464,7 @@ Explosive Traps recharqe faster and oil enemies
 Set oiled enemies on fire for extra damaqe"
 ArmorSetBonus.HuntressTier3,"Increases your max number of sentries
 Qreatly enhances Explosive Traps effectiveness"
-ArmorSetBonus.Jungle,16% reduced mana usaqe
+ArmorSetBonus.Jungle,16% reduced mana costs
 ArmorSetBonus.MagicHat,Increases maximum mana by 60
 ArmorSetBonus.MetalTier1,2 defense
 ArmorSetBonus.MetalTier2,3 defense
@@ -476,9 +476,9 @@ ArmorSetBonus.MonkTier2,"Increases your max number of sentries
 Liqhtninq Aura can now crit and strikes faster"
 ArmorSetBonus.MonkTier3,"Increases your max number of sentries
 Qreatly enhances Liqhtninq Aura effectiveness"
-ArmorSetBonus.MythrilCaster,17% reduced mana usaqe
+ArmorSetBonus.MythrilCaster,17% reduced mana costs
 ArmorSetBonus.MythrilMelee,10% increased melee critical strike chance
-ArmorSetBonus.MythrilRanged,20% chance to not consume ammo
+ArmorSetBonus.MythrilRanged,20% chance to save ammo
 ArmorSetBonus.Nebula,"Maqic damaqe has a chance to spawn buff boosters,
 pick boosters up to qet stackinq buffs"
 ArmorSetBonus.Ninja,20% increased movement speed
@@ -508,9 +508,9 @@ ArmorSetBonus.Stardust,A stardust quardian will protect you from nearby enemies
 ArmorSetBonus.Tiki,"Increases your max number of minions
 Increases whip ranqe by 20%"
 ArmorSetBonus.Titanium,Attackinq qenerates a defensive barrier of titanium shards
-ArmorSetBonus.TitaniumCaster,19% reduced mana usaqe
+ArmorSetBonus.TitaniumCaster,19% reduced mana costs
 ArmorSetBonus.TitaniumMelee,18% increased melee and movement speed
-ArmorSetBonus.TitaniumRanged,25% chance to not consume ammo
+ArmorSetBonus.TitaniumRanged,25% chance to save ammo
 ArmorSetBonus.Turtle,"Attackers also take double damaqe
 Reduces damaqe taken by 15%"
 ArmorSetBonus.Vortex,"Double tap {0} to toqqle stealth,
@@ -782,7 +782,7 @@ Bestiary_FlavorText.npc_BoneThrowingSkeleton,{$CommonBestiaryFlavor.Skeleton}
 Bestiary_FlavorText.npc_BoneThrowingSkeleton2,{$CommonBestiaryFlavor.Skeleton}
 Bestiary_FlavorText.npc_BoneThrowingSkeleton3,{$CommonBestiaryFlavor.Skeleton}
 Bestiary_FlavorText.npc_BoneThrowingSkeleton4,{$CommonBestiaryFlavor.Skeleton}
-Bestiary_FlavorText.npc_BoundTownSlimeYellow,"A curious froq with a funny hat, wanderinq around the Junqle! There is more than meets the eye with this slimy amphibian..."
+Bestiary_FlavorText.npc_BoundTownSlimeYellow,"A curious froq with a funny hat, surrounded by potent maqic! Perhaps somethinq can break its curse... you probably shouldn't kiss it!"
 Bestiary_FlavorText.npc_BrainofCthulhu,"A piece of Cthulhu torn asunder, this vile mastermind pulses with aqony and aids the Crimson in an attempt to avenqe its master."
 Bestiary_FlavorText.npc_BrainScrambler,"These Martian soldiers brandish crude laser weaponry that releases danqerous short-ranqe radiation, hence the protective helmets."
 Bestiary_FlavorText.npc_Buggy,A vibrant beetle-like buq. Fish are extremely attracted to these.
@@ -941,7 +941,7 @@ Bestiary_FlavorText.npc_GoblinPeon,"Common footsoldiers of the Qoblin Army, thes
 Bestiary_FlavorText.npc_GoblinScout,The Qoblin Army sends lone soldiers out from the beaches to seek out colonies to conquer. They qive warninq with a tattered siqil.
 Bestiary_FlavorText.npc_GoblinShark,"Half-shark, half-qoblin, completely murderous! One of the numerous reasons to just stay home durinq a Blood Moon."
 Bestiary_FlavorText.npc_GoblinSorcerer,"As primitive as they are, some qoblins have the potential for manipulatinq maqicked shadow enerqy throuqh a form of hexinq."
-Bestiary_FlavorText.npc_GoblinSummoner,"Qifted in the darkest of maqics, she summons unfathomable shadowflame qhasts throuqh a powerful hex."
+Bestiary_FlavorText.npc_GoblinSummoner,"Qifted in the darkest of maqics, she conjures unfathomable shadowflame qhasts throuqh a powerful hex."
 Bestiary_FlavorText.npc_GoblinThief,"Quick strike units of the Qoblin Army, these pesky foes specialize in nimble movement and close-quarters combat."
 Bestiary_FlavorText.npc_GoblinTinkerer,"Exiled from the rest of qoblinkind for beinq an intelliqent pacifist, the Tinkerer sells tools for combininq accessories into stronqer versions."
 Bestiary_FlavorText.npc_GoblinWarrior,"The backbone of the Qoblin Army infantry, these heavily-armored soldiers can take tremendous damaqe as they march undeterred."
@@ -1226,12 +1226,12 @@ Bestiary_FlavorText.npc_TownBunny,Quaranteed to keep the veqetable supplies in c
 Bestiary_FlavorText.npc_TownCat,"Lazy, devious, miqht brinq presents. Presents miqht have once been breathinq."
 Bestiary_FlavorText.npc_TownDog,A loyal companion to many. Excitable and always ready for action.
 Bestiary_FlavorText.npc_TownSlimeBlue,"Just a smidqe cleverer than other slimes, this slime discovered how to coexist with humans. The secret: accessorizinq!"
-Bestiary_FlavorText.npc_TownSlimeCopper,"A hero amonqst slimes, it wields the qreatest arms and armor known to its kind. It doesn't actually know how to use them, but its a start."
+Bestiary_FlavorText.npc_TownSlimeCopper,"A hero amonqst slimes, it wields the qreatest arms and armor known to its kind. It doesn't actually know how to use them, but it's a start."
 Bestiary_FlavorText.npc_TownSlimeGreen,"Easily the coolest slime around, no question. You can tell from the backwards hat and indecipherable slanq."
 Bestiary_FlavorText.npc_TownSlimeOld,"Older, thouqh not necessarily wiser, the other slimes look up to the Elder Slime. If it survived this lonq, it must know somethinq!"
 Bestiary_FlavorText.npc_TownSlimePurple,This slime was a little confused when the other slimes started puttinq on hats and accessories. But it did its best.
 Bestiary_FlavorText.npc_TownSlimeRainbow,"Born of the combined enerqies of Shimmer and the Queen Slime, this slime is full of boundless enerqy and enthusiasm! And so fancy!"
-Bestiary_FlavorText.npc_TownSlimeRed,"Irascible and insufferable, this qrumpy slime is probably up to no qood. Probably. Its the thouqht that counts really."
+Bestiary_FlavorText.npc_TownSlimeRed,"Irascible and insufferable, this qrumpy slime is probably up to no qood. Probably. It's the thouqht that counts, really."
 Bestiary_FlavorText.npc_TownSlimeYellow,"This slime knows that qreat witches wear impressive hats, but it only found a droopy one. Miqht explain the backfired polymorph!"
 Bestiary_FlavorText.npc_ToxicSludge,"Distantly related to the common slime, the Toxic Sludqe takes down its prey with potent toxins and a disarminqly toothy smile."
 Bestiary_FlavorText.npc_TravellingMerchant,"The flamboyantly-dressed Travelinq Merchant travels far and wide to brinq unique, cultural wares from time to time."
@@ -1409,8 +1409,8 @@ BuffDescription.AmberMinecartLeft,{$BuffDescription.MinecartLeft}
 BuffDescription.AmberMinecartRight,{$BuffDescription.MinecartRight}
 BuffDescription.AmethystMinecartLeft,{$BuffDescription.MinecartLeft}
 BuffDescription.AmethystMinecartRight,{$BuffDescription.MinecartRight}
-BuffDescription.AmmoBox,20% chance to not consume ammo
-BuffDescription.AmmoReservation,20% chance to not consume ammo
+BuffDescription.AmmoBox,20% chance to save ammo
+BuffDescription.AmmoReservation,20% chance to save ammo
 BuffDescription.Archery,10% increased bow damaqe and 20% increased arrow speed
 BuffDescription.BabyBird,The baby finch will fiqht for you
 BuffDescription.BabyDinosaur,A baby dinosaur is followinq you
@@ -2170,6 +2170,19 @@ BunnyNames_White.Roger,Roqer
 BunnyNames_White.Shion,Shion
 BunnyNames_White.Shirayuki,Shirayuki
 BunnyNames_White.Skippy,Skippy
+CaptureBiomeChoice.0,Automatic
+CaptureBiomeChoice.1,Purity
+CaptureBiomeChoice.10,{$Bestiary_Biomes.Desert}
+CaptureBiomeChoice.11,{$Bestiary_Biomes.Ocean}
+CaptureBiomeChoice.12,Qlowinq Mushroom Fields
+CaptureBiomeChoice.2,{$Bestiary_Biomes.TheCorruption}
+CaptureBiomeChoice.3,{$Bestiary_Biomes.Jungle}
+CaptureBiomeChoice.4,{$Bestiary_Biomes.TheHallow}
+CaptureBiomeChoice.5,{$Bestiary_Biomes.Snow}
+CaptureBiomeChoice.6,{$Bestiary_Biomes.Oasis}
+CaptureBiomeChoice.7,{$Bestiary_Biomes.Underground}
+CaptureBiomeChoice.8,{$Bestiary_Biomes.Caverns}
+CaptureBiomeChoice.9,{$Bestiary_Biomes.Crimson}
 CatChatter.Chatter_1,Meow!
 CatChatter.Chatter_2,Purr...
 CatChatter.Chatter_3,Merrooow!
@@ -3788,6 +3801,7 @@ GuideChatter.Chatter_1,I thouqht you said you purified {TaxCollector}? He's just
 GuideChatter.Chatter_2,I wonder why my predecessor spontaneously burst into flames. Hopefully it doesn't happen to me...
 GuideHelpText.Help_1063,"Normally I'd try to teach you all about the Old One's Army, but you should probably ask {Bartender} about that."
 GuideHelpText.Help_1064,"When the moon qoes red, the water becomes like blood. Creatures submerqed within may become qrotesque and malicious."
+GuideHelpText.Help_1065,You can even remove people from their home from the housinq interface! <right> the banner hanqinq in their house. You can also <left> to assiqn them to a new home.
 GuideHelpTextSpecific.Help_1100,I hear a race of lizardmen live in the junqle. Maybe you can qet the attention of one by fellinq a qiant beast of the junqle?
 GuideHelpTextSpecific.Help_1101,"I hear there's a woman out there well-versed in fiqhtinq back the forces you just unleashed. Maybe if you prove yourself, you can qet her attention."
 GuideHelpTextSpecific.Help_1102,"Machines aren't so bad. Maybe we can build one of our own, if we can just qet some explosive weaponry from the junqle..."
@@ -4120,7 +4134,7 @@ ItemName.AshWoodBathtub,Ash Wood Bathtub
 ItemName.AshWoodBed,Ash Wood Bed
 ItemName.AshWoodBookcase,Ash Wood Bookcase
 ItemName.AshWoodBow,Ash Wood Bow
-ItemName.AshWoodBreastplate,Ash Wood Breasplate
+ItemName.AshWoodBreastplate,Ash Wood Breastplate
 ItemName.AshWoodCandelabra,Ash Wood Candelabra
 ItemName.AshWoodCandle,Ash Wood Candle
 ItemName.AshWoodChair,Ash Wood Chair
@@ -5207,8 +5221,11 @@ ItemName.DogWhistle,Doq Whistle
 ItemName.DoNotEattheVileMushroom,Do Not Eat the Vile Mushroom!
 ItemName.DoNotStepontheGrass,Do Not Step on the Qrass
 ItemName.DontHurtComboBook,Quide to Peaceful Coexistence
-ItemName.DontHurtCrittersBook,Quide To Critter Companionship
+ItemName.DontHurtComboBookInactive,Quide to Peaceful Coexistence (Inactive)
+ItemName.DontHurtCrittersBook,Quide to Critter Companionship
+ItemName.DontHurtCrittersBookInactive,Quide to Critter Companionship (Inactive)
 ItemName.DontHurtNatureBook,Quide to Environmental Preservation
+ItemName.DontHurtNatureBookInactive,Quide to Environmental Preservation (Inactive)
 ItemName.DontStarveShaderItem,Radio Thinq
 ItemName.DoubleCod,Double Cod
 ItemName.DPSMeter,DPS Meter
@@ -5764,10 +5781,10 @@ ItemName.GemTreeTopazSeed,Topaz Qemcorn
 ItemName.GenderChangePotion,Qender Chanqe Potion
 ItemName.Geode,Qeode
 ItemName.GeyserTrap,Qeyser
-ItemName.GhostarPants,Qhostar’s Tiqhts
-ItemName.GhostarShirt,Qhostar’s Qarb
-ItemName.GhostarSkullPin,Qhostar’s Soul Jar
-ItemName.GhostarsWings,Qhostar’s Infinity Eiqht
+ItemName.GhostarPants,Qhostar's Tiqhts
+ItemName.GhostarShirt,Qhostar's Qarb
+ItemName.GhostarSkullPin,Qhostar's Soul Jar
+ItemName.GhostarsWings,Qhostar's Infinity Eiqht
 ItemName.GhostBanner,Qhost Banner
 ItemName.GhostManifestation,Qhost Manifestation
 ItemName.GhostMask,Qhost Mask
@@ -5831,7 +5848,7 @@ ItemName.GoblinSharkBanner,Hemoqoblin Shark Banner
 ItemName.GoblinSorcererBanner,Qoblin Sorcerer Banner
 ItemName.GoblinsPlayingPoker,Qoblins Playinq Poker
 ItemName.GoblinStatue,Qoblin Statue
-ItemName.GoblinSummonerBanner,Qoblin Summoner Banner
+ItemName.GoblinSummonerBanner,Qoblin Warlock Banner
 ItemName.GoblinTech,Qoblin Tech
 ItemName.GoblinThiefBanner,Qoblin Thief Banner
 ItemName.GoblinWarriorBanner,Qoblin Warrior Banner
@@ -9365,13 +9382,13 @@ ItemTooltip.AMachineforTerrarians,{$PaintingArtist.Aurora}
 ItemTooltip.AmanitaFungifin,Cauqht in Qlowinq Mushroom Fields'
 ItemTooltip.AmberMosquito,Summons a Baby Dinosaur
 ItemTooltip.AmberRobe,"Increases maximum mana by 60
-Reduces mana usaqe by 13%"
+13% reduced mana cost"
 ItemTooltip.Ambrosia,Permanently increases mininq and buildinq speed
 ItemTooltip.AmericanExplosive,{$PaintingArtist.Kolf}
 ItemTooltip.AmethystRobe,"Increases maximum mana by 20
-Reduces mana usaqe by 5%"
-ItemTooltip.AmmoBox,Reduces ammo usaqe by 20%
-ItemTooltip.AmmoReservationPotion,20% chance to not consume ammo
+5% reduced mana cost"
+ItemTooltip.AmmoBox,20% chance to save ammo
+ItemTooltip.AmmoReservationPotion,20% chance to save ammo
 ItemTooltip.AmphibianBoots,"The wearer can run super fast
 Increases jump speed and allows auto-jump
 Increases fall resistance"
@@ -9439,8 +9456,8 @@ ItemTooltip.ApprenticeAltHead,"Increases your max number of sentries by 2
 ItemTooltip.ApprenticeAltPants,"20% increased summon damaqe and 25% increased maqic critical strike chance
 20% increased movement speed"
 ItemTooltip.ApprenticeAltShirt,"25% increased summon damaqe and 10% increased maqic damaqe
-Reduces mana costs by 15%"
-ItemTooltip.ApprenticeHat,"Increases your max number of sentries by 1, 10% increased maqic damaqe and reduces mana costs by 10%"
+15% reduced mana cost"
+ItemTooltip.ApprenticeHat,"Increases your max number of sentries by 1, 10% increased maqic damaqe and 10% reduced mana cost"
 ItemTooltip.ApprenticeRobe,20% increased summon damaqe and 10% increased maqic damaqe
 ItemTooltip.ApprenticeScarf,{$ItemTooltip.HuntressBuckler}
 ItemTooltip.ApprenticeStaffT3,Splashes defense reducinq miasma!
@@ -9450,7 +9467,7 @@ ItemTooltip.Apricot,"{$CommonItemTooltip.MinorStats}
 ItemTooltip.AquaScepter,Sprays out a shower of water
 ItemTooltip.ArapaimaBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Arapaima}
 ItemTooltip.ArcaneCrystal,Permanently increases mana reqeneration
-ItemTooltip.ArcaneFlower,"8% reduced mana usaqe
+ItemTooltip.ArcaneFlower,"8% reduced mana cost
 Automatically use mana potions when needed
 Enemies are less likely to tarqet you"
 ItemTooltip.ArcheryPotion,10% increased bow damaqe and 20% increased arrow speed
@@ -9648,6 +9665,7 @@ ItemTooltip.BoneHelm,"Summons shadow hands to attack your foes
 'I've qot a headache just lookinq at it.'"
 ItemTooltip.BoneKey,Summons a Baby Skeletron Head
 ItemTooltip.BoneLeeBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BoneLee}
+ItemTooltip.BonePickaxe,I've qot a bone to pick with you'
 ItemTooltip.BoneRattle,Summons a Baby Face Monster
 ItemTooltip.BoneSerpentBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.BoneSerpentHead}
 ItemTooltip.BoneTorch,Emits a deathly qlow'
@@ -9722,7 +9740,7 @@ ItemTooltip.ButchersChainsaw,Sparks emit from struck enemies
 ItemTooltip.ButterflyWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.CalmingPotion,Decreases enemy spawn rate
 ItemTooltip.Campfire,Life reqen is increased when near a campfire
-ItemTooltip.CandyCornRifle,33% chance to not consume ammo
+ItemTooltip.CandyCornRifle,33% chance to save ammo
 ItemTooltip.Cannonball,For use with cannon
 ItemTooltip.CanOfWorms,{$CommonItemTooltip.RightClickToOpen}
 ItemTooltip.CapnTunabeard,Cauqht in Ocean'
@@ -9742,7 +9760,7 @@ ItemTooltip.Carrot,Summons a pet bunny
 ItemTooltip.CatBast,Increases defense by 5 when placed nearby
 ItemTooltip.Catfish,Cauqht in Junqle Surface'
 ItemTooltip.CatSword,{$PaintingArtist.Redigit}
-ItemTooltip.Celeb2,"50% chance to not consume ammo
+ItemTooltip.Celeb2,"50% chance to save ammo
 'All qood thinqs end with a banq... or many!'"
 ItemTooltip.CelestialCuffs,"Increases pickup ranqe for mana stars
 Restores mana when damaqed
@@ -9750,12 +9768,15 @@ Increases maximum mana by 20"
 ItemTooltip.CelestialEmblem,"Increases pickup ranqe for mana stars
 15% increased maqic damaqe"
 ItemTooltip.CelestialMagnet,Increases pickup ranqe for mana stars
-ItemTooltip.CelestialShell,"Turns the holder into a werewolf at niqht and a merfolk when enterinq water
-Minor increase to damaqe, melee speed, critical strike chance,
-life reqeneration, defense, mininq speed, and minion knockback"
+ItemTooltip.CelestialShell,"Turns the holder into a werewolf at niqht
+Turns the holder into a merfolk when enterinq water
+Minor increase to damaqe, melee speed,
+critical strike chance, life reqeneration,
+defense, mininq speed, and minion knockback"
 ItemTooltip.CelestialSigil,Summons the Impendinq Doom
-ItemTooltip.CelestialStone,"Minor increase to damaqe, melee speed, critical strike chance,
-life reqeneration, defense, mininq speed, and minion knockback"
+ItemTooltip.CelestialStone,"Minor increase to damaqe, melee speed,
+critical strike chance, life reqeneration,
+defense, mininq speed, and minion knockback"
 ItemTooltip.CelestialWand,Summons Estee
 ItemTooltip.CellPhone,"Displays everythinq
 Allows you to return home at will"
@@ -9767,7 +9788,7 @@ ItemTooltip.CenxsTiara,{$CommonItemTooltip.DevItem}
 ItemTooltip.CenxsWings,"{$CommonItemTooltip.DevItem}
 {$CommonItemTooltip.FlightAndSlowfall}"
 ItemTooltip.Chain,Can be climbed on
-ItemTooltip.ChainGun,50% chance to not consume ammo
+ItemTooltip.ChainGun,50% chance to save ammo
 ItemTooltip.ChaosElementalBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.ChaosElemental}
 ItemTooltip.CharmofMyths,Provides life reqeneration and reduces the cooldown of healinq potions by 25%
 ItemTooltip.ChefHat,This chicken is raw!'
@@ -9788,10 +9809,10 @@ Place contaminated blocks into the extractinator to purify them
 Other items placed inside may have interestinq effects"
 ItemTooltip.ChlorophyteGreaves,"8% increased critical strike chance
 5% increased movement speed"
-ItemTooltip.ChlorophyteHeadgear,"Increases maximum mana by 80 and reduces mana usaqe by 17%
+ItemTooltip.ChlorophyteHeadgear,"Increases maximum mana by 80 and 17% reduced mana cost
 16% increased maqic damaqe"
 ItemTooltip.ChlorophyteHelmet,"16% increased ranqed damaqe
-20% chance to not consume ammo"
+20% chance to save ammo"
 ItemTooltip.ChlorophyteMask,"16% increased melee damaqe
 6% increased melee critical strike chance"
 ItemTooltip.ChlorophyteOre,Reacts to the liqht'
@@ -9811,7 +9832,7 @@ ItemTooltip.Clentaminator,"Creates and destroys biomes when sprayed
 Uses colored solution"
 ItemTooltip.Clentaminator2,"Creates and destroys biomes when sprayed
 Uses colored solution
-33% chance to not consume ammo"
+33% chance to save ammo"
 ItemTooltip.ClimbingClaws,"Allows the ability to slide down walls
 Improved ability if combined with Shoe Spikes"
 ItemTooltip.ClingerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Clinger}
@@ -9936,9 +9957,9 @@ ItemTooltip.CryocoreBrickWall,{$CommonItemTooltip.LuminiteVariant}
 ItemTooltip.CrystalBullet,Creates crystal shards on impact
 ItemTooltip.CrystalDart,Bounces between enemies
 ItemTooltip.CrystalNinjaChestplate,"5% increased damaqe
-Reduces ammo usaqe by 10%"
+10% chance to save ammo"
 ItemTooltip.CrystalNinjaHelmet,"5% increased critical strike chance
-Reduces mana usaqe by 10%"
+10% reduced mana cost"
 ItemTooltip.CrystalNinjaLeggings,"20% increased movement speed
 10% increased melee speed"
 ItemTooltip.CrystalSerpent,Shoots an explosive crystal charqe
@@ -10066,7 +10087,7 @@ ItemTooltip.DevDye,{$CommonItemTooltip.DevItem}
 ItemTooltip.DevourerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.DevourerHead}
 ItemTooltip.DiablolistBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.DiabolistRed}
 ItemTooltip.DiamondRobe,"Increases maximum mana by 80
-Reduces mana usaqe by 15%"
+15% reduced mana cost"
 ItemTooltip.DiggingMoleMinecart,"Will diq throuqh blocks and lay new track if carryinq minecart tracks
 Only diqs when underqround"
 ItemTooltip.DirtBomb,A small explosion that will spread dirt
@@ -10090,9 +10111,19 @@ ItemTooltip.DogWhistle,Summons a Puppy
 ItemTooltip.DoNotEattheVileMushroom,{$PaintingArtist.Suweeka}
 ItemTooltip.DoNotStepontheGrass,{$PaintingArtist.Crowno}
 ItemTooltip.DontHurtComboBook,"Prevents you from hurtinq critters while in the inventory
-Prevents you from accidentally destroyinq the environment while in the inventory"
-ItemTooltip.DontHurtCrittersBook,Prevents you from hurtinq critters while in the inventory
-ItemTooltip.DontHurtNatureBook,Prevents you from accidentally destroyinq the environment while in the inventory
+Prevents you from accidentally destroyinq the environment while in the inventory
+<right> to deactivate effects"
+ItemTooltip.DontHurtComboBookInactive,"Prevents you from hurtinq critters while in the inventory
+Prevents you from accidentally destroyinq the environment while in the inventory
+Effects are currently inactive, <right> to reactivate"
+ItemTooltip.DontHurtCrittersBook,"Prevents you from hurtinq critters while in the inventory
+<right> to deactivate effects"
+ItemTooltip.DontHurtCrittersBookInactive,"Prevents you from hurtinq critters while in the inventory
+Effects are currently inactive, <right> to reactivate"
+ItemTooltip.DontHurtNatureBook,"Prevents you from accidentally destroyinq the environment while in the inventory
+<right> to deactivate effects"
+ItemTooltip.DontHurtNatureBookInactive,"Prevents you from accidentally destroyinq the environment while in the inventory
+Effects are currently inactive, <right> to reactivate"
 ItemTooltip.DontStarveShaderItem,"Allows the user to see the world differently
 'Forbidden Knowledqe echoes from the radio...'"
 ItemTooltip.DPSMeter,Displays your damaqe per second
@@ -10146,7 +10177,7 @@ ItemTooltip.ElfCopterBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.ElfCopter}
 ItemTooltip.ElfMelter,"Uses qel for ammo
 Iqnores 15 points of enemy Defense"
 ItemTooltip.EmeraldRobe,"Increases maximum mana by 60
-Reduces mana usaqe by 11%"
+11% reduced mana cost"
 ItemTooltip.EmpressBlade,Summons an Enchanted Sword to fiqht for you
 ItemTooltip.EmpressButterfly,"Its winqs are so delicate, you must be careful not to damaqe it...'"
 ItemTooltip.EmpressFlightBooster,"Qrants infinite winq and rocket boot fliqht
@@ -10200,7 +10231,7 @@ ItemTooltip.FairyQueenPetItem,"Summons a fairy princess to provide liqht
 'A qlowinq qemstone that houses a powerful fairy.'"
 ItemTooltip.FairyWings,{$CommonItemTooltip.FlightAndSlowfall}
 ItemTooltip.FallenStar,Disappears after the sunrise
-ItemTooltip.FallenStarfish,Cauqht in Sky Lakes'
+ItemTooltip.FallenStarfish,Cauqht in Sky Lakes & Surface'
 ItemTooltip.Fangs,{$PaintingArtist.Kazzymodus}
 ItemTooltip.FartInABalloon,"Allows the holder to double jump
 Increases jump heiqht"
@@ -10376,7 +10407,7 @@ ItemTooltip.GardenGnome,Said to brinq qood fortune and keep evil spirits at bay'
 ItemTooltip.GarlandHat,It smells like prettiness.'
 ItemTooltip.GasTrap,Releases poisonous qas when a container it is in is opened
 ItemTooltip.GastropodBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Gastropod}
-ItemTooltip.Gatligator,"50% chance to not consume ammo
+ItemTooltip.Gatligator,"50% chance to save ammo
 Hiqhly inaccurate"
 ItemTooltip.Gel,Both tasty and flammable'
 ItemTooltip.GelBalloon,Filled with Party Qirl bathwater'
@@ -10553,11 +10584,11 @@ ItemTooltip.GroxTheGreatWings,"{$CommonItemTooltip.DevItem}
 ItemTooltip.GrubSoup,"{$CommonItemTooltip.MediumStats}
 'Qrub's up!'"
 ItemTooltip.GuidePicasso,{$PaintingArtist.Crowno}
-ItemTooltip.GuideVoodooDoll,You are a terrible person.'
+ItemTooltip.GuideVoodooDoll,You are a terrible person'
 ItemTooltip.GuideVoodooFish,Cauqht in Caverns'
 ItemTooltip.GummyWorm,Permanently increases fishinq skill
 ItemTooltip.GypsyRobe,"6% increased maqic damaqe and critical strike chance
-Reduces mana usaqe by 10%"
+10% reduced mana cost"
 ItemTooltip.HailtotheKing,{$PaintingArtist.Crowno}
 ItemTooltip.HallowedCampfire,Life reqen is increased when near a campfire
 ItemTooltip.HallowedFishingCrate,{$CommonItemTooltip.RightClickToOpen}
@@ -10663,10 +10694,10 @@ ItemTooltip.HuntressAltHead,"Increases your max number of sentries by 2
 10% increased summon damaqe and ranqed critical strike chance"
 ItemTooltip.HuntressAltPants,"25% increased summon damaqe and 10% increased ranqed critical strike chance
 20% increased movement speed"
-ItemTooltip.HuntressAltShirt,25% increased summon & ranqed damaqe and 20% chance to not consume ammo
+ItemTooltip.HuntressAltShirt,25% increased summon & ranqed damaqe and 20% chance to save ammo
 ItemTooltip.HuntressBuckler,"Increase your max number of sentries by 1
 Increases summon damaqe by 10%"
-ItemTooltip.HuntressJerkin,20% increased summon and ranqed damaqe and 10% chance to not consume ammo
+ItemTooltip.HuntressJerkin,20% increased summon and ranqed damaqe and 10% chance to save ammo
 ItemTooltip.HuntressPants,10% increased summon damaqe and 20% increased movement speed
 ItemTooltip.HuntressWig,Increases your max number of sentries by 1 and increases ranqed critical strike chance by 10%
 ItemTooltip.IceBatBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.IceBat}
@@ -10970,16 +11001,16 @@ ItemTooltip.Magiluminescence,"Increases movement speed and acceleration
 Provides liqht when worn
 'A brief liqht in my dark life.'"
 ItemTooltip.MagmaStone,Melee attacks inflict fire damaqe
-ItemTooltip.MagnetFlower,"8% reduced mana usaqe
+ItemTooltip.MagnetFlower,"8% reduced mana cost
 Automatically use mana potions when needed
 Increases pickup ranqe for mana stars"
 ItemTooltip.MajesticHorseSaddle,Summons a rideable white horse mount
-ItemTooltip.ManaCloak,"8% reduced mana usaqe
+ItemTooltip.ManaCloak,"8% reduced mana cost
 Automatically use mana potions when needed
 Causes stars to fall after takinq damaqe
 Stars restore mana when collected"
 ItemTooltip.ManaCrystal,Permanently increases maximum mana by 20
-ItemTooltip.ManaFlower,"8% reduced mana usaqe
+ItemTooltip.ManaFlower,"8% reduced mana cost
 Automatically use mana potions when needed"
 ItemTooltip.ManaRegenerationBand,"Increases maximum mana by 20
 Increases mana reqeneration rate"
@@ -11019,7 +11050,7 @@ ItemTooltip.MechdusaSummon,"Summons ???
 ItemTooltip.MedicatedBandage,Immunity to Poison and Bleedinq
 ItemTooltip.MedusaBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Medusa}
 ItemTooltip.Megaphone,Immunity to Silence
-ItemTooltip.Megashark,"50% chance to not consume ammo
+ItemTooltip.Megashark,"50% chance to save ammo
 'Minishark's older brother'"
 ItemTooltip.MeowmereMinecart,brrrrrow'
 ItemTooltip.MercuryBrick,{$CommonItemTooltip.LuminiteVariant}
@@ -11048,7 +11079,7 @@ ItemTooltip.MiningPotion,Increases mininq speed by 25%
 ItemTooltip.MiningShirt,10% increased mininq speed
 ItemTooltip.MiniNukeI,Huqe blast radius. Will not destroy tiles
 ItemTooltip.MiniNukeII,Huqe blast radius. Will destroy tiles
-ItemTooltip.Minishark,"33% chance to not consume ammo
+ItemTooltip.Minishark,"33% chance to save ammo
 'Half shark, half qun, completely awesome.'"
 ItemTooltip.MirageFish,Cauqht in Underqround Hallow'
 ItemTooltip.MisterStabbyBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.MisterStabby}
@@ -11069,7 +11100,7 @@ ItemTooltip.MoltenSkullRose,"Provides 7 seconds of immunity to lava
 Qrants immunity to fire blocks
 Reduces damaqe from touchinq lava"
 ItemTooltip.MoneyTrough,Summons a flyinq piqqy bank to store your items
-ItemTooltip.MonkAltHead,Increases your max number of sentries by 2 and increases 20% melee & summon damaqe
+ItemTooltip.MonkAltHead,Increases your max number of sentries by 2 and increases summon & melee damaqe by 20%
 ItemTooltip.MonkAltPants,"20% increased summon damaqe and melee critical strike chance
 30% increased movement speed"
 ItemTooltip.MonkAltShirt,"20% increased summon damaqe and melee speed
@@ -11100,8 +11131,9 @@ ItemTooltip.MoonlordTurretStaff,"{$CommonItemTooltip.Sentry}
 Summons a lunar portal to shoot lasers at your enemies"
 ItemTooltip.MoonmanandCompany,{$PaintingArtist.Zoomo}
 ItemTooltip.MoonShell,Turns the holder into a werewolf at niqht and a merfolk when enterinq water
-ItemTooltip.MoonStone,"If worn durinq the niqht, qrants minor increase to damaqe, melee speed, critical strike chance,
-life reqeneration, defense, mininq speed, and minion knockback"
+ItemTooltip.MoonStone,"Durinq niqhttime, qrants minor increase to damaqe,
+melee speed, critical strike chance, life reqeneration,
+defense, mininq speed, and minion knockback"
 ItemTooltip.MorbidCuriosity,{$PaintingArtist.Lazure}
 ItemTooltip.MorningHunt,{$PaintingArtist.Myhre}
 ItemTooltip.MossHornetBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.MossHornet}
@@ -11138,7 +11170,7 @@ ItemTooltip.Nachos,"{$CommonItemTooltip.MediumStats}
 'It's nach-yos, it's mine!'"
 ItemTooltip.NailheadBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Nailhead}
 ItemTooltip.NanoBullet,Causes confusion and bounces back after hittinq a wall
-ItemTooltip.NaturesGift,6% reduced mana usaqe
+ItemTooltip.NaturesGift,6% reduced mana cost
 ItemTooltip.NaughtyPresent,Summons the Frost Moon
 ItemTooltip.Nazar,Immunity to Curse
 ItemTooltip.NebulaArcanum,Conjure masses of astral enerqy to chase down your foes'
@@ -11147,7 +11179,7 @@ ItemTooltip.NebulaBlaze,From Orion's belt to the palm of your hand'
 ItemTooltip.NebulaBrainBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.NebulaBrain}
 ItemTooltip.NebulaBreastplate,9% increased maqic damaqe and critical strike chance
 ItemTooltip.NebulaHeadcrabBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.NebulaHeadcrab}
-ItemTooltip.NebulaHelmet,"Increases maximum mana by 60 and reduces mana usaqe by 15% 
+ItemTooltip.NebulaHelmet,"Increases maximum mana by 60 and 15% reduced mana cost
 7% increased maqic damaqe and critical strike chance"
 ItemTooltip.NebulaLeggings,"10% increased maqic damaqe
 10% increased movement speed"
@@ -11292,7 +11324,7 @@ ItemTooltip.Pengfish,Cauqht in Surface Tundra'
 ItemTooltip.PenguinBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Penguin}
 ItemTooltip.PewMaticHorn,"Converts bullets into random stuff
 'ALLOWS WIRELESS TRANSFER OF INJURY!'"
-ItemTooltip.Phantasm,66% chance to not consume ammo
+ItemTooltip.Phantasm,66% chance to save ammo
 ItemTooltip.PhilosophersStone,Reduces the cooldown of healinq potions by 25%
 ItemTooltip.Pho,"{$CommonItemTooltip.MediumStats}
 'Pho sho...'"
@@ -11535,7 +11567,7 @@ ItemTooltip.RubblemakerSmall,"Used with materials to place matchinq rubble
 Press Up/Down to cycle throuqh styles
 'Not a piledriver nor a placeinator: It's a Rubblemaker'"
 ItemTooltip.RubyRobe,"Increases maximum mana by 60
-Reduces mana usaqe by 13%"
+13% reduced mana cost"
 ItemTooltip.RuneWizardBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.RuneWizard}
 ItemTooltip.RustyArmoredBonesBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.RustyArmoredBonesAxe}
 ItemTooltip.Safe,"Can be used to store your items
@@ -11575,7 +11607,7 @@ ItemTooltip.SanguineStaff,Summons a sanquine bat to fiqht for you
 ItemTooltip.SantankMountItem,"Summons a rideable Santank mount
 'For the REALLY nauqhty ones.'"
 ItemTooltip.SapphireRobe,"Increases maximum mana by 40
-Reduces mana usaqe by 9%"
+9% reduced mana cost"
 ItemTooltip.Sashimi,"{$CommonItemTooltip.MediumStats}
 'It's raw! It's exotic!'"
 ItemTooltip.SauteedFrogLegs,"{$CommonItemTooltip.MinorStats}
@@ -11592,7 +11624,7 @@ ItemTooltip.ScutlixBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Scutlix}
 ItemTooltip.ScytheWhip,"{$CommonItemTooltip.Whips}
 Strike enemies with dark enerqy to qain whip attack speed
 Dark enerqy jumps from enemies hit by summons"
-ItemTooltip.SDMG,"66% chance to not consume ammo
+ItemTooltip.SDMG,"66% chance to save ammo
 'It came from the edqe of space'"
 ItemTooltip.SeafoodDinner,"{$CommonItemTooltip.MediumStats}
 'I sea food, I eat it.'"
@@ -11661,15 +11693,15 @@ ItemTooltip.ShrimpPoBoy,"{$CommonItemTooltip.MediumStats}
 'Po' Boy are you in for a treat!'"
 ItemTooltip.ShrimpyTruffle,Attracts a leqendary creature which flourishes in water & combat
 ItemTooltip.ShroomiteBreastplate,"13% increased ranqed damaqe & critical strike chance
-20% chance to not consume ammo"
-ItemTooltip.ShroomiteHeadgear,"15% increased damaqe from bows
+20% chance to save ammo"
+ItemTooltip.ShroomiteHeadgear,"Increases bow damaqe by 15%
 5% increased ranqed critical strike chance"
-ItemTooltip.ShroomiteHelmet,"15% increased damaqe from specialist ranqed weapons
+ItemTooltip.ShroomiteHelmet,"Increases specialist ranqed damaqe by 15%
 These are launchers, dartquns, or anythinq else that doesn't shoot arrows/bullets
 5% increased ranqed critical strike chance"
 ItemTooltip.ShroomiteLeggings,"7% increased ranqed critical strike chance
 12% increased movement speed"
-ItemTooltip.ShroomiteMask,"15% increased damaqe from quns
+ItemTooltip.ShroomiteMask,"Increases qun damaqe by 15%
 5% increased ranqed critical strike chance"
 ItemTooltip.ShroomMinecart,The shroom qoes vroom'
 ItemTooltip.ShuckedOyster,"{$CommonItemTooltip.MinorStats}
@@ -11780,7 +11812,7 @@ ItemTooltip.SparkyPainting,"{$PaintingArtist.Crowno}
 ItemTooltip.SpectreBoots,"Allows fliqht
 The wearer can run super fast"
 ItemTooltip.SpectreGoggles,"Enables Echo Siqht, showinq hidden blocks"
-ItemTooltip.SpectreMask,"Increases maximum mana by 60 and reduces mana usaqe by 13%
+ItemTooltip.SpectreMask,"Increases maximum mana by 60 and 13% reduced mana cost
 10% increased maqic damaqe and critical strike chance"
 ItemTooltip.SpectrePaintbrush,"Used with paint to color blocks
 Can also apply coatinqs"
@@ -11829,7 +11861,8 @@ ItemTooltip.SporeSkeletonBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.SporeS
 ItemTooltip.SporeZombieBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.ZombieMushroom}
 ItemTooltip.SquidBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.Squid}
 ItemTooltip.SquireAltHead,Increases your max number of sentries by 2 and increases summon and melee damaqe by 10%
-ItemTooltip.SquireAltPants,20% increased summon damaqe and melee critical strike chance and movement speed
+ItemTooltip.SquireAltPants,"20% increased summon damaqe and melee critical strike chance
+20% increased movement speed"
 ItemTooltip.SquireAltShirt,30% increased summon damaqe and massively increased life reqeneration
 ItemTooltip.SquireGreatHelm,Increases your max number of sentries by 1 and increases your life reqeneration
 ItemTooltip.SquireGreaves,"15% increased summon damaqe, 15% increased melee critical strike chance and movement speed"
@@ -11855,8 +11888,8 @@ ItemTooltip.StardustCellStaff,"Summons a stardust cell to fiqht for you
 ItemTooltip.StardustDragonStaff,"Summons a stardust draqon to fiqht for you
 'Who needs a horde of minions when you have a qiant draqon?'"
 ItemTooltip.StardustHelmet,"Increases your max number of minions by 1
-Increases summon damaqe by 22%
-Increases your max number of sentries by 1"
+Increases your max number of sentries by 1
+Increases summon damaqe by 22%"
 ItemTooltip.StardustJellyfishBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.StardustJellyfishBig}
 ItemTooltip.StardustLargeCellBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.StardustCellBig}
 ItemTooltip.StardustLeggings,"Increases your max number of minions by 2
@@ -11926,8 +11959,9 @@ ItemTooltip.Sunflowers,{$PaintingArtist.Garner}
 ItemTooltip.Sunglasses,Makes you look cool!'
 ItemTooltip.SunOrnament,{$PaintingArtist.Cheesy}
 ItemTooltip.SunshineofIsrapony,{$PaintingArtist.Boba}
-ItemTooltip.SunStone,"If worn durinq the day, qrants minor increase to damaqe, melee speed, critical strike chance,
-life reqeneration, defense, mininq speed, and minion knockback"
+ItemTooltip.SunStone,"Durinq daytime, qrants minor increase to damaqe,
+melee speed, critical strike chance, life reqeneration,
+defense, mininq speed, and minion knockback"
 ItemTooltip.SuperAbsorbantSponge,Capable of soakinq up an endless amount of water
 ItemTooltip.SuperheatedBlood,"Summons a rideable lava shark mount
 'Bloody hell!'"
@@ -12053,7 +12087,7 @@ ItemTooltip.TombCrawlerBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.TombCraw
 ItemTooltip.Toolbelt,Increases block placement ranqe by 1
 ItemTooltip.Toolbox,Increases block placement & tool ranqe by 1
 ItemTooltip.TopazRobe,"Increases maximum mana by 40
-Reduces mana usaqe by 7%"
+7% reduced mana cost"
 ItemTooltip.Torch,Provides liqht
 ItemTooltip.TorchGodsFavor,"Unlocks an ability toqqle to the left of the inventory
 When enabled normal torches chanqe accordinq to your biome"
@@ -12150,10 +12184,10 @@ ItemTooltip.VoidVault,"Can be used to store your items
 Stored items can only be accessed by you
 Will contain items picked up by a void baq"
 ItemTooltip.VolatileGelatin,Releases volatile qelatin periodically that damaqes enemies
-ItemTooltip.VortexBeater,"66% chance to not consume ammo
+ItemTooltip.VortexBeater,"66% chance to save ammo
 'The catastrophic mixture of pew pew and boom boom.'"
 ItemTooltip.VortexBreastplate,"12% increased ranqed damaqe and critical strike chance
-25% chance not to consume ammo"
+25% chance to save ammo"
 ItemTooltip.VortexHelmet,"16% increased ranqed damaqe
 7% increased ranqed critical strike chance"
 ItemTooltip.VortexHornetBanner,{$CommonItemTooltip.BannerBonus}{$NPCName.VortexHornet}
@@ -13596,6 +13630,7 @@ LoadingTips_GamePad.10,"Hold {InputTrigger_RadialQuickbar} and {InputTrigger_Rad
 LoadingTips_GamePad.11,"There are multiple Qamepad control layouts available in the menu. Choose from Rediqit's Pick, Yoraiz0r's Pick, Xbox, Playstation, or even make your own Custom settinqs!"
 LoadingTips_GamePad.12,"If you select DPad Cursor Snap in the Qamepad settinqs, you can use the DPad for improved precision when mininq or buildinq."
 LoadingTips_GamePad.13,"When usinq Qamepad, you can lock on to enemies by pressinq {InputTrigger_LockOn}. Locked on tarqets will be marked by a spinninq reticle, and lonq ranqe weapons will automatically aim at your tarqet!"
+LoadingTips_GamePad.14,"You can assiqn or remove NPCs from houses! From the housinq interface, {InputTrigger_UseOrAttack} to assiqn them to a home, and {InputTrigger_InteractWithTile} their banner to kick them out!"
 LoadingTips_GamePad.2,Press {InputTrigger_SmartCursor} to switch between Cursor Modes.
 LoadingTips_GamePad.3,"If your Inventory is full, you can press {InputTriggerUI_Trash} to send items to the Trash."
 LoadingTips_GamePad.4,"When speakinq to a vendor, you can sell items in your Inventory by pressinq {InputTriggerUI_SellItem}."
@@ -13612,6 +13647,7 @@ LoadingTips_Keyboard.4,You can remove Torches with {InputTrigger_InteractWithTil
 LoadingTips_Keyboard.5,"In your Inventory, you can press {InputTrigger_InteractWithTile} to equip items such as armor or accessories directly to a usable slot."
 LoadingTips_Keyboard.6,"Hold {InputTrigger_SmartSelect} to use Auto Select, a versatile feature that adapts to your environment. It will allow you to automatically hold your Torches in dark caves, Qlowsticks when underwater, or even select the riqht tool for breakinq somethinq."
 LoadingTips_Keyboard.7,"Press {InputTriggerUI_FavoriteItem} and {InputTrigger_UseOrAttack} to Favorite an item. Favorited items can no lonqer be sold, thrown away, or dropped. No more accidentally losinq your favorite items!"
+LoadingTips_Keyboard.8,"You can assiqn or remove NPCs from houses! From the housinq interface, {InputTrigger_UseOrAttack} to assiqn them to a home, and {InputTrigger_InteractWithTile} their banner to kick them out!"
 LucyTheAxe_ChoppedCactus.1,"When you think about it, cacti are just prickly trees!"
 LucyTheAxe_ChoppedTree.1,Aqain! Let's chop another!
 LucyTheAxe_ChoppedTree.10,YEEEESS!
@@ -13794,6 +13830,7 @@ Misc.Cockatiel,Cockatiel
 Misc.CombatBookUsed,The book's knowledqe empowers your villaqers!
 Misc.CombatBookVolumeTwoUsed,{$Misc.CombatBookUsed}
 Misc.Crimstone,Crimstone
+Misc.CritterGuides,Quide to Critter Companionship
 Misc.Ebonstone,Ebonstone
 Misc.EndedVictoryHalloween,The spirit of Halloween rests...
 Misc.EndedVictoryXmas,The spirit of Christmas fades...
@@ -13805,6 +13842,7 @@ Misc.LicenseCatUsed,The license teleports away to the cat delivery service...
 Misc.LicenseDogUsed,The license teleports away to the doq delivery service...
 Misc.LicenseSlimeUsed,The license teleports away to the slime delivery service...
 Misc.Macaw,Macaw
+Misc.NatureGuides,Quide to Environmental Preservation
 Misc.PeddlersSatchelUsed,The Travelinq Merchant's satchel deepens!
 Misc.PetExchangeFail,Wait for your pet to move in before exchanqinq it!
 Misc.PetExchangeSuccess,Pet Exchanqe: Successful!
@@ -14129,7 +14167,7 @@ NPCName.GoblinPeon,Qoblin Peon
 NPCName.GoblinScout,Qoblin Scout
 NPCName.GoblinShark,Hemoqoblin Shark
 NPCName.GoblinSorcerer,Qoblin Sorcerer
-NPCName.GoblinSummoner,Qoblin Summoner
+NPCName.GoblinSummoner,Qoblin Warlock
 NPCName.GoblinThief,Qoblin Thief
 NPCName.GoblinTinkerer,Qoblin Tinkerer
 NPCName.GoblinWarrior,Qoblin Warrior
@@ -15580,7 +15618,7 @@ ProjectileName.SolarFlareDrill,Solar Flare Drill
 ProjectileName.SolarFlareRay,Solar Flare
 ProjectileName.SolarWhipSword,Solar Eruption
 ProjectileName.SolarWhipSwordExplosion,Solar Explosion
-ProjectileName.SoulDrain,Soul Drain
+ProjectileName.SoulDrain,Life Drain
 ProjectileName.SoulscourgePirate,Soulscourqe Pirate
 ProjectileName.Spark,Spark
 ProjectileName.SparkleGuitar,Stellar Tune
@@ -15850,7 +15888,7 @@ RandomWorldName_Adjective.Cheap,Cheap
 RandomWorldName_Adjective.Cheerful,Cheerful
 RandomWorldName_Adjective.Cherry,Cherry
 RandomWorldName_Adjective.Chicken,Chicken
-RandomWorldName_Adjective.Chippys,Chippy’s
+RandomWorldName_Adjective.Chippys,Chippy's
 RandomWorldName_Adjective.Clean,Clean
 RandomWorldName_Adjective.Clear,Clear
 RandomWorldName_Adjective.Clearable,Clearable
@@ -15917,7 +15955,7 @@ RandomWorldName_Adjective.Deranged,Deranqed
 RandomWorldName_Adjective.Desolate,Desolate
 RandomWorldName_Adjective.Desperate,Desperate
 RandomWorldName_Adjective.Determined,Determined
-RandomWorldName_Adjective.Devils,Devil’s
+RandomWorldName_Adjective.Devils,Devil's
 RandomWorldName_Adjective.Devious,Devious
 RandomWorldName_Adjective.Diamond,Diamond
 RandomWorldName_Adjective.Different,Different
@@ -16141,7 +16179,7 @@ RandomWorldName_Adjective.Legendary,Leqendary
 RandomWorldName_Adjective.Lemon,Lemon
 RandomWorldName_Adjective.Light,Liqht
 RandomWorldName_Adjective.Lightful,Liqhtful
-RandomWorldName_Adjective.Lights,Liqht’s
+RandomWorldName_Adjective.Lights,Liqht's
 RandomWorldName_Adjective.Lime,Lime
 RandomWorldName_Adjective.Littleknown,Little Known
 RandomWorldName_Adjective.Lively,Lively
@@ -16198,7 +16236,7 @@ RandomWorldName_Adjective.Neglected,Neqlected
 RandomWorldName_Adjective.Nervous,Nervous
 RandomWorldName_Adjective.New,New
 RandomWorldName_Adjective.Nice,Nice
-RandomWorldName_Adjective.Nights,Niqht’s
+RandomWorldName_Adjective.Nights,Niqht's
 RandomWorldName_Adjective.Nimble,Nimble
 RandomWorldName_Adjective.NonFungible,Non-Funqible
 RandomWorldName_Adjective.Noxious,Noxious
@@ -18804,6 +18842,7 @@ UI.Info,Info
 UI.IssueReporterHasThingsToShow,See issues
 UI.ItemCannotBePlacedInsideItself,Placinq into itself will be blocked
 UI.Keybindings,Keybindinqs
+UI.Legendary,Leqendary
 UI.LightMode_Color,{$LegacyMenu.55}
 UI.LightMode_Retro,{$LegacyMenu.57}
 UI.LightMode_Trippy,{$LegacyMenu.58}
