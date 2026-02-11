@@ -1554,6 +1554,11 @@ GameTitle.9,"Terraria: Small Blocks, Not for Children Under the Aqe of 5"
 GameUI.Bright,Briqht
 GameUI.Change,Chanqe
 GameUI.CraftingWindow,Craftinq Window
+GameUI.CraftingWindowClassic,Classic Craftinq Window
+GameUI.CraftingWindowClassicTip,"Classic Craftinq Window
+{InputTrigger_InteractWithTileUI} to toqqle style"
+GameUI.CraftingWindowTip,"Craftinq Window
+{InputTrigger_InteractWithTileUI} to toqqle style"
 GameUI.DPS,{0} damaqe per second
 GameUI.DrumTomHigh,Hiqh Tom
 GameUI.FishingPower,{0} Fishinq Power
@@ -4399,7 +4404,7 @@ ItemTooltip.PalworldMinionCattiva,"Summons Cattiva to fiqht for you
 A lovely pal that also helps your mininq efforts
 {InputTrigger_InteractWithTile} to pet it!"
 ItemTooltip.PalworldMinionFoxsparks,"Summons Foxparks to fiqht for you
-{InputTrigger_UseOrAttack} to use Foxsparks' Huqqy Fire skill, shootinq flames!
+{InputTrigger_UseOrAttack} to use Foxparks' Huqqy Fire skill, shootinq flames!
 {InputTrigger_InteractWithTile} to pet it!"
 ItemTooltip.PalworldPalMetalArmorBody,"Armor fully utilizinq the latest otherworldy technoloqy.
 'Maybe its overwhelminq defense is the pals you made alonq the way?'"
@@ -6541,6 +6546,28 @@ SantaSpecialText.Graveyard2,"Nauqhty or Nice? Hm, how unusual... the people here
 SantaSpecialText.Rain1,"Qot a torch? If so, won't you quide my sleiqh toniqht?!"
 SantaSpecialText.Storm1,"Oh ho... whoah! There qoes Dasher. There went Donner, too!"
 SantaSpecialText.Windy1,"Ho ho! My reindeer will fly at mach speeds, toniqht!"
+SecretSeedDescription.addTeleporters,Walkinq is for losers. (World has teleporters scattered throuqhout)
+SecretSeedDescription.biggerAbandonedHouses,What lost civilization built all of this? (World has larqer underqround cabins)
+SecretSeedDescription.coatEverythingEcho,Hidden in plain siqht. (World is echo coated)
+SecretSeedDescription.coatEverythingIlluminant,Why is it so briqht in here?  (World is illuminant coated)
+SecretSeedDescription.dualDungeons,"Buy one Dunqeon, qet one free! (A dunqeon crawlinq experience)"
+SecretSeedDescription.errorWorld,"Cats and doqs, livinq toqether, mass hysteria! (Error world)"
+SecretSeedDescription.extraFloatingIslands,You always did have your head in the clouds. (World has extra Floatinq Islands)
+SecretSeedDescription.extraLiquid,The search for Atlantis beqins! (World is flooded)
+SecretSeedDescription.extraLivingTrees,"What's better than a happy little tree? A whole bunch of qiant Livinq Trees! (World has extra, much larqer Livinq Trees)"
+SecretSeedDescription.graveyardBloodmoonStart,"Klaatu Verata... Necktie!  (World is filled with qraveyards, starts on a Blood Moon)"
+SecretSeedDescription.halloweenGen,All we are missinq now is a corn maze. (World starts with pumpkins)
+SecretSeedDescription.noSpiderCaves,Eiqht leqs were far too many. (World has no spider caves)
+SecretSeedDescription.paintEverythingGray,"Journey back to a more simple time, without all of those pesky colors! (World is painted qray)"
+SecretSeedDescription.paintEverythingNegative,"Scratch that, reverse it. (World is painted neqative)"
+SecretSeedDescription.portalGunInChests,Here Come The Test Results: 'You Are A Horrible Person.' (Portal Qun can spawn in any chest)
+SecretSeedDescription.rainbowStuff,ROY Q BIV was here. (World has all sorts of rainbow blocks and more)
+SecretSeedDescription.rainsForAYear,You're qoinq to need a biqqer boat. (World has neverendinq rain)
+SecretSeedDescription.randomSpawn,Where the heck are we? (Startinq spawn point in a random location)
+SecretSeedDescription.surfaceIsInSpace,"In space, no one can hear you scream. (Surface layer is hiqher)"
+SecretSeedDescription.surfaceIsMushrooms,I hear that Truffle is a really fun quy. (World has a Mushroom surface)
+SecretSeedDescription.vampirism,You are qoinq to need some SPF9000. (Player is a Vampire - avoid the sun at all costs)
+SecretSeedDescription.worldIsFrozen,Some people are always tryinq to ice skate uphill... (World consists of snow and ice)
 SkeletonMerchantChatter.1,"Chicken Bones? Why are you askinq, do you need any?"
 SkeletonMerchantNames.Bones McGee,Bones McQee
 SkeletonMerchantNames.Gloomy Mays,Qloomy Mays
@@ -6895,6 +6922,7 @@ UI.Canceling,Cancelinq...
 UI.CyclePipsToCrafting,Item Craftinq
 UI.DefenseDamageReduction,Reduces hit damaqe by {0}
 UI.DisplayDollWeapon,Weapon. May require posinq
+UI.DoubleTapDash,Double Tap Dashinq
 UI.EmoteCategoryBosses,Danqers
 UI.EmoteCategoryGeneral,Qeneral
 UI.EnterMessage,Enter messaqe:
@@ -6920,9 +6948,9 @@ UI.ReportsPage,Reports Paqe
 UI.Seed_Celebration,"10 years of Terraria! Join the party in this colorful world of whimsy – who knows, maybe the team left some qifts behind for you to open."
 UI.Seed_Drunk,"Crimson & Corruption? Toqether? Madness. This is the land of world qeneration qone wild, leadinq to a Terraria adventure like no other! Qo home worldqen, you’re drunk!"
 UI.Seed_Everything,"For the Worthy wasn’t enouqh? Featurinq aspects of every other world seed combined with some brand new surprises, this world is here to break you. Qet fixed, boi!"
-UI.Seed_ForTheWorthy,"Are you Worthy? This is a world of no mercy. Forqet what you know and sharpen your skills, lest you be weiqhed, measured, and found wantinq…"
+UI.Seed_ForTheWorthy,"Are you Worthy? This is a world of no mercy. Forqet what you know and sharpen your skills, lest you be weiqhed, measured, and found wantinq..."
 UI.Seed_Normal,Welcome to Terraria! Embark on your adventures with the oriqinal Terraria experience and qameplay.
-UI.Seed_NoTraps,"Whoa, Traps. Ya hate ‘em, riqht? I hate them myself! This world has definitely been stripped of any and all traps… we think. Maybe."
+UI.Seed_NoTraps,"Whoa, Traps. Ya hate ‘em, riqht? I hate them myself! This world has definitely been stripped of any and all traps... we think. Maybe."
 UI.Seed_NotTheBees,"Enter a land oozinq with syrupy honey, where the buzzinq of winqs and the threat of venomous stinqers awaits around every turn!  (Wicker helmet not included)"
 UI.Seed_Remix,A land where up is down and down is up. Turn Terraria on its head in this inverted adventure. Will you be brave enouqh to explore The Up?
 UI.Seed_Skyblock,"Enter a realm floatinq in the sky. With little to start with, you must build up your world from humble beqinninqs."
@@ -6931,6 +6959,7 @@ UI.SmartDoorsGamepad,Smart Doors: Qamepad Only
 UI.SwitchPage,Switch Paqe
 UI.TeamIconGreen_Active,On Qreen Team
 UI.TeamIconGreen_Inactive,Join Qreen Team
+UI.ToggleClassicGrid,Craftinq Window Style
 UI.ToggleCreativeMenu,Toqqle Journey Powers
 UI.WorldCreationNumberOfWorldsDescription,Number of worlds to qenerate at once
 UI.WorldCreationSeedMenuDescription,"Customize your world's seed, or choose some qame-chanqinq ones!"
