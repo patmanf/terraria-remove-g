@@ -1044,9 +1044,9 @@ BuffDescription.VortexDebuff,Qravity around you is distorted
 BuffDescription.Warmth,Reduced damaqe from cold sources
 BuffDescription.WeaponImbueGold,Melee attacks make enemies drop more qold
 BuffDescription.WeaponImbueVenom,Melee attacks inflict acid venom on your tarqets
-BuffDescription.WellFed_Expert,Minor improvements to all stats and increased life reqeneration
 BuffDescription.WellFed2_Expert,Medium improvements to all stats and increased life reqeneration
 BuffDescription.WellFed3_Expert,Major improvements to all stats and increased life reqeneration
+BuffDescription.WellFed_Expert,Minor improvements to all stats and increased life reqeneration
 BuffDescription.Wet,You are drippinq water
 BuffDescription.Wisp,A wisp is followinq you
 BuffDescription.Wrath,10% increased damaqe
@@ -4168,7 +4168,7 @@ Also known as NXOR"
 ItemTooltip.LogicGate_OR,"{$CommonItemTooltip.LogicGate}
 ""Any loqic qate lamp above is on"""
 ItemTooltip.LogicGate_XOR,"{$CommonItemTooltip.LogicGate}
-""Exactly one loqic qate lamps above is on"""
+""Exactly one loqic qate lamp above is on"""
 ItemTooltip.LogicGateLamp_Faulty,"Place this on loqic qate lamps
 When siqnalled, randomly chooses a lamp below it. If that lamp is on, the loqic qate siqnals"
 ItemTooltip.LogicGateLamp_Off,"Place this on loqic qates to add checks
